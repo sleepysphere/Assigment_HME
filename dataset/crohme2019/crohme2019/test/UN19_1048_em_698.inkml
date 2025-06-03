@@ -1,0 +1,73 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">29</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1048</annotation>
+<annotation type="truth">$\sum_n n^{-1}$</annotation>
+<annotation type="UI">CROHME19_698</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<munder>
+				<mo xml:id="sum_1">sum</mo>
+				<mi xml:id="n_1">n</mi>
+			</munder>
+			<msup>
+				<mi xml:id="n_2">n</mi>
+				<mrow>
+					<mo xml:id="-_1">-</mo>
+					<mn xml:id="1_1">1</mn>
+				</mrow>
+			</msup>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+533 155, 525 153, 524 153, 522 153, 519 153, 517 153, 513 154, 510 154, 507 155, 504 156, 501 156, 497 157, 494 157, 491 158, 488 158, 486 159, 484 159, 482 160, 481 161, 480 161, 479 161, 478 162, 478 163, 478 164, 479 164, 479 165, 480 166, 480 167, 481 168, 482 170, 482 172, 483 173, 485 175, 486 176, 487 177, 489 179, 491 181, 493 183, 495 185, 497 187, 499 189, 501 192, 504 194, 506 195, 508 197, 510 198, 512 200, 514 201, 515 202, 517 203, 518 204, 518 205, 519 205, 519 206, 520 206, 520 207, 519 208, 518 208, 517 209, 515 210, 514 212, 512 213, 510 215, 508 217, 505 220, 503 222, 500 225, 497 227, 495 230, 493 232, 491 234, 489 236, 488 237, 487 239, 486 240, 486 241, 485 242, 486 243, 486 244, 487 245, 489 246, 491 247, 495 248, 499 249, 504 249, 510 249, 516 250, 523 250, 529 250, 535 250, 540 250, 545 251, 550 251, 554 251, 558 251, 561 251, 563 251, 566 251, 567 251, 569 251, 570 252
+</trace>
+<trace id="1">
+518 286, 517 294, 517 296, 517 297, 516 298, 516 299, 516 300, 515 300, 515 299, 515 297, 515 295, 516 293, 517 291, 518 289, 519 286, 521 284, 522 283, 523 281, 525 280, 526 280, 528 279, 529 279, 531 280, 532 280, 533 282, 535 284, 536 286, 537 289, 537 292, 538 296, 538 299, 538 302, 538 304, 539 307, 539 308, 540 309, 540 310
+</trace>
+<trace id="2">
+592 200, 593 205, 593 208, 593 211, 592 213, 592 215, 592 217, 591 219, 591 220, 591 221, 590 221, 589 220, 589 219, 589 217, 589 215, 589 213, 589 210, 590 207, 592 204, 593 201, 595 199, 597 196, 599 195, 601 194, 603 194, 605 194, 606 195, 608 196, 609 198, 611 200, 612 203, 614 205, 615 208, 616 210, 616 213, 617 214, 617 216, 618 217, 618 218, 618 219, 619 219
+</trace>
+<trace id="3">
+610 176, 617 176, 619 177, 620 177, 621 177, 622 177, 623 177
+</trace>
+<trace id="4">
+637 169, 638 160, 638 159, 639 157, 640 155, 640 154, 641 153, 641 152, 641 151, 642 151, 642 152, 642 153, 641 154, 641 156, 640 159, 640 162, 639 165, 639 168, 638 171, 639 174, 638 177, 638 180, 638 182, 638 185, 638 187, 638 189, 638 191, 639 193, 639 194, 639 195
+</trace>
+<traceGroup xml:id="5">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="6">
+		<annotation type="truth">\sum</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="sum_1"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">n</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="n_1"/>
+	</traceGroup>
+	<traceGroup xml:id="8">
+		<annotation type="truth">n</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="n_2"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="-_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">1</annotation>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="1_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

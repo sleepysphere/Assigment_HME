@@ -1,0 +1,59 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">41</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1015</annotation>
+<annotation type="truth">$b \neq c$</annotation>
+<annotation type="UI">CROHME19_207</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="b_1">b</mi>
+			<mrow>
+				<mo xml:id="\neq_1">\neq</mo>
+				<mi xml:id="c_1">c</mi>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+469 175, 467 199, 466 205, 465 212, 464 219, 464 225, 463 229, 463 233, 462 236, 462 239, 462 240, 462 241, 462 242, 462 241, 463 240, 464 238, 465 237, 467 235, 470 234, 474 233, 476 233, 480 234, 483 235, 486 236, 488 237, 490 239, 492 241, 493 243, 493 245, 492 246, 491 248, 489 250, 487 252, 485 254, 483 256, 481 257, 477 257, 474 258, 471 258, 468 257, 467 257
+</trace>
+<trace id="1">
+532 240, 534 242, 537 242, 539 242, 542 243, 545 243, 549 243, 552 244, 556 244, 559 244, 562 243, 565 243, 568 243, 571 243, 572 243, 574 242, 575 242, 575 243, 575 242
+</trace>
+<trace id="2">
+538 228, 555 226, 558 227, 561 227, 564 227, 567 228, 568 228
+</trace>
+<trace id="3">
+586 198, 573 213, 570 219, 566 225, 563 232, 558 238, 554 245, 550 251, 546 257, 542 262, 539 266, 535 270, 534 271
+</trace>
+<trace id="4">
+645 224, 629 228, 625 230, 623 232, 621 234, 619 236, 618 238, 618 240, 618 242, 619 244, 621 245, 623 247, 626 248, 630 248, 631 248
+</trace>
+<traceGroup xml:id="5">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="6">
+		<annotation type="truth">b</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="b_1"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">\neq</annotation>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="\neq_1"/>
+	</traceGroup>
+	<traceGroup xml:id="8">
+		<annotation type="truth">c</annotation>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="c_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

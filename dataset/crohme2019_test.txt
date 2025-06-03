@@ -1,0 +1,1199 @@
+crohme2019/test/UN19_1032_em_455.inkml	4 Right n Right - Right 4 Right ) NoRel ( NoRel - NoRel 2 Right n Right - Right 1 Right ) NoRel ( NoRel = Right 2 Right n Right - Right 3
+crohme2019/test/UN19_1044_em_632.inkml	\phi Sub 0 NoRel = Right d Right x Sup 1 Right 3 Right 6 NoRel + Right d Right x Sup 2 Right 3 Right 5 NoRel + Right d Right x Sup 1 Right 4 Right 5 NoRel - Right d Right x Sup 2 Right 4 Right 6 NoRel - Right d Right x Sup 1 Right 2 Right 7 NoRel - Right d Right x Sup 3 Right 4 Right 7 NoRel - Right d Right x Sup 5 Right 6 Right 7
+crohme2019/test/UN19wb_1111_em_1039.inkml	9 Right \times Right 9 Right + Right 1 Right 3 Right \times Right 1 Right 3 Right - Right ( Right 3 Right + Right 3 Right + Right 1 Right ) Right = Right 2 Right 4 Right 3
+crohme2019/test/UN19_1028_em_394.inkml	\tan Right \alpha Right \tan Right \theta Sup \prime NoRel = Right - Right 1
+crohme2019/test/UN19_1005_em_64.inkml	a Right = NoRel 1 NoRel - Below \sqrt Inside 2 NoRel ( Right A Right + Right B Right ) Right b Right = NoRel 1 NoRel - Below \sqrt Inside 2 NoRel ( Right A Right - Right B Right )
+crohme2019/test/UN19_1041_em_597.inkml	- Right \sqrt Inside 2
+crohme2019/test/UN19_1019_em_256.inkml	a Right n Right y
+crohme2019/test/UN19_1033_em_474.inkml	V Sub n Right - Right 1 NoRel = Right \int Right d Sup n Right - Right 1 NoRel x Right \sqrt Inside h
+crohme2019/test/UN19_1004_em_59.inkml	b Right = NoRel 2 Right \sqrt Inside 3 NoRel - Below 5 NoRel \sqrt
+crohme2019/test/UN19wb_1105_em_952.inkml	x Right y Right t
+crohme2019/test/UN19_1047_em_683.inkml	\int Right d Sup 2 NoRel x Right F
+crohme2019/test/UN19_1016_em_212.inkml	\sum Below i Right = Right 2 NoRel i Right = NoRel n NoRel n Sup 2 NoRel + Right n Right - Right 2 NoRel - Below 2
+crohme2019/test/UN19wb_1113_em_1068.inkml	f Sup - Right 1 NoRel f Right = Right f Right f Sup - Right 1 NoRel = Right 1
+crohme2019/test/UN19_1042_em_607.inkml	\sum Below a Right = Right 2 NoRel 5 NoRel ( Right d Right x Sup a NoRel ) Sup 2
+crohme2019/test/UN19_1026_em_362.inkml	\lim Right u Right ( Right y Right ) Right = Right s NoRel y Right \rightarrow Right \infty
+crohme2019/test/UN19_1019_em_259.inkml	\int Right d Sup d NoRel x Right \sqrt Inside g
+crohme2019/test/UN19_1006_em_82.inkml	\alpha Right N Sub f NoRel = Right \alpha Right ( Right \sum Above 9 NoRel I Right = Right 1 NoRel v Sub I NoRel \gamma Sub I NoRel + Right \sum Above 3 NoRel i Right = Right 1 NoRel i Right \mu Right x Sup i NoRel - Below 4 NoRel \{ Right \gamma Sub i NoRel COMMA Right \gamma Sub 1 Right 2 Right 3 NoRel \} Right ) Right + Right \alpha Sup 2 NoRel \mu Sup 2 NoRel / Right 4 Sup 2
+crohme2019/test/UN19_1030_em_426.inkml	\sin Right ( Right \pi Right x Right )
+crohme2019/test/UN19_1011_em_159.inkml	\int Right d Right B
+crohme2019/test/ISICal19_1210_em_874.inkml	x Right + Right a
+crohme2019/test/UN19_1024_em_339.inkml	v Sup i NoRel = Right v Sup ( Right i Right ) NoRel + Right i Right v Sup ( Right i Right + Right 1 Right )
+crohme2019/test/UN19_1012_em_165.inkml	- Right - Above 1 Right 1 Right - Right z Right + Right 5 Right z Sup 2 NoRel + Right z Sup 3 NoRel 1 Right 6
+crohme2019/test/UN19_1008_em_117.inkml	T Sup a Right a NoRel = Right T Sup x Right x NoRel + Right T Sup y Right y
+crohme2019/test/UN19wb_1102_em_902.inkml	z Right = Right x Sup 8 NoRel + Right i Right x Sup 9
+crohme2019/test/UN19_1023_em_324.inkml	\beta Right = Right \sqrt Inside 2 Right a Right b
+crohme2019/test/UN19_1025_em_351.inkml	1 NoRel - Below \sqrt Inside 2
+crohme2019/test/UN19_1049_em_709.inkml	\sum Below n Right = Right 0 NoRel \infty NoRel ( Right - Right 1 Right ) Sup n NoRel = NoRel 1 NoRel - Below 1 Right - Right ( NoRel 1 Right ) NoRel = NoRel 1 NoRel - Below 2 NoRel -
+crohme2019/test/UN19_1024_em_343.inkml	5 NoRel - Below 3
+crohme2019/test/UN19_1018_em_252.inkml	\sin Sup 2 NoRel x Right = NoRel 1 NoRel - Below 2 NoRel ( Right 1 Right - Right \cos Right ( Right 2 Right x Right ) Right )
+crohme2019/test/ISICal19_1202_em_771.inkml	C Right \leq Right 7 Right \times Right 1 Right 0 Sup - Right 7
+crohme2019/test/UN19_1042_em_610.inkml	2 Right 4 Right - Right 4 Right - Right 2 Right ( Right 3 Right + Right 3 Right + Right 2 Right ) Right = Right 4
+crohme2019/test/ISICal19_1205_em_814.inkml	\sin Sup 2 NoRel F
+crohme2019/test/UN19_1004_em_58.inkml	z Right = NoRel 1 NoRel - NoRel 2 NoRel \sqrt NoRel x Sup 1 NoRel ( NoRel + Right i Right x Sup 2 NoRel )
+crohme2019/test/UN19_1051_em_736.inkml	| Right \sin Right \Delta Right | NoRel - Below \sin Right \Delta
+crohme2019/test/UN19_1041_em_586.inkml	x Sup i NoRel n NoRel - Below y Sup b NoRel n
+crohme2019/test/UN19_1035_em_499.inkml	8 Right + NoRel 8 Right \times Right 7 NoRel - Below 2 NoRel = Right 3 Right 6
+crohme2019/test/UN19_1041_em_590.inkml	b Right \neq Right h
+crohme2019/test/ISICal19_1207_em_845.inkml	\sin Right \theta Right = NoRel 1 Right 1 Right 9 NoRel - Below 1 Right 2 Right 0
+crohme2019/test/UN19_1026_em_368.inkml	a Right = Right c Right b Sup - Right 1 NoRel - Right b Right a Right b Sup - Right 1
+crohme2019/test/UN19_1031_em_435.inkml	\cos Sup 2 NoRel \alpha
+crohme2019/test/UN19_1009_em_126.inkml	\tan Right ( Right x Right ) Right \lt Right \alpha
+crohme2019/test/UN19_1034_em_494.inkml	\lim Below r Right \rightarrow Right \infty NoRel w Right ( Right r Right ) Right = Right 0
+crohme2019/test/UN19wb_1120_em_1184.inkml	P Right = Right \int Right d Right z Right \sqrt Inside G Sub i Right j NoRel d Right \phi Sup i NoRel / Right d Right z Right d Right \phi Sup j NoRel / Right d Right z
+crohme2019/test/UN19_1031_em_438.inkml	g Right = Right q Right \tan Right \theta
+crohme2019/test/ISICal19_1211_em_887.inkml	c Right \rightarrow Right \alpha Right c
+crohme2019/test/UN19_1031_em_445.inkml	u Sub 1 NoRel = Right \{ Right x Right \} Right \{ Right y Right \} Right \{ Right z Right \}
+crohme2019/test/UN19_1032_em_461.inkml	a Right = Right x Right + Right i Right y
+crohme2019/test/UN19_1021_em_285.inkml	\infty NoRel \sum Below n Right = Right 0 NoRel ( Right - Right 1 Right ) Sup n NoRel = NoRel 1 NoRel - Below 2
+crohme2019/test/UN19wb_1103_em_915.inkml	( NoRel B NoRel - Below A Right + Right 1 NoRel ) NoRel 1 NoRel - Below n Right + Right 1
+crohme2019/test/UN19wb_1103_em_920.inkml	t Right = Right p Right \tan Right \theta
+crohme2019/test/UN19_1040_em_579.inkml	1 Right + Right \sqrt Inside 1 Right + Right m Sup 2 NoRel + Right q Sup 2
+crohme2019/test/UN19_1027_em_386.inkml	1 NoRel - Below \sqrt Inside 3
+crohme2019/test/UN19_1044_em_644.inkml	2 Sup 2 Right 2
+crohme2019/test/UN19_1008_em_115.inkml	x Right u Right = Right v Right x Right = Right x Right p Sup - Right 1 NoRel x
+crohme2019/test/UN19_1002_em_28.inkml	x Right y Right = Right ( Right - Right 1 Right ) Sup | Right x Right | Right | Right y Right | NoRel y Right x
+crohme2019/test/UN19wb_1106_em_966.inkml	3 Right n Right - Right 3 Right + Right 1
+crohme2019/test/UN19wb_1109_em_1016.inkml	n Right + Right n
+crohme2019/test/UN19_1022_em_300.inkml	1 NoRel - Below a
+crohme2019/test/UN19_1050_em_720.inkml	f Right ( Right x Right ) Right = Right \alpha Sub a Right b NoRel x Sup a NoRel x Sup b
+crohme2019/test/UN19_1034_em_485.inkml	1 Right + Right 7 Right + Right 1 Right 1
+crohme2019/test/UN19_1036_em_514.inkml	1 NoRel - Below \sqrt Inside N
+crohme2019/test/UN19_1036_em_511.inkml	y Sup 2 NoRel i NoRel = Right x Sub i NoRel ( Right x Sub i NoRel - Right 1 Right ) Right ( Right x Sub i NoRel - Right a Sub i NoRel )
+crohme2019/test/UN19wb_1105_em_945.inkml	\cos Right ( Right X Sup m NoRel )
+crohme2019/test/UN19wb_1119_em_1164.inkml	r Right = Right \sqrt Inside ( Right x Right - Right x Sub 0 NoRel ) Sup 2 NoRel + Right ( Right y Right - Right y Sub 0 NoRel ) Sup 2
+crohme2019/test/UN19_1037_em_538.inkml	3 NoRel - Below 5
+crohme2019/test/UN19wb_1113_em_1071.inkml	- Above \sqrt Inside 1 Right - Right \beta Sup 2 NoRel 2 Right \beta
+crohme2019/test/UN19_1003_em_34.inkml	y Sub 1 NoRel ( Right x Right ) Right \log Right x
+crohme2019/test/UN19wb_1102_em_912.inkml	\sum Right ( Right - Right 1 Right ) Sup n NoRel x Sub 2 Right n
+crohme2019/test/UN19wb_1108_em_995.inkml	i Right u Right \sin Right x
+crohme2019/test/UN19_1022_em_307.inkml	2 Right m
+crohme2019/test/UN19_1036_em_520.inkml	h Right \geq Right 3 Right \times Right 2 Right + Right 1 Right = Right 7
+crohme2019/test/UN19_1019_em_262.inkml	x Sub n Right e Right w NoRel = Right c NoRel 1 NoRel - Below 2 NoRel x
+crohme2019/test/UN19_1017_em_233.inkml	c Right - Right a Right - Right b Right = NoRel d Right - Right 1 NoRel - Below 2 NoRel - Right 2 Right \beta
+crohme2019/test/UN19_1020_em_277.inkml	r Right = Right \sqrt Inside x Sup m NoRel x Sup m
+crohme2019/test/UN19_1027_em_383.inkml	v Right = Right - Above x Sup 0 NoRel - Right x Sup 9 NoRel 2
+crohme2019/test/UN19_1005_em_74.inkml	\sum Right q Sub i NoRel = Right - NoRel 1 NoRel - Below 4
+crohme2019/test/UN19wb_1119_em_1163.inkml	\lambda Right B Sub 1 Right 2 NoRel = Right \tan Right \alpha
+crohme2019/test/UN19_1050_em_733.inkml	a Right \neq Right - Right b
+crohme2019/test/UN19_1009_em_134.inkml	\sum Below x NoRel d Sub x NoRel = Right 7 Right 2 Right 0
+crohme2019/test/UN19_1001_em_2.inkml	x Sup b NoRel - Right y Sup b
+crohme2019/test/UN19_1039_em_569.inkml	x Right = Right \tan Sup 2 NoRel \phi
+crohme2019/test/UN19wb_1103_em_916.inkml	2 Right \pi Right \sin Right \alpha
+crohme2019/test/UN19_1019_em_255.inkml	1 NoRel - Below m Sub p NoRel = Right \lim Below p Right \rightarrow Right 0 NoRel 1 NoRel - Below p NoRel d Right p Sub 0 NoRel - Below d Right p
+crohme2019/test/UN19_1010_em_135.inkml	b Sub i NoRel = Right \sin Sup 2 NoRel x Sub i
+crohme2019/test/UN19_1027_em_376.inkml	a Sup 2 NoRel \pi Sup - Right 2 NoRel \beta Sup 2 NoRel + Right b Sup 2 NoRel \pi Sup 2 NoRel \beta Sup - Right 2
+crohme2019/test/UN19_1002_em_15.inkml	x Sup a NoRel x Sup b
+crohme2019/test/UN19_1038_em_540.inkml	\sum Below n NoRel s Sub n
+crohme2019/test/UN19_1023_em_327.inkml	6 Right x Right \neq Right y
+crohme2019/test/UN19_1037_em_527.inkml	1 NoRel - Below k Sup 2 NoRel ( Right k Right + Right 1 Right ) NoRel = NoRel 1 NoRel - Below k Sup 2 NoRel - NoRel 1 NoRel - Below k Sup 2 NoRel - NoRel 1 NoRel - Below k NoRel + NoRel 1 NoRel - Below k Right + Right 1
+crohme2019/test/UN19wb_1108_em_1000.inkml	\pm Right \sqrt Inside p
+crohme2019/test/UN19wb_1105_em_957.inkml	( Right a Right + Right b Right + Right \ldots Right + Right c Right ) Sup 2 NoRel \geq Right a Sup 2 NoRel + Right b Sup 2 NoRel + Right \ldots Right + Right c Sup 2
+crohme2019/test/UN19_1022_em_303.inkml	1 Right 7 Right 9 NoRel - Below 4 Right 8
+crohme2019/test/UN19_1044_em_637.inkml	- Below 5 NoRel 4
+crohme2019/test/UN19wb_1117_em_1137.inkml	- Above i NoRel k Right + Right i NoRel = Right 1 Right - NoRel k NoRel - Below k Right + Right i
+crohme2019/test/ISICal19_1209_em_866.inkml	\sin Right \theta Sub 1 NoRel \sin Right \theta Sub 2 NoRel \sin Right \theta Sub 3 NoRel \sin Right \theta Sub 4
+crohme2019/test/UN19_1030_em_427.inkml	c Sup 2 NoRel s NoRel \geq Right [ Right 1 Right + Right 2 Right ( Right n Right - Right 1 Right ) Right ] Sup - Right 1
+crohme2019/test/UN19_1041_em_589.inkml	n Right ( Right n Right - Right 1 Right ) Right ( Right 4 Right n Right - Right 5 Right ) NoRel - Below 3
+crohme2019/test/UN19_1003_em_37.inkml	X Sub x Right y Right x Right y
+crohme2019/test/UN19_1049_em_714.inkml	w Right ( Right z Right ) Right = Right \sum Below n Right \geq Right 0 NoRel a Sub n NoRel z Sup 1 Right - Right n
+crohme2019/test/UN19_1019_em_261.inkml	f Right ( Right u Right ) Right = Right \cos Right ( Right u Right )
+crohme2019/test/UN19_1032_em_458.inkml	\sqrt Inside \cos NoRel x Right ) NoRel ( NoRel c
+crohme2019/test/UN19wb_1118_em_1142.inkml	a Right = Right 3 Right ( Right \sqrt Inside 1 Right 0 NoRel - Right 4 Right ) Right \sqrt Inside 1 Right 0 NoRel / Right ( Right 5 Right - Right 4 Right \sqrt Inside 1 Right 0 NoRel )
+crohme2019/test/UN19_1035_em_500.inkml	2 Right f Right ( Right x Right ) Right = Right - Right 4 Right ( Right \gamma Right + Right \log Right 4 Right ) Right + Right b Right + NoRel 4 Right B Right \pi Sup 2 NoRel \sqrt Inside 1 Right - Right x NoRel - Below \sqrt Inside 1 Right + Right 3 Right x
+crohme2019/test/ISICal19_1207_em_840.inkml	\sqrt Inside - Right M
+crohme2019/test/UN19wb_1117_em_1139.inkml	1 Right COMMA Right ( NoRel 1 Right - Right q Sup 2 NoRel \sqrt Inside x NoRel - Below q Sup 2 NoRel - Right \sqrt Inside x NoRel ) Right COMMA Right ( NoRel 1 Right + Right q Sup 2 NoRel \sqrt Inside x NoRel - Below q Sup 2 NoRel + Right \sqrt Inside x NoRel )
+crohme2019/test/UN19_1007_em_101.inkml	x Sub 1 Right 2 NoRel + Right x Sub 2 Right 3 NoRel + Right x Sub 3 Right 1 NoRel = Right 0
+crohme2019/test/UN19wb_1112_em_1056.inkml	- Right b Right j Sub 2 NoRel = Right b Right + NoRel 1 NoRel - Below 2 Right b
+crohme2019/test/ISICal19_1210_em_870.inkml	\sqrt Inside 1 Right - Right x NoRel = Right \sum Below n Right = Right 0 NoRel \infty NoRel \alpha Sub n NoRel x Sup n
+crohme2019/test/UN19_1034_em_490.inkml	z Sup a NoRel = Right x Sup 2 Right a Right - Right 1 NoRel + Right i Right x Sup 2 Right a
+crohme2019/test/UN19wb_1115_em_1103.inkml	+ Right 1 NoRel - Below \sqrt Inside 2
+crohme2019/test/UN19_1037_em_530.inkml	- Right 2 Right \log Right ( Right \cos Right ( NoRel 1 NoRel - Below 2 NoRel m Right z Right ) Right )
+crohme2019/test/ISICal19_1207_em_850.inkml	1 NoRel - Below 2 NoRel ( Right r Right - Right 1 Right ) Right ( Right r Right + Right 1 Right ) Right ( Right r Right + Right 2 Right )
+crohme2019/test/UN19_1013_em_184.inkml	t Right r
+crohme2019/test/UN19wb_1105_em_947.inkml	\int Right d Right t
+crohme2019/test/ISICal19_1206_em_835.inkml	4 Right \times Right 9
+crohme2019/test/UN19_1046_em_674.inkml	E Right x Right p
+crohme2019/test/UN19_1031_em_444.inkml	x Right = NoRel 2 Right \pi NoRel - Below \sqrt Inside 2 NoRel ( Right n Right + NoRel 1 NoRel - Below 2 NoRel )
+crohme2019/test/UN19_1027_em_378.inkml	\lim Right t Sub k NoRel \lt Right \infty NoRel k Right \rightarrow Right \infty
+crohme2019/test/UN19wb_1111_em_1049.inkml	f Sup a Right b NoRel = Right d Right a Sup a Right b NoRel + Right a Sup a Right c NoRel a Sup c Right b
+crohme2019/test/ISICal19_1210_em_881.inkml	a Right = Right \sqrt NoRel \beta NoRel - Below \alpha
+crohme2019/test/UN19_1044_em_630.inkml	y Right \leq Right x
+crohme2019/test/UN19_1044_em_634.inkml	\log Right ( Right 1 Right - Right x Right )
+crohme2019/test/UN19wb_1107_em_976.inkml	p Right = Right x Right \sin Right \theta
+crohme2019/test/ISICal19_1206_em_834.inkml	x Sup c NoRel = Right x Sup c NoRel ( Right 0 Right ) NoRel + Right y Sup c
+crohme2019/test/UN19wb_1112_em_1051.inkml	1 NoRel - Below 8 NoRel ( Right n Sup 2 NoRel + Right 5 Right n Right + Right 8 Right )
+crohme2019/test/UN19_1042_em_609.inkml	\int Right C Sup ( Right p Right + Right 1 Right )
+crohme2019/test/UN19_1023_em_316.inkml	\sum Right x Sup 2 NoRel a NoRel a
+crohme2019/test/UN19_1036_em_523.inkml	z Right ( Right t Right ) Right = Right x Right ( NoRel ) NoRel t NoRel + Right i Right y Right ( Right t Right )
+crohme2019/test/UN19_1008_em_106.inkml	\sqrt Inside n Right a
+crohme2019/test/UN19_1007_em_91.inkml	( NoRel 1 NoRel - Below 3 NoRel + NoRel 5 NoRel - Below 2 Right \pi Sup 2 NoRel n Sup 2 NoRel )
+crohme2019/test/UN19_1042_em_605.inkml	F Right [ Right f Right ] Right = Right \lim Below a Right \rightarrow Right 0 NoRel F Sub a NoRel [ Right f Right ]
+crohme2019/test/UN19_1004_em_57.inkml	P Sub m Right a Right x NoRel = NoRel 8 Right \sqrt Inside 3 NoRel - Below 1 Right 5 NoRel = Right 0 Right COMMA Right 9 Right 2 Right 4
+crohme2019/test/UN19_1003_em_40.inkml	- NoRel 1 NoRel - Below 2 NoRel x Sup 2 NoRel \log Right ( Right x Right )
+crohme2019/test/UN19wb_1104_em_937.inkml	s Sub b NoRel C Right = Right - Above 1 NoRel 2 NoRel C Right \times Right C
+crohme2019/test/UN19_1018_em_242.inkml	a Sub 1 NoRel + Right a Sub 2 NoRel = Right a Sub 3 NoRel + Right a Sub 4 NoRel + Right a Sub 5 NoRel + Right a Sub 6
+crohme2019/test/UN19_1034_em_484.inkml	1 NoRel - Below 2 Right ! Right 2 Right !
+crohme2019/test/UN19_1044_em_635.inkml	( NoRel B NoRel - Below A Right + Right 1 NoRel ) Sup - Below n Right + Right 1 NoRel 1
+crohme2019/test/UN19_1029_em_418.inkml	k Right - Right 1 NoRel - Below 2 NoRel - NoRel \lt Right - NoRel q NoRel - Below 2 NoRel \lt Right - NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1028_em_398.inkml	x Sub 1 NoRel + Right i Right x Sub 2 NoRel = Right ( Right x Sub 1 NoRel + Right i Right x Sub 2 NoRel ) Right + Right 1
+crohme2019/test/UN19_1003_em_38.inkml	g Sup a Right b NoRel = Right h Sup a Right b NoRel - Right n Sup a NoRel n Sup b
+crohme2019/test/UN19_1019_em_267.inkml	6 NoRel - Below \sqrt Inside 3 Right 6 Right 0
+crohme2019/test/UN19wb_1117_em_1128.inkml	u NoRel | NoRel | Right \lt NoRel 1 NoRel - Below a NoRel \tan Right ( Right - Above a NoRel \sqrt Inside 1 Right + Right a Sup 2 NoRel - Above \pi NoRel 2 NoRel )
+crohme2019/test/UN19_1012_em_179.inkml	a Right = Right 3 Right ( Right 4 Right + Right \sqrt Inside 1 Right 0 NoRel ) Right \sqrt Inside 1 Right 0 NoRel / NoRel 5 Right + NoRel ( NoRel 1 Right 4 Right \sqrt Inside 1 Right 0 NoRel )
+crohme2019/test/UN19_1038_em_550.inkml	1 Right + Right t NoRel \sqrt
+crohme2019/test/UN19_1028_em_390.inkml	d Right y Right y
+crohme2019/test/UN19_1034_em_483.inkml	\tan Right \theta Right = Right E Right / Right \sqrt Inside 1 Right - Right E Sup 2
+crohme2019/test/UN19_1033_em_466.inkml	2 Right \pi Right ( Right \sin Right \theta Sub 1 NoRel + Right \sin Right \theta Sub 2 NoRel )
+crohme2019/test/UN19_1011_em_155.inkml	\int Right d Sup 4 NoRel x Right ( Right 1 Right + Right a Sup 4 NoRel )
+crohme2019/test/UN19_1051_em_744.inkml	r Right \cos Right \theta Right - Right r Sub 1 NoRel \cos Right \theta Sub 1 NoRel = Right l Right = Right r Sub 2 NoRel \cos Right \theta Sub 2 NoRel - Right r Right \cos Right \theta
+crohme2019/test/ISICal19_1211_em_891.inkml	a Right [ Right 1 Right ] Right = Right a Sub 1 NoRel + NoRel 3 NoRel - Below 2 NoRel a Sub 2 NoRel + Right 2 Right a Sub 3 NoRel + Right a Sub 4 NoRel + NoRel 1 Right 1 NoRel - Below 2
+crohme2019/test/UN19_1012_em_175.inkml	3 Right 0 Right \div Right 2 Right 0
+crohme2019/test/UN19wb_1121_em_1197.inkml	\tan Right ( Right 2 Right a Right ) Right = Right ( Right f Sub x Right y NoRel / Right f Sub x Right x NoRel )
+crohme2019/test/UN19_1018_em_251.inkml	y Right = Right \tan Right ( Right \theta Right / Right 3 Right )
+crohme2019/test/UN19_1051_em_739.inkml	c Right \leq NoRel 1 NoRel - Below 4 Right a
+crohme2019/test/UN19wb_1108_em_991.inkml	X Right = Right 0 Right . Right 1 Right COMMA Right 0 Right . Right 2 Right \ldots
+crohme2019/test/UN19_1009_em_131.inkml	1 Right + Right 1 Right 0 Right + Right 1 Right 1 Right + Right 1 Right 5 Right = Right 3 Right 7
+crohme2019/test/UN19wb_1114_em_1088.inkml	y Right = Right y Sub b NoRel - Right y Sub a
+crohme2019/test/UN19_1042_em_614.inkml	f Right ( Right t Right ) Right = Right \sum Below n Right = Right 1 NoRel \infty NoRel a Sub n NoRel t Sup n
+crohme2019/test/UN19_1042_em_601.inkml	x Right + Right i Right y
+crohme2019/test/ISICal19_1204_em_796.inkml	F Sup 2 NoRel [ Right p Right + Right 2 Right ] NoRel = Right F Sub [ Right p Right + Right 2 Right ] Right \alpha Sub 1 NoRel \ldots Right \alpha Sub p Right + Right 2 NoRel F Sup \alpha Sub 1 NoRel \ldots Right \alpha Sub p Right + Right 2 NoRel [ Right p Right + Right 2 Right ]
+crohme2019/test/UN19_1020_em_273.inkml	3 Right \times Right 3 Right + Right r Right - Right 3
+crohme2019/test/UN19_1043_em_615.inkml	P Sub 2 NoRel ( Right x Right ) Right = Right ( Right x Right - Right a Right ) Right ( Right x Right - Right b Right )
+crohme2019/test/UN19_1037_em_537.inkml	\int Right c Sub 2
+crohme2019/test/UN19_1008_em_110.inkml	\lim Right y
+crohme2019/test/UN19_1020_em_283.inkml	6 NoRel - Below 7
+crohme2019/test/UN19_1027_em_379.inkml	\lim Right \sqrt Inside x
+crohme2019/test/ISICal19_1204_em_799.inkml	3 Right \times Right n
+crohme2019/test/UN19_1011_em_151.inkml	a Right [ Right 3 Right ] Right = NoRel 1 NoRel - Below 2 NoRel a Sub 2 NoRel + Right a Sub 3 NoRel + NoRel 3 NoRel - Below 2
+crohme2019/test/UN19_1035_em_495.inkml	a Right x Right - Right b Right \log Right ( Right x Right ) Right \geq Right b Right ( Right 1 Right - Right \log NoRel b NoRel - Below a NoRel )
+crohme2019/test/UN19_1048_em_702.inkml	x Sup n Right - Right 1 NoRel + Right x Right y Sup 2 NoRel + Right z Sup 2
+crohme2019/test/UN19_1039_em_556.inkml	n NoRel ( NoRel + Right 4 Right ) Right \times Right ( Right n Right + Right 4 Right )
+crohme2019/test/UN19_1011_em_153.inkml	\sqrt Inside q NoRel = Right 2 Right \cos NoRel \pi NoRel - Below ( Right p Right + Right 1 Right )
+crohme2019/test/UN19_1008_em_119.inkml	v Sub 2 Right n Right - Right 1 NoRel ( Right 0 Right ) Right = NoRel 1 NoRel - Below \sqrt Inside \pi NoRel ( Right - Right 1 Right ) Sup n Right + Right 1 NoRel - Below \sqrt Inside 2 Right n Right - Right 1
+crohme2019/test/UN19_1035_em_498.inkml	d Sup 2 NoRel x Right \sqrt Inside h Right ( Right x Right )
+crohme2019/test/UN19_1008_em_118.inkml	\tan Right ( Right \theta Right ) Right = Right 1
+crohme2019/test/UN19_1046_em_670.inkml	x Right \geq Right 0
+crohme2019/test/ISICal19_1203_em_793.inkml	A Sub o Right o
+crohme2019/test/UN19_1037_em_531.inkml	h Right = Right \tan Right \phi
+crohme2019/test/UN19wb_1108_em_998.inkml	y Right = Right x Sub 8 NoRel + Right i Right x Sub 9
+crohme2019/test/UN19_1031_em_442.inkml	( Right + NoRel 1 NoRel - Below 2 NoRel COMMA Right + NoRel 1 NoRel - Below 2 NoRel COMMA Right - NoRel 1 NoRel - Below 2 NoRel COMMA Right + NoRel 1 NoRel - Below 2 NoRel COMMA Right + NoRel 1 NoRel - Below 2 NoRel )
+crohme2019/test/UN19_1011_em_160.inkml	k Sub a NoRel \neq Right k Sub b NoRel \neq Right k Sub c
+crohme2019/test/UN19_1028_em_391.inkml	8 Right 9 Right 9 NoRel - Below 5 Right 2 Right 8
+crohme2019/test/UN19_1024_em_340.inkml	- Above n NoRel 2 NoRel + Right - Above m NoRel 2 NoRel b Sup - Right 2
+crohme2019/test/UN19_1049_em_718.inkml	\forall Right m Right COMMA Right n Right \geq Right 1
+crohme2019/test/UN19_1024_em_333.inkml	\lim Below k Right \rightarrow Right 0 NoRel k Sup 2 NoRel G Right ( Right k Right ) Right = Right \infty
+crohme2019/test/UN19wb_1113_em_1066.inkml	\cos Right \alpha Right = Right 1
+crohme2019/test/UN19_1018_em_245.inkml	v Sup a NoRel v Sup b
+crohme2019/test/ISICal19_1204_em_801.inkml	\int Above \pi NoRel 0 NoRel d Right \theta NoRel - Below a Right + Right b Right \cos Right \theta NoRel = NoRel \pi NoRel - Below \sqrt Inside a Sup 2 NoRel - Right b Sup 2
+crohme2019/test/UN19wb_1119_em_1162.inkml	( Right y Right + Right 1 Right ) Right ( Right c Right y Sup 2 NoRel + Right 1 Right ) Right ( Right c Right y Sup 3 NoRel + Right 3 Right c Right y Sup 2 NoRel - Right 2 Right y Right - Right 3 Right ) Right = Right 0
+crohme2019/test/UN19wb_1115_em_1108.inkml	3 Right l Right - Right ( Right e Sub 1 NoRel + Right e Sub 3 NoRel + Right e Sub 5 NoRel + Right 2 Right e Sub 7 NoRel + Right e Sub 8 NoRel )
+crohme2019/test/UN19_1051_em_740.inkml	v Right \neq Right w
+crohme2019/test/UN19_1013_em_190.inkml	u Sub i NoRel = Right f Sup 2 NoRel i NoRel \tan Right \theta
+crohme2019/test/UN19wb_1117_em_1133.inkml	( Right n Right + Right 1 Right ) Right \times Right ( Right n Right + Right 1 Right ) Right \times Right \ldots Right \times Right ( Right n Right + Right 1 Right )
+crohme2019/test/UN19_1038_em_545.inkml	- NoRel 3 Right + Right z Sup 2 NoRel - Below 8 NoRel - NoRel 3 Right + Right z Sup 2 NoRel ) Sup 2 NoRel ( NoRel - Below 3 Right 2
+crohme2019/test/UN19_1045_em_654.inkml	1 NoRel - Below 3 Right ! Right 1 Right !
+crohme2019/test/ISICal19_1206_em_838.inkml	c Right = NoRel 3 NoRel - Below 2 NoRel \sum Right x Sub i
+crohme2019/test/UN19_1016_em_221.inkml	y Sub m Right i Right n NoRel = NoRel \alpha NoRel - Below 2 Right m Sup 2 NoRel + Right \sqrt NoRel \alpha Sup 2 NoRel + Right 4 Right m Sup 2 NoRel \beta NoRel 4 Right m Sup 2 NoRel -
+crohme2019/test/UN19_1035_em_504.inkml	\tan Right [ NoRel n NoRel - Below 2 NoRel \sigma Right ]
+crohme2019/test/UN19_1025_em_358.inkml	a Right ( Right t Right ) Right = Right \sin Right ( Right H Right t Right )
+crohme2019/test/UN19wb_1119_em_1165.inkml	e Right \sin Right - Below 2 NoRel \theta NoRel = Right 1
+crohme2019/test/UN19_1051_em_741.inkml	\sin Sup 2 NoRel \pi Right B
+crohme2019/test/UN19_1047_em_675.inkml	\sum Right m Sup 2 NoRel B NoRel - Right \sum Right m Sup 2 NoRel F NoRel = Right 0
+crohme2019/test/UN19_1033_em_465.inkml	x Right \leq Right z
+crohme2019/test/UN19wb_1115_em_1102.inkml	3 NoRel - Below 2 NoRel \times NoRel 3 NoRel - Below 2
+crohme2019/test/UN19_1029_em_410.inkml	\beta Sup n NoRel + Right \beta Sup - Right n NoRel - Right 2
+crohme2019/test/UN19_1017_em_239.inkml	\sum Below k Right = Right 1 NoRel p NoRel i Sub k NoRel + Right \sum Above q NoRel k Right = Right 1 NoRel j Sub k
+crohme2019/test/UN19_1006_em_81.inkml	x Sup 4 NoRel \ldots Right x Sup 9
+crohme2019/test/UN19wb_1113_em_1077.inkml	\sqrt Inside - Right h
+crohme2019/test/UN19_1038_em_552.inkml	- NoRel 1 NoRel - Below 2 NoRel \lt Right a Right + NoRel 1 NoRel - Below 2 NoRel \lt Right 0
+crohme2019/test/UN19_1017_em_227.inkml	x Sup 4 NoRel - Right x Sup 9
+crohme2019/test/ISICal19_1202_em_775.inkml	1 NoRel - Below 2 NoRel ( Right x Sup 2 NoRel - Right y Sup 2 NoRel )
+crohme2019/test/ISICal19_1207_em_842.inkml	G Sub 0 NoRel = Right \lim Below m Right \rightarrow Right 0 NoRel G
+crohme2019/test/UN19wb_1112_em_1058.inkml	h Right \rightarrow Right h Right h
+crohme2019/test/UN19_1019_em_257.inkml	v Right ( Right z Right ) Right = Right z Sup n Right + Right 1 NoRel - Right ( Right - Right 1 Right ) Sup n NoRel z Sup - Right n Right + Right 1
+crohme2019/test/ISICal19_1210_em_879.inkml	| Right x Right y Right |
+crohme2019/test/UN19wb_1103_em_927.inkml	- Right 0 Right . Right 9 Right 9 Right 9
+crohme2019/test/UN19wb_1117_em_1135.inkml	f Sub n Right - Right 1 NoRel ( Right x Right ) Right = Right b Sub n Right - Right 1 NoRel x Sup n Right - Right 1 NoRel + Right \ldots Right + Right b Sub 0
+crohme2019/test/UN19_1045_em_649.inkml	- Right 8 Right - NoRel 1 NoRel - Below 8
+crohme2019/test/UN19_1005_em_68.inkml	a Right = Right i Right ( NoRel l Right - Right 1 NoRel - Below 2 Right \beta NoRel - NoRel k Right - Right 1 NoRel - Below 2 NoRel \beta Right )
+crohme2019/test/UN19wb_1112_em_1050.inkml	2 NoRel n Right - Right 2 NoRel - Below n NoRel [ Right - Above B Right ( Right 1 Right - Right n Right ) NoRel C Right ( Right 3 Right n Right - Right 4 Right ) NoRel ] Sup - Above n Right - Right 2 NoRel 2 Right n
+crohme2019/test/UN19wb_1103_em_919.inkml	X Right ( Right t Right ) Right = Right \sum Below n NoRel t Sup n NoRel X Sub n
+crohme2019/test/UN19wb_1120_em_1178.inkml	\tan Right \beta Right = Right 2
+crohme2019/test/UN19_1013_em_192.inkml	8 Right + Right 6 Right + Right 6 Right + Right 6 Right + Right 6 Right + Right 6
+crohme2019/test/UN19wb_1109_em_1014.inkml	b Right = Right - Above 1 NoRel \sqrt Inside 1 Right - Right 4 Right c
+crohme2019/test/UN19_1012_em_172.inkml	f Right ( Right z Right COMMA Right \cos Right z Right COMMA Right \sin Right z Right )
+crohme2019/test/UN19wb_1115_em_1100.inkml	\lim Below x Right \rightarrow Right \pm Right \infty NoRel V Right ( Right x Right ) Right = Right 0
+crohme2019/test/ISICal19_1209_em_863.inkml	\lim Right u Sup \prime NoRel v Sup \prime NoRel = Right + Right \infty NoRel r Right \rightarrow Right + Right \infty
+crohme2019/test/UN19_1019_em_258.inkml	P Sub 2 NoRel ( Right x Right ) Right = Right x Sup 2 NoRel - Right a Right x Right + Right b
+crohme2019/test/ISICal19_1206_em_830.inkml	M Right = Right M Sub 0 NoRel + Right M Sub 1 NoRel Y Right + Right M Sub 2 NoRel [ Right I Right ( Right I Right + Right 1 Right ) Right - NoRel 1 NoRel - Below 4 NoRel Y Sup 2 NoRel ] Right - Right M Sub 3 NoRel S Right ( Right S Right + Right 1 Right )
+crohme2019/test/ISICal19_1201_em_757.inkml	- NoRel - NoRel 9 NoRel 6 Right 4 Right 6
+crohme2019/test/UN19_1018_em_250.inkml	\cos Right k Right x
+crohme2019/test/UN19_1016_em_223.inkml	x Sub k Right + Right 1 NoRel x Sub k NoRel - Right x Sub k NoRel x Sub k Right + Right 1 NoRel = Right 0
+crohme2019/test/UN19_1026_em_374.inkml	1 NoRel - Below 2 NoRel \times NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1008_em_116.inkml	x Right y Right = Right y Right x
+crohme2019/test/UN19_1047_em_685.inkml	r Sub c NoRel = NoRel x Sup 2 NoRel 1 NoRel + Right x Sup 2 NoRel 2 NoRel + Right x Sup 2 NoRel 3 NoRel \sqrt
+crohme2019/test/UN19_1020_em_281.inkml	C Right = NoRel 1 NoRel - Below 3 Right 2 NoRel + NoRel 1 NoRel - Below 9 Right 6 NoRel \log Right 2
+crohme2019/test/UN19_1016_em_211.inkml	R Right \sin Right \theta
+crohme2019/test/UN19_1032_em_457.inkml	( Right x Sup 2 NoRel - Right u Right x Right - Right v Right ) Right ( Right x Sup 2 NoRel + Right u Right x Right + Right v Right ) Right = Right 0
+crohme2019/test/UN19wb_1109_em_1006.inkml	z Right = NoRel y NoRel - Below x
+crohme2019/test/UN19_1009_em_128.inkml	\sin Right ( Right k Right r Right )
+crohme2019/test/UN19wb_1120_em_1173.inkml	f Right ( Right x Right ) Right = Right 1 Right + Right C Sub 1 NoRel x Right + Right C Sub 2 NoRel x Sup 2 NoRel + Right \ldots
+crohme2019/test/ISICal19_1201_em_750.inkml	- Right - Above 1 NoRel 1 Right 9 Right 2
+crohme2019/test/UN19wb_1111_em_1037.inkml	j Sub 2 NoRel = Right - NoRel n NoRel - Below 2 NoRel + Right 1 Right ) NoRel ( NoRel - Right ( NoRel m NoRel - Below 2 NoRel + NoRel 1 NoRel - Below 2 NoRel ) Right b Sup - Right 2
+crohme2019/test/UN19_1015_em_196.inkml	t Sub 1 NoRel = Right \log Right - Above 4 Right z Sub 1 NoRel ( Right 1 Right + NoRel 1 Right - Right 4 Right z Sub 1 NoRel \sqrt Right ) Sup 2
+crohme2019/test/UN19_1030_em_423.inkml	\log Right \sqrt Inside 2 Right \pi
+crohme2019/test/UN19_1034_em_482.inkml	V Right ( Right x Right ) Right = Right i Right \sin Right x
+crohme2019/test/UN19_1049_em_719.inkml	( Right 0 Right 0 Right 0 Right 0 Right 0 Right ) Right ( Right - Right 1 Right - Right 1 Right 0 Right 0 Right 0 Right )
+crohme2019/test/UN19_1011_em_150.inkml	x Right \rightarrow Right a Right x Right + Right b
+crohme2019/test/UN19wb_1116_em_1119.inkml	F Right ( Right x Right ) Right = Right x Right ( Right 1 Right + NoRel x NoRel - Below a NoRel )
+crohme2019/test/UN19_1001_em_4.inkml	b Right = Right b Sub 0 NoRel + Right b Sub 1 NoRel + Right \ldots Right + Right b Sub k
+crohme2019/test/UN19_1011_em_157.inkml	x Sup 1 Sup 2 NoRel + Right y Sup 1 Sup 2 NoRel = Right r Sup 2 NoRel + Right a Sup 1 Sup 2
+crohme2019/test/UN19wb_1106_em_961.inkml	\sqrt Inside F Sub a Right b NoRel F Sup a Right b
+crohme2019/test/ISICal19_1202_em_776.inkml	1 Right + Right \sqrt Inside 2
+crohme2019/test/UN19_1028_em_397.inkml	F Right ( Right X Right ) Right = Right \sqrt Above 3 NoRel 1 Right + Right X
+crohme2019/test/UN19wb_1121_em_1192.inkml	\sum Above 4 NoRel a Right = Right 1 NoRel C Sub a NoRel = Right 2 Right B Right + Right 4 Right F
+crohme2019/test/UN19wb_1117_em_1138.inkml	\sqrt Inside 5 NoRel - Below 3
+crohme2019/test/UN19_1027_em_382.inkml	( Right a Right + Right b Right + Right c Right )
+crohme2019/test/UN19wb_1113_em_1073.inkml	\sqrt Inside r NoRel + Right \sqrt Inside s NoRel \geq Right 1
+crohme2019/test/ISICal19_1211_em_890.inkml	( Right 1 Right + Right 1 Right + Right 0 Right + Right 0 Right ) Right + Right ( Right 4 Right \times Right 0 Right ) Right + Right ( Right 4 Right \times Right 0 Right )
+crohme2019/test/UN19wb_1106_em_974.inkml	- Right b Right j Sub 2 Right 1 NoRel = Right - Right b Right j Sub 1 NoRel + NoRel 1 NoRel - Below 2 Right b
+crohme2019/test/UN19_1021_em_290.inkml	\sin Sup 2 NoRel \theta Right \leq Right 1
+crohme2019/test/UN19_1027_em_380.inkml	\Delta Right \geq Right 3
+crohme2019/test/UN19_1039_em_567.inkml	x Right = Right \cos Right L Right t
+crohme2019/test/UN19_1026_em_364.inkml	a Sub 1 NoRel + Right a Sub 2 NoRel + Right a Sub 3 NoRel + Right a Sub 6
+crohme2019/test/UN19wb_1112_em_1061.inkml	\sqrt Inside m Right n
+crohme2019/test/ISICal19_1201_em_756.inkml	- Below 3 Right 2 NoRel ( Right 3 Right + Right z Sup 2 NoRel ) Right ( Right 7 Right + Right z Sup 2 NoRel )
+crohme2019/test/UN19_1039_em_568.inkml	j Right \geq Right 3
+crohme2019/test/UN19_1046_em_672.inkml	d Right x Right + Right 2 Right l Right \cos Right y Right d Right z
+crohme2019/test/UN19wb_1114_em_1084.inkml	a Right \neq Right 5
+crohme2019/test/UN19_1028_em_404.inkml	( Right 9 Right . Right 1 Right . Right a Right ) Right COMMA Right ( Right 9 Right . Right 1 Right . Right c Right ) Right COMMA Right ( Right 9 Right . Right 1 Right . Right e Right )
+crohme2019/test/UN19_1018_em_241.inkml	C Right ( Right x Right - Right y Right )
+crohme2019/test/UN19_1043_em_616.inkml	\sum Right p Sub i
+crohme2019/test/ISICal19_1206_em_837.inkml	n Right ( Right 2 Right n Right - Right 1 Right ) Right ( Right 2 Right n Right + Right 1 Right ) NoRel - Below 3
+crohme2019/test/UN19_1010_em_146.inkml	\int Right T Right r
+crohme2019/test/UN19_1031_em_440.inkml	x Right ( Right t Right ) Right = Right x Sub 0 NoRel + Right x Sub 1 NoRel t Right + Right x Sub 2 NoRel t Sup 2 NoRel + Right \ldots NoRel 1
+crohme2019/test/UN19wb_1111_em_1043.inkml	\int Right d Right c
+crohme2019/test/UN19_1017_em_238.inkml	n Right \sqrt Above n NoRel 2
+crohme2019/test/UN19wb_1117_em_1125.inkml	E Sup \prime NoRel = Right E Sub 1 NoRel + Right E Sub 2 NoRel - Right E Sub 3
+crohme2019/test/UN19wb_1106_em_970.inkml	x Sup 2 NoRel + Right y Sup 2 NoRel = Right a Sup 2 NoRel + Right t Sup 2
+crohme2019/test/UN19wb_1119_em_1159.inkml	1 Right 2 Right + Right 8 Right + Right 6 Right + Right 6 Right + Right 6
+crohme2019/test/UN19_1023_em_318.inkml	\lim Right ( NoRel d Right \rightarrow Right 2 NoRel R Sub a Right b NoRel - NoRel 1 NoRel - Below 2 NoRel R Right g Sub a Right b NoRel ) Right / Right ( Right d Right - Right 2 Right )
+crohme2019/test/UN19_1010_em_137.inkml	\sin Right ( Right \pi Right \alpha Right ) Right = Right \sin Right ( Right \pi Right \beta Right ) Right = Right 0
+crohme2019/test/UN19_1008_em_109.inkml	\cos Right \pi Right j
+crohme2019/test/ISICal19_1210_em_872.inkml	\tan Right x
+crohme2019/test/UN19_1020_em_270.inkml	\lim Below z Right \rightarrow Right + Right \infty NoRel h Right ( Right z Right ) Right = Right 0
+crohme2019/test/UN19_1026_em_365.inkml	q Sub 1 NoRel + Right q Sub 2 NoRel + Right q Sub 3 NoRel + Right q Sub 4 NoRel = Right 2
+crohme2019/test/UN19_1002_em_29.inkml	3 Sup 5 NoRel c Sup 3 NoRel + Right 8 Right 1 Right c Sup 2 NoRel - Right 1 Right 3 Right 5 Right c Right - Right 2 Right 1
+crohme2019/test/UN19_1050_em_729.inkml	b Right = Right \sqrt Inside a
+crohme2019/test/UN19_1031_em_436.inkml	x Sup 2 NoRel + Right y Sup 2 NoRel z Right + Right z Sup k Right - Right 1
+crohme2019/test/UN19_1020_em_278.inkml	a NoRel = NoRel a NoRel 0 NoRel + NoRel a NoRel 1 NoRel + NoRel a NoRel 2 NoRel + NoRel a NoRel 3
+crohme2019/test/ISICal19_1206_em_828.inkml	1 NoRel - Below 2 NoRel + NoRel 1 NoRel - Below n Sub 2 NoRel + NoRel 1 NoRel - Below n Sub 3 NoRel \gt Right 1 NoRel -
+crohme2019/test/UN19_1043_em_620.inkml	4 Right + Right x
+crohme2019/test/UN19_1026_em_373.inkml	r Right = Right \sqrt Inside x Sup a NoRel x Sup a
+crohme2019/test/UN19_1015_em_199.inkml	\sin NoRel \pi Right a NoRel - Below L Right + Right 2 NoRel 2 NoRel - Below \sin Sup 2 NoRel \pi NoRel - Below L Right + Right 2
+crohme2019/test/UN19_1032_em_450.inkml	M Sup 4 NoRel = Right \cos Right ( NoRel n Right + Right 1 NoRel - Below k Right + Right 2 NoRel ) NoRel ( NoRel \pi NoRel ) Right / Right \cos NoRel \pi NoRel - Below k Right + Right 2 NoRel ) NoRel (
+crohme2019/test/UN19_1045_em_645.inkml	\sqrt Inside 1 Right + NoRel a Sup 4 NoRel - Below r Sup 4 NoRel \gt Right 1
+crohme2019/test/UN19wb_1114_em_1080.inkml	P Right f
+crohme2019/test/UN19wb_1110_em_1034.inkml	\int Right p Right d Right x
+crohme2019/test/ISICal19_1205_em_822.inkml	x Right d Right y Right = Right q Right d Right y Right x Right + Right ( Right q Sup 2 NoRel - Right 1 Right ) Right d Right x Right y
+crohme2019/test/UN19_1041_em_588.inkml	\cos Right ( Right m Right y Right )
+crohme2019/test/UN19_1039_em_562.inkml	x Sup n Right + Right 1 NoRel + Right y Sup 2 NoRel + Right z Sup 2
+crohme2019/test/UN19wb_1108_em_997.inkml	- Right a Sub p Right - Right 1 NoRel + Right 2 Right a Sub p NoRel - Right a Sub p Right + Right 1 NoRel + Right X Right = Right 0
+crohme2019/test/UN19_1007_em_103.inkml	t Sup \prime NoRel = NoRel t Right - NoRel v Right x NoRel - Below c Sup 2 NoRel - Below \sqrt Inside 1 Right - NoRel v Sup 2 NoRel - Below c Sup 2
+crohme2019/test/UN19_1025_em_347.inkml	b NoRel \int Below a NoRel a Sub 0
+crohme2019/test/UN19_1031_em_439.inkml	a Right = Right b Sup - Right 1 NoRel c Right - Right b Sup - Right 1 NoRel a Right b
+crohme2019/test/UN19_1003_em_36.inkml	v Sub 2 NoRel v Sub 3 NoRel - Right v Sub 1 NoRel v Sub 4 NoRel = Right 1
+crohme2019/test/ISICal19_1202_em_765.inkml	x Sup 1 NoRel y Sup 1 NoRel x Sup 3
+crohme2019/test/UN19_1049_em_712.inkml	3 Right 2 Right x Sup 6 NoRel - Right 4 Right 8 Right x Sup 4 NoRel + Right 1 Right 8 Right x Sup 2 NoRel - Right 1
+crohme2019/test/UN19_1049_em_705.inkml	4 Right \pi Sup 4 NoRel \int Right a Sup 3 NoRel b Sup 3 NoRel d Right t
+crohme2019/test/UN19_1018_em_243.inkml	- NoRel 5 Right 7 Right 1 NoRel - Below 4 Right 5
+crohme2019/test/UN19wb_1116_em_1117.inkml	a Right t Sup - Right 1 NoRel + Right b Right t Sup - Right 2
+crohme2019/test/UN19_1027_em_388.inkml	a Right + Right - Above 1 NoRel 2 NoRel \gt Right - NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1002_em_27.inkml	d Sup M NoRel ( Right m Right ) Right = Right 8 Right \times NoRel 1 NoRel - Below 6 NoRel ( Right m Right + Right 1 Right ) Right ( Right m Right + Right 2 Right ) Right ( Right m Right + Right 3 Right )
+crohme2019/test/UN19_1040_em_571.inkml	u Right = Right \tan Right ( NoRel ) NoRel z
+crohme2019/test/UN19_1003_em_43.inkml	x Sub n Right + Right 1 NoRel + Right x Sub n NoRel = Right x Sub 2
+crohme2019/test/UN19_1040_em_584.inkml	2 Right n Right + Right 2 Right - Right ( Right n Right - Right 1 Right ) Right = Right n Right + Right 3
+crohme2019/test/UN19wb_1113_em_1076.inkml	\beta Right = NoRel 1 NoRel - Below 2 NoRel \sqrt Inside n Sup 2 NoRel - Right 8 Right n Right + Right d
+crohme2019/test/UN19_1045_em_646.inkml	b Right = NoRel - Right c NoRel - Below \sqrt Inside c Sup 2 NoRel - Right 1 Right 6
+crohme2019/test/UN19_1024_em_332.inkml	\log Right r Right = Right \lim Below z Right \rightarrow Right \infty NoRel ( Right \log Right | Right z Right | Right + Right G Right ( Right z Right COMMA Right \infty Right ) Right )
+crohme2019/test/UN19_1040_em_580.inkml	\sqrt NoRel 1 NoRel - Below a
+crohme2019/test/UN19_1036_em_510.inkml	b Sup x NoRel a Sup y
+crohme2019/test/UN19wb_1120_em_1170.inkml	| Right | Right q Right q Sup \prime NoRel | Right | Right \leq Right | Right | Right q Right | Right | Right | Right | Right q Sup \prime NoRel | Right |
+crohme2019/test/UN19_1040_em_581.inkml	1 NoRel - Below 7
+crohme2019/test/ISICal19_1209_em_865.inkml	\sqrt Inside g Sub y Right y
+crohme2019/test/UN19_1019_em_265.inkml	\exists Right f Right ( Right z Right )
+crohme2019/test/ISICal19_1211_em_889.inkml	- NoRel 1 NoRel - Below 2 NoRel \log Right 2
+crohme2019/test/UN19_1050_em_723.inkml	n NoRel - Below 2 NoRel + NoRel 5 NoRel - Below 2
+crohme2019/test/UN19_1024_em_335.inkml	\sum Below k NoRel f Sub k NoRel = Right \sum Right h Sub k NoRel k NoRel = Right 1
+crohme2019/test/UN19_1007_em_90.inkml	c NoRel - Below 3 NoRel = NoRel 1 Right 1 NoRel - Below 1 Right 3
+crohme2019/test/UN19wb_1104_em_934.inkml	x Sup 4 NoRel + Right u Right x Sup 2 NoRel + Right q Right x Right + Right r Right = Right 0
+crohme2019/test/UN19_1010_em_149.inkml	1 NoRel - Below 2 NoRel 4 Right \times Right 5 Right - Right 1 Right = Right 9
+crohme2019/test/UN19wb_1109_em_1011.inkml	c Sub b NoRel = Right - Right \sin Right \pi Right \alpha
+crohme2019/test/UN19wb_1117_em_1127.inkml	1 NoRel - Below \sqrt Inside 3
+crohme2019/test/UN19wb_1109_em_1012.inkml	d Right x Sup 2 NoRel 1 Right COMMA Right 3 NoRel = Right - Right ( Right d Right x Sup 0 NoRel ) Right + NoRel 2 NoRel ( Right d Right x Sup 1 NoRel ) Sup 2 NoRel + Right ( Right d Right x Sup 2 NoRel ) Sup 2 NoRel + Right ( Right d Right x Sup 3 NoRel ) Sup 2
+crohme2019/test/UN19_1037_em_532.inkml	a Right ( Right t Right ) Right = Right \cos Right t
+crohme2019/test/UN19_1036_em_519.inkml	T Right = Right \lim Right u Right z NoRel u Right \rightarrow Right \infty
+crohme2019/test/UN19_1007_em_100.inkml	a Right = Right b Sup - Right 1 NoRel c Right \sum Above \infty NoRel n Right = Right 0 NoRel ( Right - Right 1 Right ) Sup n
+crohme2019/test/UN19_1023_em_321.inkml	\beta Right = Right \sin Right \alpha
+crohme2019/test/UN19_1033_em_472.inkml	C Right + Right q Right y
+crohme2019/test/UN19_1005_em_70.inkml	\sum Right p Sup 2 Right n
+crohme2019/test/UN19wb_1111_em_1038.inkml	8 Right x Sup 4 NoRel - Right 8 Right x Sup 2 NoRel + Right 1
+crohme2019/test/UN19wb_1107_em_987.inkml	- Right 3 NoRel - Below \sqrt Inside 3 Right 6 Right 0
+crohme2019/test/UN19_1046_em_668.inkml	c Right ( Right p Right ) Right = Right - Above 1 NoRel \sqrt Inside 2 NoRel ( Right 2 Right \pi Right ) Sup - NoRel d Right - Right 1 NoRel - Below 2
+crohme2019/test/ISICal19_1201_em_761.inkml	z Sub 1 NoRel 2 NoRel + Right z Sub 2 NoRel 2 NoRel + Right z Sub 3 NoRel 2 NoRel + Right z Sub 4 NoRel 2 NoRel = Right 1
+crohme2019/test/UN19wb_1107_em_986.inkml	\sin Sup 2 NoRel x Right + Right \cos Sup 2 NoRel x Right = Right 1
+crohme2019/test/UN19wb_1115_em_1101.inkml	y Sup j NoRel y Sup k NoRel = Right y Sup j Right + Right k
+crohme2019/test/UN19_1036_em_518.inkml	a Right = Right \sqrt NoRel 6 Right \sqrt Inside 3 NoRel - Below 5
+crohme2019/test/UN19_1010_em_145.inkml	w Sup i Right + Right j NoRel + Right w Sup - Right j NoRel + Right w Sup - Right i
+crohme2019/test/UN19_1037_em_525.inkml	x Sup 2 NoRel 0 NoRel + Right x Sup 2 NoRel 1 NoRel + Right x Sup 2 NoRel 2 NoRel + Right x Sup 2 NoRel 3 NoRel = Right 1
+crohme2019/test/UN19wb_1120_em_1171.inkml	z Right = Right \tan Right \mu
+crohme2019/test/UN19_1004_em_52.inkml	3 Right 7 NoRel \pi NoRel \sqrt NoRel - Below 8 Right 1 Right 9 Right 2 NoRel \alpha NoRel - Below R Sup 3
+crohme2019/test/UN19wb_1115_em_1098.inkml	[ Right a Sup x NoRel b Right COMMA Right a Sup y NoRel b Right ] Right = Right a Sup 2 Right ( Right x Right - Right y Right )
+crohme2019/test/UN19_1005_em_63.inkml	x Sup 5 NoRel - Right x Sup 9
+crohme2019/test/UN19wb_1108_em_993.inkml	x Sup 4 NoRel - Right x Sup 5
+crohme2019/test/UN19_1012_em_178.inkml	- NoRel 1 Right 1 Right + NoRel - NoRel z Right + Right 5 Right z Sup 2 NoRel - Right z Sup 3 NoRel 1 Right 6
+crohme2019/test/UN19_1041_em_596.inkml	u Right \rightarrow Right e Sup \beta NoRel u
+crohme2019/test/UN19_1034_em_493.inkml	x Sup 3 NoRel + Right x Right y Sup 3 NoRel + Right z Sup 2
+crohme2019/test/UN19_1046_em_673.inkml	\sum Below i NoRel b Sup i NoRel ( Right x Sub 1 NoRel - Right x Sub 2 NoRel ) Sup i NoRel = Right 0
+crohme2019/test/ISICal19_1203_em_789.inkml	4 Right 4 Right = NoRel 9 Right ( Right 9 Right + Right 1 Right ) NoRel - Below 2 NoRel - Right 1
+crohme2019/test/UN19_1001_em_14.inkml	\sum Below a NoRel \alpha Sub j NoRel a NoRel \alpha Sub j NoRel a NoRel = Right 1
+crohme2019/test/UN19_1024_em_330.inkml	5 Right ! Right 3 Right ! Right 2 Right ! Right 3 Right ! Right 3 Right ! Right 2 Right ! Right \gt Right 1 Right 0 Sup 5
+crohme2019/test/UN19wb_1114_em_1086.inkml	[ Right 3 Right ] Right [ Right 3 Right ] Right [ Right 4 Right ]
+crohme2019/test/ISICal19_1206_em_825.inkml	( NoRel 5 NoRel - Below 7 NoRel COMMA NoRel 5 NoRel - Below 7 NoRel )
+crohme2019/test/UN19wb_1105_em_948.inkml	u Right = Right - Above a Right z Right + Right b NoRel c Right z Right + Right d
+crohme2019/test/UN19_1015_em_207.inkml	b Right \neq Right c
+crohme2019/test/UN19_1031_em_447.inkml	\alpha Right = NoRel 1 NoRel - Below 2 Right b NoRel - NoRel b NoRel - Below 2
+crohme2019/test/UN19wb_1115_em_1096.inkml	e Sup - Right \alpha Right \sqrt Inside 1 Right - Right e Sup 2 NoRel x Sup 0
+crohme2019/test/ISICal19_1204_em_795.inkml	H NoRel = NoRel p NoRel 2 NoRel + NoRel i NoRel \sin NoRel x
+crohme2019/test/ISICal19_1205_em_824.inkml	[ NoRel ] Right \times Right [ NoRel ] Right \times Right [ NoRel ] NoRel b Sub 1 NoRel b Sub 2 NoRel b Sub 3
+crohme2019/test/ISICal19_1201_em_751.inkml	x Sup \prime NoRel = Right ( Right a Right x Right + Right b Right ) Right ( Right c Right x Right + Right d Right ) Sup - Right 1
+crohme2019/test/UN19_1004_em_47.inkml	1 NoRel - Below \sqrt Inside r
+crohme2019/test/UN19wb_1107_em_979.inkml	\sin Sup 2 NoRel \alpha Right + Right \cos Sup 2 NoRel \alpha Right = Right 1
+crohme2019/test/UN19_1041_em_593.inkml	n NoRel - Below 8
+crohme2019/test/ISICal19_1204_em_802.inkml	( Right 1 Right ) Right + Right ( Right 1 Right 1 Right ) Right + Right ( Right 1 Right 1 Right 1 Right ) Right + Right ( Right 1 Right 1 Right 2 Right ) Right + Right ( Right 1 Right 2 Right 3 Right )
+crohme2019/test/ISICal19_1211_em_899.inkml	\cos Right f Right ( Right 0 Right ) Right = Right - Right \cos Right f Right ( Right \pi Right ) Right = Right \pm Right 1 NoRel -
+crohme2019/test/UN19_1004_em_56.inkml	9 NoRel - Below 7 Right 6 Right 8 NoRel -
+crohme2019/test/UN19_1011_em_154.inkml	n Right ! Right L Sub n NoRel ( Right m Right - Right n Right ) NoRel ( Right z Right ) Right = Right ( Right - Right z Right ) Sup n Right - Right m NoRel m Right ! Right L Sub m NoRel ( Right n Right - Right m Right ) NoRel ( Right z NoRel ) NoRel )
+crohme2019/test/UN19_1029_em_415.inkml	k Right ( Right r Right COMMA Right E Right COMMA Right l Right ) Right = NoRel 1 NoRel - Below V Right ( Right r Right ) NoRel \sqrt Inside E Sup 2 NoRel - NoRel V Right ( Right r Right ) NoRel - Below r Sup 2 NoRel l Right ( Right l Right + Right 1 Right )
+crohme2019/test/UN19wb_1105_em_955.inkml	- Right - Above c NoRel 2 NoRel \times Right - Above d Right x NoRel y
+crohme2019/test/UN19_1022_em_309.inkml	\cos Right ( Right X Right )
+crohme2019/test/ISICal19_1202_em_772.inkml	p Sup 2 NoRel + Right x Sup n NoRel + Right x Sup m
+crohme2019/test/UN19_1015_em_203.inkml	\sin NoRel \theta NoRel ( NoRel ) Right \neq Right 0
+crohme2019/test/UN19_1049_em_708.inkml	[ Right 3 Right COMMA Right - NoRel 2 Right 7 NoRel - Below 4 NoRel COMMA NoRel 1 Right 7 Right 1 NoRel - Below 1 Right 4 NoRel COMMA Right - NoRel 7 Right 2 Right 9 NoRel - Below 4 Right 0 NoRel COMMA NoRel 7 Right 2 Right 9 NoRel - Below 7 Right 0 NoRel ]
+crohme2019/test/UN19_1015_em_206.inkml	x Sup 1 NoRel ( NoRel ) Sup 2 NoRel + NoRel x Sup 2 NoRel ( NoRel ) Sup 2 NoRel + NoRel x Sup 3 NoRel ( NoRel ) Sup 2 NoRel + NoRel x Sup 4 NoRel ( NoRel )
+crohme2019/test/UN19_1002_em_23.inkml	g Right + Right B
+crohme2019/test/UN19_1039_em_555.inkml	c Right = Right \pi Right ( Right \sqrt Inside 2 Right ( Right 5 Right - Right \sqrt Inside 5 NoRel ) NoRel + Right \sqrt Inside 2 Right ( Right 5 Right + Right \sqrt Inside 5 NoRel ) NoRel )
+crohme2019/test/UN19_1015_em_201.inkml	\int Right e Sup f NoRel ( NoRel )
+crohme2019/test/UN19wb_1118_em_1151.inkml	\cos Right ( Right m Right X Right ) Right \cos Right ( Right Y Right / Right R Right )
+crohme2019/test/UN19_1040_em_583.inkml	\tan Right \theta Right = Right f
+crohme2019/test/UN19_1019_em_269.inkml	- NoRel n NoRel - Below 2 NoRel b Right - NoRel m NoRel - Below 2 NoRel b Sup - Right 1
+crohme2019/test/ISICal19_1204_em_804.inkml	a Right x Right + Right b Right y Right = Right 0
+crohme2019/test/UN19_1029_em_419.inkml	C Sub i Right - Right 1 NoRel - Right C Sub i NoRel - Right C Sub n
+crohme2019/test/UN19wb_1105_em_949.inkml	\sqrt Inside \beta NoRel m
+crohme2019/test/UN19_1048_em_701.inkml	x Right y Right x Sup - Right 1 NoRel y Sup - Right 1
+crohme2019/test/UN19wb_1119_em_1167.inkml	\{ Right x Sup 0 NoRel x Sup 3 NoRel x Sup 4 NoRel x Sup 5 NoRel x Sup 6 NoRel \}
+crohme2019/test/UN19wb_1115_em_1107.inkml	3 NoRel - Below 2 NoRel ( Right 1 Right - NoRel 3 NoRel - Below 3 Right 2 NoRel \alpha Right ) Sup - Right 1
+crohme2019/test/UN19_1036_em_516.inkml	A Right = Right \int Right d Right x Right h Right ( Right x Right ) Right \sum Below j NoRel B Sub j NoRel ( Right x Right ) Right b Sub j NoRel ( Right x Right )
+crohme2019/test/UN19_1030_em_434.inkml	A Right d Right S Right ( Right 3 Right ) Right \times Right S Right ( Right 3 Right ) Right \times Right S Right ( Right 3 Right ) Right \times Right S Right ( Right 1 Right )
+crohme2019/test/UN19_1048_em_703.inkml	\theta Right \lt Right \infty
+crohme2019/test/UN19wb_1104_em_939.inkml	x Right \div Right 5 Right \div Right 2
+crohme2019/test/UN19_1047_em_687.inkml	n NoRel - Below \sqrt Inside a Sub 1 NoRel b Sub 1
+crohme2019/test/UN19_1050_em_726.inkml	3 Right \ldots Right 9
+crohme2019/test/UN19wb_1112_em_1057.inkml	n Right \times Right n
+crohme2019/test/UN19wb_1120_em_1177.inkml	\int Right d Sup 3 NoRel y
+crohme2019/test/ISICal19_1203_em_781.inkml	\sqrt Inside n Right m
+crohme2019/test/UN19_1048_em_699.inkml	\alpha Right \rightarrow NoRel \alpha NoRel - Below 2 NoRel \sqrt NoRel 5 NoRel - Below 3
+crohme2019/test/UN19_1049_em_715.inkml	1 Right + Right 1 Right 6 Right + Right 3 Right 6 Right + Right 1 Right 6 Right + Right 1 Right = Right 7 Right 0
+crohme2019/test/UN19wb_1114_em_1091.inkml	2 Sup p Right - Right 5 NoRel - Right ( NoRel 1 NoRel - Below 2 NoRel - Right 2 Sup p Right - Right 5 NoRel ) Right = Right 2 Sup p Right - Right 4 NoRel - NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1012_em_177.inkml	( NoRel 1 NoRel 2 NoRel - NoRel 1 NoRel - Below 2 NoRel 1 NoRel - Below 2 NoRel 1 NoRel - Below 2 NoRel 0 Right 0 Right 0 Right 0 Right )
+crohme2019/test/ISICal19_1205_em_823.inkml	a Right + NoRel 1 NoRel - Below 2 NoRel \geq NoRel 5 Right - Right N NoRel - Below N Right ( Right N Right - Right 1 Right )
+crohme2019/test/UN19_1001_em_6.inkml	\sum Right m Sup 2
+crohme2019/test/UN19wb_1120_em_1181.inkml	x Sup 3 NoRel - Right x Sup 7
+crohme2019/test/UN19wb_1117_em_1126.inkml	3 Right + Right 7 Right + Right 1 Right 2 Right 7 Right = Right 1 Right 3 Right 7
+crohme2019/test/UN19_1042_em_603.inkml	1 Sup + Right 3 NoRel + Right 1 Sup - Right 3
+crohme2019/test/UN19_1022_em_301.inkml	X Right ( Right \sigma Right ) Right = Right x Sub 0 NoRel + Right \sqrt Inside 2 NoRel \sum Above \infty NoRel n Right = Right 1 NoRel x Sub n NoRel \cos Right n Right \sigma
+crohme2019/test/UN19_1028_em_396.inkml	I Right R
+crohme2019/test/UN19_1042_em_602.inkml	\sin Right ( Right n Right v Right )
+crohme2019/test/ISICal19_1203_em_787.inkml	F Right ( Right x Right COMMA Right y Right ) Right = Right \sin Right x Right e Sup y
+crohme2019/test/UN19wb_1116_em_1111.inkml	x Right \rightarrow Right x Right + NoRel 1 NoRel - Below 3 NoRel ( Right 2 Right a Right + Right b Right )
+crohme2019/test/UN19_1004_em_48.inkml	\int Above x NoRel 0 NoRel d Sup n NoRel x
+crohme2019/test/UN19_1017_em_225.inkml	w NoRel - Below w
+crohme2019/test/UN19_1030_em_422.inkml	( Right d Right + Right 1 Right + Right n Right ) Right \times Right ( Right d Right + Right 1 Right + Right n Right )
+crohme2019/test/UN19_1040_em_578.inkml	1 Right + Right 1 Right + Right 1 Right + Right 1
+crohme2019/test/UN19_1034_em_487.inkml	x Sub 1 NoRel + Right x Sub 2 NoRel + Right x Sub 4 NoRel 2 Right x Sub 3 NoRel =
+crohme2019/test/UN19wb_1114_em_1094.inkml	x Right \lt NoRel 1 NoRel - Below \sqrt Inside a NoRel 3
+crohme2019/test/UN19_1046_em_669.inkml	x Right \geq Right c
+crohme2019/test/UN19_1029_em_414.inkml	G Right = Right \sin Right t Right \sin Right x
+crohme2019/test/UN19_1047_em_678.inkml	f Right o Right r Right a Right n Right y Right r Right o Right o Right t
+crohme2019/test/UN19_1015_em_205.inkml	1 NoRel - Below 2 NoRel 5 NoRel - Below 3 NoRel \sqrt
+crohme2019/test/UN19_1048_em_691.inkml	( Right 4 Right 9 Right \sqrt Inside 3 NoRel \pm Right \sqrt Inside 5 Right 2 Right 5 Right 9 NoRel ) Right / Right 1 Right 8
+crohme2019/test/UN19_1003_em_32.inkml	c NoRel - Below u
+crohme2019/test/UN19wb_1102_em_900.inkml	\lim Below k Right \rightarrow Right \infty NoRel R Sub k NoRel = Right \infty
+crohme2019/test/UN19_1023_em_320.inkml	- NoRel 1 Right - Right z Sup 2 NoRel ( NoRel ) Right ( Right 1 Right + Right z Right ) NoRel - Below 8
+crohme2019/test/UN19_1027_em_377.inkml	y Right \geq Right 0
+crohme2019/test/UN19_1045_em_651.inkml	p Right = NoRel 2 NoRel - Below n NoRel ) NoRel ( NoRel 2 NoRel - Below n Right - Right 2 NoRel ( Right 1 Right - NoRel 2 NoRel - Below n NoRel )
+crohme2019/test/ISICal19_1203_em_783.inkml	y Right \gt Right x
+crohme2019/test/UN19_1007_em_98.inkml	\sqrt Inside g Sub t Right t NoRel g Sub x Right x
+crohme2019/test/UN19wb_1119_em_1158.inkml	b Right = Right - Right \int Right g
+crohme2019/test/UN19_1020_em_284.inkml	9 Right + Right 1
+crohme2019/test/ISICal19_1207_em_853.inkml	f Right ( Right x Right ) Right = Right ( Right x Sub a NoRel 2 NoRel - Right x Sub b NoRel 2 NoRel )
+crohme2019/test/UN19wb_1111_em_1035.inkml	0 Right \lt Right - Above k Right \sqrt Inside 2 NoRel \sqrt Inside 1 Right + Right k Sup 2 NoRel \lt Right 1
+crohme2019/test/UN19_1015_em_198.inkml	Y Right = NoRel 1 NoRel - Below 4 NoRel Y NoRel 3 NoRel ( NoRel ) NoRel - NoRel 1 NoRel - Below 3 NoRel Y NoRel 2 NoRel ( NoRel )
+crohme2019/test/UN19_1016_em_214.inkml	3 Right - Right 2 Right \cos Right \theta Right - Right \cos Sup 2 NoRel \theta
+crohme2019/test/UN19wb_1110_em_1030.inkml	\cos Right o Right \sigma
+crohme2019/test/UN19wb_1104_em_932.inkml	\sum Right n Sub \alpha NoRel \leq Right n Right COMMA Right \sum Right m Sub \alpha NoRel \leq Right m
+crohme2019/test/UN19_1048_em_692.inkml	( Right 1 Right + Right 0 Right ) Right + Right ( Right 1 Right + Right 0 Right ) Right + Right ( Right 0 Right + Right 0 Right )
+crohme2019/test/UN19_1003_em_31.inkml	2 Right f Right - Right e Sub 1 NoRel + Right 2 Right e Sub 4 NoRel - Right e Sub 5 NoRel + Right e Sub 7 NoRel + Right 2 Right e Sub 9
+crohme2019/test/UN19wb_1120_em_1182.inkml	y Sub - Right 1 NoRel 2 NoRel + Right y Sub 0 NoRel 2 NoRel = Right 1 Right + Right y Sub 1 NoRel 2 NoRel + Right y Sub 2 NoRel 2 NoRel + Right y Sub 3 NoRel 2 NoRel + Right y Sub 4 NoRel 2
+crohme2019/test/ISICal19_1210_em_873.inkml	3 Sup 7 NoRel c Sup 5 NoRel + Right 3 Sup 6 NoRel c Sup 4 NoRel - Right 2 Right 7 Right 5 Right 4 Right c Sup 3 NoRel - Right 7 Right 0 Right 2 Right c Sup 2 NoRel + Right 7 Right 1 Right 1 Right c Right + Right 8 Right 5
+crohme2019/test/UN19_1025_em_355.inkml	1 NoRel - Below 6 NoRel ( Right 8 Right + Right 9 Right n Right + Right n Sup 2 NoRel )
+crohme2019/test/UN19wb_1110_em_1026.inkml	A Right d Right S Sub 3 NoRel \times Right S Sup 3 NoRel \times Right S Sup 3 NoRel \times Right S Sup 1
+crohme2019/test/UN19_1026_em_366.inkml	x Sup 3 NoRel COMMA Right x Sup 4 NoRel COMMA Right x Sup 5 NoRel COMMA Right x Sup 7 NoRel COMMA Right x Sup 8 NoRel COMMA Right x Sup 9
+crohme2019/test/UN19_1015_em_200.inkml	b Sub a Right b NoRel n Sup a NoRel n Sup b
+crohme2019/test/ISICal19_1211_em_892.inkml	\beta Sup ( Right 3 Right ) NoRel = Right - NoRel 1 Right 7 NoRel - Below 3 NoRel 1 NoRel - Below ( Right 4 Right \pi Right ) Sup 4
+crohme2019/test/UN19_1001_em_1.inkml	\sin Right ( Right \pi Right j Right )
+crohme2019/test/UN19_1043_em_624.inkml	1 Right 7 Right \div Right t
+crohme2019/test/UN19_1024_em_338.inkml	x Sup n NoRel - Right a Right x Sup s NoRel + Right b Right = Right 0
+crohme2019/test/UN19_1019_em_260.inkml	- Right 3 Right + Right 1 Right 1 Right \cos Right \theta
+crohme2019/test/UN19_1031_em_446.inkml	a Right [ Right 2 Right ] Right = NoRel 1 NoRel - Below 2 NoRel a Sub 2 NoRel + Right a Sub 3 NoRel + Right a Sub 4 NoRel + NoRel 5 NoRel - Below 2
+crohme2019/test/UN19wb_1107_em_984.inkml	z Sup - Right n NoRel e Sup - NoRel m NoRel - Below z NoRel + Right \ldots
+crohme2019/test/UN19wb_1111_em_1048.inkml	x Sup 5 NoRel - Right x Sup 7
+crohme2019/test/UN19wb_1104_em_933.inkml	h Right = Right - Above 1 NoRel 8 Right ( Right p Right + Right 1 Right ) NoRel + Right - Above 1 NoRel 1 Right 6 NoRel = Right - Above 3 Right + Right p NoRel 1 Right 6 Right ( Right p Right + Right 1 Right )
+crohme2019/test/UN19_1013_em_182.inkml	l Right \sin Right y Sub 0
+crohme2019/test/UN19_1009_em_127.inkml	X Right \times Right X Right \times Right X
+crohme2019/test/UN19_1012_em_169.inkml	\cos Right x Right = Right - Right 3 Right \sqrt Inside 3 NoRel M Right H Sup - Right 1
+crohme2019/test/UN19_1013_em_181.inkml	- Right 3 Right + Right 6 Right \cos Right \theta Right + Right \cos Sup 2 NoRel \theta
+crohme2019/test/UN19_1036_em_522.inkml	1 Right 3 Right 7 Right = Right 3 Right + Right 7 Right + Right 1 Right 2 Right 7 Right = Right ( Right 2 Sup 2 NoRel - Right 1 Right ) Right + Right ( Right 2 Sup 3 NoRel - Right 1 Right ) Right + Right ( Right 2 Sup 7 NoRel - Right 1 Right )
+crohme2019/test/UN19_1037_em_529.inkml	\log Right ( Right - Right x Right ) Right = Right \log Right ( Right x Right ) Right + Right i Right \pi
+crohme2019/test/UN19_1045_em_658.inkml	I Right I
+crohme2019/test/UN19_1038_em_546.inkml	1 Right \ldots Right k
+crohme2019/test/UN19_1009_em_122.inkml	( Right 7 Right 4 Right - Right 7 Right 7 Right )
+crohme2019/test/ISICal19_1205_em_815.inkml	\sqrt Inside 3 Right \alpha
+crohme2019/test/ISICal19_1202_em_767.inkml	\lim Below r Right \rightarrow Right \infty NoRel \int Below k Sub 1 NoRel r NoRel \infty NoRel d Right x Right f Right ( Right x Right ) Right / Right x Right = Right 0
+crohme2019/test/UN19_1009_em_120.inkml	+ NoRel 1 NoRel - Below 5
+crohme2019/test/UN19_1049_em_707.inkml	q Right y Right x
+crohme2019/test/ISICal19_1201_em_762.inkml	3 NoRel \sqrt Inside 7 NoRel - Below 4
+crohme2019/test/UN19wb_1105_em_958.inkml	- Above 8 Right \times Right 5 NoRel 5 Right + Right 3 NoRel = Right - NoRel 5 NoRel 3 NoRel \times Right 1 NoRel 6 Right + Right 1
+crohme2019/test/UN19_1040_em_573.inkml	f Right ( Right 0 Right ) Right = Right \sqrt Above 8 NoRel 4 Right 8
+crohme2019/test/UN19wb_1116_em_1113.inkml	b Sub 4 NoRel = NoRel a Sub 1 NoRel b Sub 2 NoRel - Right a Sub 2 NoRel b Sub 1 NoRel + Right a Sub 4 NoRel ( Right b Sub 1 NoRel - Right b Sub 2 NoRel ) NoRel - Below a Sub 1 NoRel - Right a Sub 2
+crohme2019/test/UN19_1035_em_501.inkml	t Sup ( Right n Right - Right p Right - Right 1 Right ) NoRel n Right - Right p Right - Right 2 Right a Sub p
+crohme2019/test/UN19_1010_em_148.inkml	\sin Right x Right = NoRel 1 NoRel - Below 2 NoRel ( Right 1 Right - Right \cos Right 2 Right x Right )
+crohme2019/test/UN19_1041_em_587.inkml	( Right e Sup 3 NoRel e Sup 7 NoRel ) Right e Sup 5 NoRel - Right e Sup 3 NoRel ( Right e Sup 7 NoRel e Sup 5 NoRel ) Right = Right - Right e Sup 1
+crohme2019/test/UN19_1011_em_163.inkml	\lim Below z Right \rightarrow Right \infty NoRel z Right s Right ( Right z Right ) Right \lt Right \infty
+crohme2019/test/UN19_1025_em_346.inkml	1 NoRel - Below x Right + Right i Right 0
+crohme2019/test/UN19_1046_em_665.inkml	x Sup 6 NoRel - Right x Sup 9
+crohme2019/test/UN19wb_1112_em_1059.inkml	\sqrt Inside 1 Right + Right \beta Sup 2
+crohme2019/test/UN19wb_1104_em_944.inkml	e Sup - Right u NoRel + Right e Sup - Right v NoRel + Right e Sup - Right t Right + Right u Right - Right v NoRel + Right 1 Right = Right 0
+crohme2019/test/UN19_1017_em_232.inkml	- Right ( Right x Right - Right x Sub 0 NoRel ) Right = Right x Sub 0 NoRel - Right x
+crohme2019/test/UN19_1046_em_663.inkml	x Right = Right - Above 4 Right \pi Right i NoRel 3 NoRel + Right 2 Right \pi Right i Right n
+crohme2019/test/UN19_1007_em_93.inkml	x Right \rightarrow Right x Right + Right i Right y
+crohme2019/test/UN19_1020_em_272.inkml	+ Right \sqrt Inside p Right - Right 1
+crohme2019/test/UN19_1018_em_249.inkml	f Right = Right - Right i Right \sum Below n NoRel u Sub n NoRel z Sup - Right n Right + Right 1
+crohme2019/test/UN19wb_1104_em_941.inkml	- Right 1 Right + Right - Above 1 NoRel n
+crohme2019/test/UN19wb_1112_em_1053.inkml	+ Right 2 Right 3 Right + Right 2 Right 9
+crohme2019/test/UN19_1022_em_313.inkml	2 Right 6 Right 9 Right \sqrt Inside \pi NoRel - Below 8 Right 1 Right 9 Right 2 NoRel - Above \alpha NoRel R Sup 3
+crohme2019/test/ISICal19_1201_em_754.inkml	\sqrt Inside x Sup 2
+crohme2019/test/UN19_1037_em_533.inkml	\pi NoRel - Below 2 NoRel + Right n Right \pi
+crohme2019/test/UN19wb_1120_em_1176.inkml	z Right \rightarrow Right \sqrt Inside z
+crohme2019/test/UN19_1021_em_286.inkml	x Right - Right t
+crohme2019/test/UN19wb_1116_em_1120.inkml	[ Right a Sub 1 NoRel ] Right \times Right [ Right a Sub 2 NoRel ] Right \times Right [ Right a Sub 3 NoRel ]
+crohme2019/test/UN19wb_1102_em_913.inkml	2 Right h Right ( Right x Right ) Right = Right b Right + Right - Above 4 Right B Right \pi Sup 2 NoRel \sqrt Inside 1 Right - Right x NoRel \sqrt Inside 1 Right + Right 3 Right x NoRel - Right 4 Right ( Right \gamma Right + Right \log Right ( Right 4 Right ) Right )
+crohme2019/test/UN19_1012_em_176.inkml	1 NoRel - Below \sqrt Inside 8
+crohme2019/test/ISICal19_1210_em_876.inkml	\cos Right k Sub n NoRel x Sup 5
+crohme2019/test/UN19wb_1121_em_1186.inkml	\sin Right x Sub i NoRel COMMA Right \cos Right x Sub i
+crohme2019/test/UN19_1025_em_350.inkml	x Right y Right z
+crohme2019/test/UN19_1021_em_295.inkml	\int Right F Right ( Right x Right ) Right d Right x
+crohme2019/test/UN19_1020_em_275.inkml	a Sub n NoRel = Right \lim Below \alpha Right \rightarrow Right 0 NoRel a Sub n Right - Right \alpha
+crohme2019/test/UN19_1038_em_542.inkml	5 NoRel - Below 4
+crohme2019/test/UN19_1023_em_329.inkml	1 Right 6 Right x Sup 5 NoRel - Right 2 Right 0 Right x Sup 3 NoRel - Right 5 Right x
+crohme2019/test/UN19_1012_em_173.inkml	h Sub 2 NoRel = NoRel 1 NoRel - Below 2 NoRel \sum Below a NoRel \sum Below i Right = Right 1 NoRel 3 NoRel ( Right m Sup a NoRel i NoRel ) Sup 2
+crohme2019/test/UN19wb_1116_em_1114.inkml	Y Right \times Right Y
+crohme2019/test/UN19_1037_em_534.inkml	t Right \gt Right x
+crohme2019/test/UN19_1028_em_399.inkml	r Right = Right \sqrt Inside x Sup 2 NoRel 1 NoRel + Right x Sub 2 NoRel 2 NoRel + Right x Sup 2 NoRel 3
+crohme2019/test/UN19wb_1118_em_1153.inkml	e Sup a Right + Right 1 NoRel - Right e Sup a
+crohme2019/test/UN19_1051_em_743.inkml	1 NoRel - Below \sqrt Inside 3 Right 6 Right 0
+crohme2019/test/UN19wb_1106_em_972.inkml	1 NoRel - Below 2 NoRel ( Right 3 Right \pm Right \sqrt Inside 9 Right - Right 4 Right m Sup 2 NoRel )
+crohme2019/test/UN19wb_1107_em_982.inkml	4 Right \sum Right k Sub a
+crohme2019/test/UN19_1026_em_371.inkml	n Right + Right 7
+crohme2019/test/UN19_1034_em_489.inkml	\tan Right \beta Right = Right 8 Right 0
+crohme2019/test/ISICal19_1203_em_791.inkml	\sin Right k Sub n NoRel x Sup 5
+crohme2019/test/UN19_1031_em_448.inkml	B Right \times Right F
+crohme2019/test/UN19_1017_em_231.inkml	n Right \times Right n
+crohme2019/test/UN19wb_1106_em_965.inkml	1 Right 6 Right \times Right 8 NoRel ( NoRel + Right 1 Right 6 Right \times Right 8 Right ) Right = Right 2 Right 5 Right 6
+crohme2019/test/UN19_1049_em_717.inkml	2 Right . Right 7 Right 1 Right \ldots
+crohme2019/test/ISICal19_1211_em_898.inkml	\sqrt Inside A NoRel - Below \alpha NoRel - NoRel 1 NoRel - Below 2
+crohme2019/test/ISICal19_1203_em_794.inkml	6 Right \sqrt Inside 3
+crohme2019/test/UN19wb_1113_em_1079.inkml	9 NoRel - Below 7
+crohme2019/test/UN19_1024_em_337.inkml	B Right = Right \int Sub 0 NoRel x NoRel d Sup n NoRel x Right \int Sub x Sub k NoRel x Sub k Right + Right 1 NoRel d Right y Right \int Sub x Sub l NoRel x Sub l Right + Right 1 NoRel d Right z Right f Right ( Right y Right COMMA Right z Right )
+crohme2019/test/ISICal19_1204_em_803.inkml	x Sup 4 NoRel - Right x Sup 7
+crohme2019/test/UN19wb_1103_em_922.inkml	\pm Right - Above 1 NoRel \sqrt Inside 2 Right 4
+crohme2019/test/UN19wb_1104_em_936.inkml	4 Right 4 Right COMMA Right 4 Right 8 Right - Right 4 Right 4 Right COMMA Right 4 Right 9
+crohme2019/test/UN19_1018_em_244.inkml	c Right = Right \lim Right \Delta Right ( Right k Right ) NoRel k Right \rightarrow Right + Right \infty
+crohme2019/test/ISICal19_1209_em_861.inkml	( Right x Right - Right y Right ) Sup 2 NoRel = Right ( Right x Sup 0 NoRel - Right y Sup 0 NoRel ) Sup 2 NoRel - Right ( Right x Sup 1 NoRel - Right y Sup 1 NoRel ) Sup 2
+crohme2019/test/UN19_1048_em_704.inkml	[ Right b Sub 1 NoRel ] Right \times Right [ Right a Sub 2 NoRel ] Right \times Right [ Right b Sub 3 NoRel ]
+crohme2019/test/UN19wb_1114_em_1092.inkml	\log Right ( Right x Sup 2 NoRel + Right y Sup 2 NoRel )
+crohme2019/test/UN19wb_1119_em_1168.inkml	h Right h
+crohme2019/test/UN19_1031_em_437.inkml	N Right ( Right x Right y Right ) Right = Right N Right ( Right x Right ) Right N Right ( Right y Right )
+crohme2019/test/UN19_1010_em_140.inkml	n Sub 1 NoRel - Below \sin Right \theta Sub 1 NoRel = NoRel n Sub 2 NoRel - Below \sin Right \theta Sub 2
+crohme2019/test/UN19_1018_em_254.inkml	- Right 9 Right . Right 9 Right 5 Right 9 Right 9
+crohme2019/test/UN19_1007_em_102.inkml	- Right 4 NoRel - Below \sqrt Inside 3 Right 6 Right 0
+crohme2019/test/ISICal19_1207_em_854.inkml	0 Right \leq Right \beta Right \leq Right 0 Right . Right 7 Right 5 Right 7
+crohme2019/test/UN19_1049_em_713.inkml	1 NoRel - Below 6 Right 4 NoRel ( Right n Right + Right 2 Right ) Right ( Right 3 Right n Sup 2 NoRel + Right 2 Right 2 Right n Right + Right 4 Right 0 Right )
+crohme2019/test/UN19wb_1121_em_1188.inkml	z Right = Right \int Right d Right y Right a Sup - Right 1 NoRel ( Right y Right )
+crohme2019/test/UN19_1006_em_83.inkml	\lim Below L Right \rightarrow Right \infty NoRel a Sub \pi NoRel L Sup 2
+crohme2019/test/ISICal19_1209_em_864.inkml	\int Right d Right z
+crohme2019/test/UN19wb_1107_em_983.inkml	B Sub i
+crohme2019/test/UN19_1004_em_51.inkml	v Right = Right \sqrt Inside v Sup 2 NoRel 3 NoRel + Right v Sup 2 NoRel 4 NoRel + Right v Sup 2 NoRel 5
+crohme2019/test/UN19_1001_em_3.inkml	n NoRel - Below 2 NoRel + NoRel 1 NoRel - Below 2
+crohme2019/test/UN19wb_1104_em_931.inkml	b Right \neq Right a
+crohme2019/test/UN19_1051_em_742.inkml	H Right H
+crohme2019/test/UN19_1012_em_174.inkml	- Right - Above 4 NoRel \sqrt Inside 7
+crohme2019/test/UN19_1044_em_643.inkml	\sqrt Inside a Sub i NoRel \sqrt Inside a Sub j NoRel \leq Right - Below 2 NoRel 1 NoRel ( Right a Sub i NoRel + Right a Sub j NoRel )
+crohme2019/test/UN19_1001_em_12.inkml	\beta Right = Right x Sub 3 NoRel y Sub 3 NoRel - Right x Sub 1 NoRel y Sub 1
+crohme2019/test/UN19_1041_em_595.inkml	x Sup 2 NoRel = Right \sum Above 3 NoRel a Right = Right 1 NoRel x Sub a NoRel 2
+crohme2019/test/UN19_1045_em_657.inkml	+ Right 7 Right + Right 8 Right + Right 1 Right 1
+crohme2019/test/UN19wb_1112_em_1052.inkml	\sin Sup 2 NoRel u
+crohme2019/test/UN19wb_1109_em_1008.inkml	s Right s
+crohme2019/test/UN19_1008_em_113.inkml	X Right - Right X
+crohme2019/test/UN19_1009_em_121.inkml	F Right = Right F Sub r Right e Right t NoRel + Right F Sub e Right x
+crohme2019/test/UN19wb_1121_em_1191.inkml	x Right COMMA Right y NoRel ( NoRel ) Right = Right M Right ( Right \cos Right ( Right \alpha Right ) Right COMMA Right \sin Right ( Right \alpha Right ) Right )
+crohme2019/test/UN19_1050_em_721.inkml	\int Right \sqrt Inside - Right g NoRel [ Right R Right - NoRel 1 NoRel - Below 1 Right 2 NoRel H Sup 2 NoRel ]
+crohme2019/test/UN19_1041_em_598.inkml	n Right \log Right n
+crohme2019/test/UN19_1002_em_26.inkml	f Right ( Right z Right ) Right = NoRel z NoRel - Below \sqrt Inside 1 Right + Right z Sup 2
+crohme2019/test/UN19wb_1121_em_1185.inkml	V Right = Right a Sup n NoRel \int Right d Sup n NoRel x Right \sqrt Inside g
+crohme2019/test/UN19_1047_em_679.inkml	\int Right d Right X
+crohme2019/test/ISICal19_1206_em_826.inkml	x Right d Right y Right = Right - NoRel j Right q NoRel - Below 1 Right + Right q Sup 2 NoRel d Right y Right x Right + NoRel j Sup 2 NoRel q Sup 2 NoRel - Right 1 NoRel - Below 1 Right + Right q Sup 2 NoRel d Right x Right y
+crohme2019/test/UN19_1024_em_342.inkml	\sqrt Inside - Above 8 NoRel 3
+crohme2019/test/UN19wb_1112_em_1063.inkml	x Sup k NoRel t Right ( Right x Right ) Right d Right x
+crohme2019/test/UN19_1006_em_88.inkml	\sqrt Inside 4 Right m
+crohme2019/test/UN19wb_1113_em_1078.inkml	b Right = Right \pm Right \sqrt NoRel 1 NoRel - Below \sqrt Inside 1 Right - Right 4 Right c
+crohme2019/test/UN19_1040_em_582.inkml	\tan Right a Right = Right 2 Right \beta
+crohme2019/test/UN19_1034_em_491.inkml	C Sub 1 NoRel = NoRel N Right + Right 1 NoRel - Below N Right - Right 1 NoRel ( NoRel N Right + Right 1 NoRel - Below 3 NoRel - NoRel 2 NoRel - Below 3 NoRel )
+crohme2019/test/UN19_1011_em_164.inkml	( Right 1 Right 2 Right 5 Right ) Right - Right ( Right 1 Right 3 Right 5 Right ) Right + Right ( Right 7 Right 3 Right 5 Right ) Right - Right ( Right 7 Right 2 Right 5 Right )
+crohme2019/test/UN19_1039_em_560.inkml	x Right = Right x Sub 0 NoRel = Right 2 Right + Right \sqrt Inside 3
+crohme2019/test/UN19_1034_em_486.inkml	5 Right 7 Right 5 NoRel - Below 2 Right 4
+crohme2019/test/UN19_1039_em_563.inkml	5 Right . Right 5 Right 7 Right - Right 8 Right . Right 2 Right 7 Right \times Right 1 Right 0 Sup - Right 3
+crohme2019/test/UN19_1026_em_367.inkml	x Sup 3 NoRel x Sup 4 NoRel x Sup 5
+crohme2019/test/UN19wb_1103_em_926.inkml	1 NoRel - Below 2 NoRel \int Sup \infty NoRel - Right \infty NoRel d Right z
+crohme2019/test/UN19_1024_em_331.inkml	x Sup 3 NoRel + Right y Sup 5 NoRel + Right z Sup 2
+crohme2019/test/UN19_1022_em_306.inkml	x Right = NoRel e Sup c Right r NoRel - Below a Right c
+crohme2019/test/UN19_1030_em_420.inkml	\tan Right \theta Right = Right 0
+crohme2019/test/UN19_1007_em_92.inkml	\sin Sup n NoRel ( Right t Right - Right t Sub 0 NoRel )
+crohme2019/test/UN19_1001_em_5.inkml	m Right \int Right d Right t
+crohme2019/test/UN19_1037_em_535.inkml	2 Right 5 Right \sqrt Above 5 NoRel 2 Sup - Right 1 Right 4 NoRel 3 Sup 7
+crohme2019/test/UN19_1017_em_228.inkml	\sum Below x NoRel \Delta Sub x Right y NoRel = Right 0
+crohme2019/test/UN19wb_1112_em_1054.inkml	r Right + Right 1 Right = Right \sum Below k NoRel n Sub k
+crohme2019/test/ISICal19_1204_em_797.inkml	b Right \geq NoRel 1 NoRel - Below a Right - Right 1
+crohme2019/test/UN19_1024_em_334.inkml	- Right - Above \pi NoRel 2 Right \beta NoRel \leq Right x Right \leq Right - Above \pi NoRel 2 Right \beta
+crohme2019/test/UN19_1009_em_132.inkml	\int Right d Sup 3 NoRel x
+crohme2019/test/UN19_1024_em_344.inkml	- Above 8 NoRel 7
+crohme2019/test/ISICal19_1211_em_886.inkml	- Right x Sub 0 NoRel \leq Right x Right \leq Right x Sub 0
+crohme2019/test/UN19_1022_em_305.inkml	A Right = Right \log Right [ Right ( Right 1 Right + Right a Right + Right \sqrt Inside 1 Right + Right 2 Right a NoRel ) Right / Right ( Right - Right a Right ) Right ]
+crohme2019/test/ISICal19_1202_em_768.inkml	1 NoRel - Below 2 NoRel ( Right n Sup 2 NoRel + Right n Right + Right 2 Right )
+crohme2019/test/UN19_1009_em_133.inkml	a Right = Right - Right b Sup - Right 1 NoRel c Right + Right b Sup - Right 1 NoRel a Right b
+crohme2019/test/UN19_1013_em_187.inkml	b Right y Right a
+crohme2019/test/ISICal19_1210_em_883.inkml	\cos Right ( Right 2 Right M Right t Right )
+crohme2019/test/UN19_1033_em_470.inkml	\lim Below N Right \rightarrow Right \infty NoRel T Sup N Right \times Right N NoRel = Right T
+crohme2019/test/ISICal19_1202_em_777.inkml	\lim Below x Right \rightarrow Right \infty NoRel f Right ( Right k Right COMMA Right x Right ) Right e Sup - Right i Right k Right x NoRel = Right 1
+crohme2019/test/ISICal19_1206_em_836.inkml	\cos Right \gamma Right = Right \cos Right \theta Right \cos Right \theta Sup \prime NoRel + Right \sin Right \theta Right \sin Right \theta Sup \prime NoRel \cos Right ( Right \phi Right - Right \phi Sup \prime NoRel )
+crohme2019/test/UN19_1036_em_524.inkml	2 Right \pi NoRel - Below \beta NoRel ( Right n Right + NoRel 1 NoRel - Below 2 NoRel )
+crohme2019/test/UN19_1035_em_496.inkml	y Right \geq Right a
+crohme2019/test/UN19wb_1111_em_1044.inkml	a Right \geq Right - NoRel 1 NoRel - Below 4
+crohme2019/test/UN19_1050_em_724.inkml	c Right ( Right w Right ) Right = Right \sum Below n NoRel c Sub n NoRel w Sup - Right n Right + Right 1
+crohme2019/test/UN19_1029_em_406.inkml	\pm Right 1 Right COMMA Right \pm Right 2 Right COMMA Right \pm Right 3 Right COMMA Right \pm Right 6
+crohme2019/test/UN19_1013_em_193.inkml	h Sub x Right x NoRel = Right - Right h Sub y Right y
+crohme2019/test/UN19_1030_em_429.inkml	9 Right - Right n
+crohme2019/test/UN19wb_1116_em_1112.inkml	\int Right R Sup n
+crohme2019/test/UN19_1026_em_369.inkml	\sqrt Inside 1 Right + Right z Sup 2
+crohme2019/test/UN19_1020_em_280.inkml	f Right ( Right y Right COMMA Right \cos Right ( Right y Right ) Right COMMA Right \sin Right ( Right y Right ) Right )
+crohme2019/test/UN19wb_1107_em_981.inkml	1 Right 2 Sup - Right 1 NoRel 4 Right 5 Right 3 Right 1 Sup - Right 1 NoRel 2 Right 3 Sup - Right 1 NoRel 6 Sup - Right 1 NoRel 4 Sup - Right 1
+crohme2019/test/ISICal19_1206_em_831.inkml	f Sup a Right b Right c NoRel + Right f Sup a Right c Right b NoRel = Right 0
+crohme2019/test/UN19_1010_em_136.inkml	x Sup 1 NoRel \ldots Right x Sup 5
+crohme2019/test/UN19_1009_em_130.inkml	\int Right d Sup d NoRel x Right e Right ( Right x Right )
+crohme2019/test/UN19_1013_em_188.inkml	\int Right \sqrt Inside g Sup ( Right 2 Right )
+crohme2019/test/ISICal19_1202_em_770.inkml	\cos Right \beta Sub n NoRel x
+crohme2019/test/UN19_1021_em_294.inkml	\sin Right ( Right x Right )
+crohme2019/test/UN19_1048_em_698.inkml	\sum Below n NoRel n Sup - Right 1
+crohme2019/test/UN19_1003_em_39.inkml	R Right = NoRel 1 NoRel - Below 2 NoRel \sqrt Inside a Sub 3 NoRel + Right a Sub 1
+crohme2019/test/UN19_1049_em_711.inkml	3 Right - Right 9 Right \cos Right \theta
+crohme2019/test/UN19wb_1104_em_943.inkml	- Above 1 NoRel \sqrt Inside 2
+crohme2019/test/UN19_1004_em_50.inkml	z Right = NoRel - Right b NoRel - Below a
+crohme2019/test/UN19_1036_em_521.inkml	g Right = NoRel ( Right a Right + Right b Right ) Right ( NoRel + Right b Right - Right 1 Right ) NoRel - Below 2 NoRel a
+crohme2019/test/ISICal19_1210_em_877.inkml	1 NoRel - Below 2 NoRel \times NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1015_em_195.inkml	c Right d Right z NoRel - Below z Right - Right P Sub 1 NoRel - NoRel c Right d Right z NoRel - Below z Right - Right P Sub 2 NoRel + Right f NoRel z NoRel ( NoRel ) Right d Right z
+crohme2019/test/UN19wb_1118_em_1149.inkml	C Right t Right = Right t Right C
+crohme2019/test/UN19_1002_em_20.inkml	d Right s Sup 2 NoRel = Right d Right t Sup 2 NoRel - NoRel 2 NoRel a NoRel t Right ) Right d Right x Sup 2 NoRel - Right b Sup 2 NoRel ( Right t Right ) Right ( Right d Right y Sup 2 NoRel + Right d Right z Sup 2 NoRel ) NoRel (
+crohme2019/test/ISICal19_1202_em_766.inkml	- Above y Sub 1 NoRel x Sub 2 NoRel - Right y Sub 2 NoRel x Sub 1 NoRel x Sub 2 NoRel - Right x Sub 1
+crohme2019/test/UN19wb_1112_em_1062.inkml	- Above ( Right s Sup 2 NoRel + Right t Sup 2 NoRel + Right u Sup 2 NoRel ) Sup 2 NoRel s Right t Right u
+crohme2019/test/UN19_1047_em_686.inkml	a Sup a NoRel ( Right x Right ) Right a Sub a NoRel ( Right x Right )
+crohme2019/test/UN19_1046_em_660.inkml	8 Right 9 Right ( Right 1 Right 9 Right 6 Right 1 Right ) Right 9
+crohme2019/test/UN19wb_1110_em_1033.inkml	8 Right 1 Right c Sup 3 NoRel + Right 2 Right 7 Right c Sup 2 NoRel - Right 5 Right 7 Right c Right - Right 1 Right 1
+crohme2019/test/UN19_1027_em_384.inkml	4 Right n Right = NoRel 2 Right n Right \times Right 2 Right n NoRel - Below n
+crohme2019/test/UN19_1044_em_631.inkml	f Right = Right z Sup 1 NoRel ( Right \cos Right \theta Right z Sup 2 NoRel + Right \sin Right \theta Right z Sup 1 NoRel )
+crohme2019/test/UN19_1011_em_152.inkml	2 Right \sin Sup 2 NoRel x Right = Right ( Right 1 Right - Right \cos Right 2 Right x Right )
+crohme2019/test/UN19_1043_em_623.inkml	2 Right \sin Sup 2 NoRel \alpha Right = Right 1 Right - Right \cos Right 2 Right \alpha
+crohme2019/test/ISICal19_1205_em_813.inkml	- NoRel ( Right 1 Right - Right z Sup 2 NoRel ) Right ( Right 1 Right + Right z Right ) Sup 2 NoRel - Below 3 Right 2
+crohme2019/test/UN19_1023_em_317.inkml	X Sup 1 Right 1 NoRel + Right X Sup 1 Right 2 NoRel + Right X Sup 2 Right 1 NoRel = Right C
+crohme2019/test/ISICal19_1201_em_753.inkml	x Sub 1 NoRel 2 NoRel + Right x Sub 2 NoRel 2 NoRel + Right x Sub 3 NoRel 2 NoRel = Right 1
+crohme2019/test/UN19_1025_em_349.inkml	y Right = NoRel 3 NoRel z Sup 3 NoRel + Right \sqrt Inside z Sup 6 NoRel + Right 1 Right 6 Right k Sup 2
+crohme2019/test/UN19_1051_em_746.inkml	( Right x Right + Right y Right ) Sup n NoRel = Right \sum Below k Right = Right 0 NoRel n NoRel C Sup k NoRel n NoRel x Sup n Right - Right k NoRel y Sup k
+crohme2019/test/UN19wb_1112_em_1055.inkml	\sin Right y Sub 0
+crohme2019/test/ISICal19_1207_em_846.inkml	k Sub v NoRel ( Right x Right COMMA Right y Right ) Right = Right x Sup 1 Right 1 NoRel y Right + Right 1 Right 1 Right x Sup 6 NoRel y Sup 6 NoRel - Right x Right y Sup 1 Right 1
+crohme2019/test/UN19_1050_em_725.inkml	\{ Right \{ Right A Right COMMA Right B Right \} Right COMMA Right C Right \} Right + Right \{ Right \{ Right C Right COMMA Right A Right \} Right COMMA Right B Right \} Right + Right \{ Right \{ Right B Right COMMA Right C Right \} Right COMMA Right A Right \}
+crohme2019/test/UN19_1044_em_641.inkml	b Sub c NoRel = Right - Below 2 NoRel 1 NoRel \log Right ( Right \sqrt Inside 2 NoRel + Right 1 Right )
+crohme2019/test/UN19_1019_em_264.inkml	\log Right ( Right 1 Right + Right 2 Right \cos Right ( Right \pi Right j Right ) Right )
+crohme2019/test/UN19_1027_em_385.inkml	b Right + NoRel 4 Right B Right \pi Sup 2 NoRel \sqrt Inside 1 Right - Right x NoRel - Below \sqrt Inside 1 Right + Right 3 Right x NoRel - Right 4 Right ( Right \gamma Right + Right \log Right ( Right 4 Right ) Right )
+crohme2019/test/UN19_1016_em_217.inkml	n Sub 1 NoRel \sin Right \theta Sub 1 NoRel = Right n Sub 2 NoRel \sin Right \theta Sub 2
+crohme2019/test/UN19_1021_em_291.inkml	p Right 2 Sup - Right p NoRel - Below 1 Right + Right p NoRel + Right 1 NoRel ( NoRel )
+crohme2019/test/UN19_1020_em_274.inkml	A Right = Right A Sup x NoRel e Sub x NoRel + Right A Sup y NoRel e Sub y
+crohme2019/test/UN19_1028_em_392.inkml	z Right = Right x Sub 2 Right 1 NoRel x Sub 1 Right 3 NoRel - Right 1 NoRel x Sub 3 Right 4 NoRel x Sup - Right 1 NoRel 4 Right 2
+crohme2019/test/ISICal19_1209_em_857.inkml	\sum Below i NoRel a Sub i NoRel = Right 0 Right = Right \sum NoRel \sum NoRel i NoRel t Sub i
+crohme2019/test/UN19wb_1118_em_1154.inkml	\lim Below x Right \rightarrow Right \pm Right \infty NoRel P Right ( NoRel e Sup i Right k Right x NoRel - Below k NoRel )
+crohme2019/test/UN19_1005_em_73.inkml	\sin Right \theta Right \leq Right 1
+crohme2019/test/UN19wb_1106_em_960.inkml	E Sub 0 NoRel = Right - Right 1 Right + Right 4 Right - Above 1 NoRel 4 NoRel - Above 1 NoRel 2 NoRel 1 NoRel - Below 2 NoRel = Right - NoRel 3 NoRel - Below 4
+crohme2019/test/UN19wb_1106_em_963.inkml	( Right 1 Right 2 Right 5 Right ) Right - Right ( Right 1 Right 3 Right 5 Right ) Right + Right ( Right 7 Right 3 Right 5 Right ) Right - Right ( Right 7 Right 2 Right 5 Right ) Right - Right ( Right 1 Right 2 Right 4 Right 6 Right ) Right - Right ( Right 7 Right 3 Right )
+crohme2019/test/UN19_1016_em_210.inkml	a Right + Right \sqrt Inside - Right d NoRel b
+crohme2019/test/ISICal19_1210_em_884.inkml	\phi Right ( Right y Right ) Right = Right 1 Right - NoRel 1 NoRel - Below 4 NoRel y Sup 2 NoRel - NoRel 1 NoRel - Below 1 Right 6 NoRel y Sup 4 NoRel \log Right y Right + Right \ldots
+crohme2019/test/UN19wb_1103_em_928.inkml	x Right d Right x
+crohme2019/test/ISICal19_1203_em_780.inkml	1 NoRel - Below 6 NoRel ( Right 2 Right 4 Right + Right 9 Right n Right + Right n Sup 2 NoRel )
+crohme2019/test/UN19wb_1120_em_1175.inkml	n NoRel - Below 2 NoRel + NoRel 3 NoRel - Below 2
+crohme2019/test/UN19_1042_em_612.inkml	\cos Right ( Right n Right X Right )
+crohme2019/test/UN19_1023_em_325.inkml	\sqrt Inside - Right E
+crohme2019/test/UN19_1008_em_111.inkml	p Right \times Right p
+crohme2019/test/ISICal19_1202_em_778.inkml	a Right + NoRel 1 NoRel - Below 2 NoRel \geq Right 0
+crohme2019/test/UN19_1034_em_488.inkml	- Right 4 Right ( Right \gamma Right + Right \log Right 4 Right ) Right + Right b Right - NoRel 4 Right B Right \pi Sup 2 NoRel \sqrt Inside 1 NoRel x NoRel - NoRel - Below \sqrt Inside 1 Right + Right 3 Right x
+crohme2019/test/UN19wb_1119_em_1160.inkml	\sum Below i NoRel p Sub i NoRel = Right \sum Below i NoRel p Sub i NoRel 2 NoRel = Right 1
+crohme2019/test/UN19wb_1102_em_903.inkml	a Sup i NoRel = Right - Above 1 NoRel \sqrt Inside 2 Right m NoRel ( Right p Sup i NoRel + Right i Right m Right x Sup i NoRel 0 NoRel )
+crohme2019/test/UN19_1011_em_158.inkml	\int Right \sqrt Inside g NoRel R Sup 2
+crohme2019/test/UN19wb_1103_em_921.inkml	( Right - Right - Right 0 Right 0 Right ) NoRel 1 NoRel 2 NoRel 1 NoRel 2
+crohme2019/test/ISICal19_1204_em_807.inkml	( Right t Right - Right x Right ) Right ( Right t Right + Right x Right ) Right \gt Right 0
+crohme2019/test/UN19_1033_em_478.inkml	| Right x Right | Right = NoRel x Sub 1 NoRel 2 NoRel + Right x Sub 2 NoRel 2 NoRel + Right x Sub 3 NoRel 2 NoRel \sqrt
+crohme2019/test/ISICal19_1209_em_856.inkml	e Right . Right g
+crohme2019/test/UN19_1048_em_694.inkml	- Right 1 NoRel - Below \sqrt Inside 2
+crohme2019/test/UN19_1041_em_594.inkml	r Right = Right \sqrt Inside ( Right X Sup 1 NoRel ) Sup 2 NoRel + Right \ldots Right + Right ( Right X Sup p Right + Right 1 NoRel ) Sup 2
+crohme2019/test/UN19_1037_em_536.inkml	\sum Below a NoRel n Sub a
+crohme2019/test/ISICal19_1211_em_894.inkml	1 NoRel - Below 5
+crohme2019/test/UN19_1032_em_453.inkml	x Right \neq Right 0
+crohme2019/test/ISICal19_1201_em_764.inkml	f Right - Right l Right + Right e Sub 5 NoRel + Right e Sub 4 NoRel + Right e Sub 7 NoRel + Right e Sub 9
+crohme2019/test/UN19wb_1110_em_1020.inkml	p Right \geq Right 7
+crohme2019/test/UN19_1023_em_326.inkml	n Right \times Right 3
+crohme2019/test/UN19_1007_em_97.inkml	\sqrt NoRel 1 NoRel - Below n Right + Right 1
+crohme2019/test/UN19_1033_em_469.inkml	8 Right + Right 8 Right + Right 8 Right + Right 8 Right + Right 6
+crohme2019/test/UN19_1007_em_99.inkml	\sin Sup 2 NoRel ( NoRel 2 Right 4 Right 0 NoRel - Below 2 Right 3 Right 9 NoRel L NoRel - Below 4 Right E Right R Sup 2 NoRel )
+crohme2019/test/UN19_1035_em_506.inkml	f Sup 2 NoRel - Right f Right + Right x Right = Right 0
+crohme2019/test/UN19wb_1112_em_1064.inkml	\alpha Right = Right - Above 1 NoRel \tan Right \theta
+crohme2019/test/UN19wb_1119_em_1155.inkml	x Right - Above P Right ( Right - Right x Right ) NoRel ( Right x Right P Right ( Right x Right ) Right ) Sup 2
+crohme2019/test/UN19_1051_em_745.inkml	7 NoRel - Below 4
+crohme2019/test/ISICal19_1204_em_800.inkml	w Right = NoRel b NoRel - Below 2 NoRel ( Right z Right + NoRel 1 NoRel - Below z NoRel )
+crohme2019/test/UN19wb_1102_em_909.inkml	- Right 2 Right x Sup - Right 1 NoRel + NoRel 1 NoRel - Below 2 NoRel ( Right 1 Right + Right x Sup - Right 2 NoRel ) Right = Right 0
+crohme2019/test/UN19wb_1110_em_1031.inkml	1 NoRel - Below 2 NoRel - Above 1 NoRel 2 NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1039_em_566.inkml	e Right = Right \tan Right b Right / Right c
+crohme2019/test/UN19_1038_em_541.inkml	c Sub 0 NoRel x Sup 3 NoRel + Right c Sub 1 NoRel x Sup 2 NoRel + Right c Sub 2 NoRel x Right + Right c Sub 3
+crohme2019/test/UN19wb_1107_em_977.inkml	\sqrt Inside G Right ( Right x Right COMMA Right y Right ) NoRel = Right a Sup d NoRel ( Right y Right ) Right \sqrt Inside G Right ( Right x Right )
+crohme2019/test/UN19wb_1107_em_980.inkml	1 NoRel - Below e Sup x NoRel - Right 1 NoRel = Right \sum Below n Right = Right 1 NoRel \infty NoRel e Sup - Right n Right x
+crohme2019/test/UN19wb_1121_em_1193.inkml	a Right p Right = Right \sin Right ( Right a Right E Right ) Right v
+crohme2019/test/UN19_1035_em_503.inkml	z Right = Right x Right + Right \sqrt Inside x Sup 2 NoRel - Right 1
+crohme2019/test/UN19_1013_em_186.inkml	V Sub 1 NoRel = Right - Right \log Right | Right \sin Right x Right |
+crohme2019/test/UN19wb_1108_em_1004.inkml	2 Right 5 NoRel - Below 9 Right 6 NoRel \sqrt Inside \pi NoRel - Below R Sup 3
+crohme2019/test/UN19wb_1105_em_954.inkml	R Right ( Right \theta Right ) Right = Right \tan Right ( Right \theta Right )
+crohme2019/test/UN19_1033_em_479.inkml	\lim Below e Right \rightarrow Right \infty NoRel R Right ( Right e Right ) Right / Right e Right = Right 0
+crohme2019/test/UN19_1045_em_650.inkml	\sqrt Inside y Sup 2 NoRel = Right y
+crohme2019/test/UN19_1017_em_230.inkml	t Right \times Right t
+crohme2019/test/UN19_1028_em_400.inkml	f Right ( Right x Right ) Right g Right ( Right y Right ) Right - Right f Right ( Right y Right ) Right g Right ( Right x Right ) Right = Right f Right ( Right x Right + Right y Right ) Right [ Right V Right ( Right y Right ) Right - Right V Right ( Right x Right ) Right ]
+crohme2019/test/UN19_1032_em_452.inkml	\cos NoRel Y NoRel ( NoRel )
+crohme2019/test/UN19wb_1115_em_1106.inkml	\int Right d Right y Right \int Right d Right x
+crohme2019/test/UN19_1001_em_13.inkml	a Sup 1 NoRel a Sup 2 NoRel a Sup 3 NoRel a Sup 4 NoRel a Sup 5
+crohme2019/test/UN19_1002_em_25.inkml	\lim Below k Right \rightarrow Right 0 NoRel R Sub k NoRel = Right 0
+crohme2019/test/UN19wb_1105_em_953.inkml	2 NoRel - Below 5 NoRel = Right - Above 1 NoRel 3 NoRel + Right - Above 1 NoRel 1 Right 5
+crohme2019/test/UN19_1026_em_372.inkml	k Right \times Right x
+crohme2019/test/UN19_1020_em_271.inkml	V Right = NoRel 1 NoRel - Below 4 NoRel k Right ( Right x Right - NoRel L NoRel - Below 2 NoRel ) Sup 2 NoRel + NoRel 1 NoRel - Below 4 NoRel k Right ( Right x Right + NoRel L NoRel - Below 2 NoRel ) Sup 2
+crohme2019/test/UN19_1042_em_611.inkml	9 Right \times Right 9
+crohme2019/test/UN19wb_1111_em_1036.inkml	a Right = Right \sin Right \theta
+crohme2019/test/ISICal19_1201_em_758.inkml	e Sup - Right i Right u Right / Right 2 NoRel ( Right a Sub 1 NoRel + Right i Right a Sub 2 NoRel ) Right = Right x Sub 1 NoRel + Right i Right x Sub 2 NoRel = Right e Sup i Right u Right / Right 2 NoRel ( Right b Sub 1 NoRel + Right i Right b Sub 2 NoRel )
+crohme2019/test/UN19wb_1102_em_905.inkml	T Sub \mu Sup 1 NoRel 1 NoRel \ldots Right \mu Sup 1 NoRel p Sub 1 NoRel \ldots Right \mu Sup i NoRel 1 NoRel \ldots NoRel \mu NoRel i NoRel p NoRel i NoRel \ldots Right \mu Sup N NoRel p Sub N
+crohme2019/test/ISICal19_1207_em_841.inkml	- Right 3 NoRel - Below \sqrt Inside 6 Right 0
+crohme2019/test/ISICal19_1206_em_832.inkml	\sin Right ( Right 2 NoRel d NoRel - Below d Right k NoRel )
+crohme2019/test/UN19_1006_em_77.inkml	- Right x Right \leq Right y
+crohme2019/test/UN19_1029_em_409.inkml	x Right y Right = Right \sum Below j Right = Right 1 NoRel n NoRel x Sub j NoRel y Sub j
+crohme2019/test/UN19_1050_em_722.inkml	H Sub n NoRel = Right \sum Below j NoRel a Sub j NoRel n Right - Right 1 NoRel b Sub j
+crohme2019/test/UN19_1051_em_749.inkml	\sin Sup 2 NoRel \alpha
+crohme2019/test/UN19_1004_em_46.inkml	( Right 0 Right 0 Right 1 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right )
+crohme2019/test/UN19_1018_em_240.inkml	a Right = Right 1 Right \ldots Right 7
+crohme2019/test/UN19_1011_em_161.inkml	2 Right 7 NoRel - Below 7
+crohme2019/test/UN19_1030_em_431.inkml	x Sup 8 NoRel - Right x Sup 9
+crohme2019/test/ISICal19_1204_em_798.inkml	( Right 2 Right 0 Right 0 Right 0 Right ) Right 5 Right 9 Right 2 Right 0 Right - Right 5 Right 9 Right 3 Right 3
+crohme2019/test/UN19_1044_em_636.inkml	- Right - Below 4 NoRel 1 NoRel + Right x
+crohme2019/test/UN19wb_1110_em_1027.inkml	\lim Below p Right \rightarrow Right \infty NoRel u Right ( Right | Right p Right | Right ) Right = Right \infty
+crohme2019/test/UN19_1042_em_608.inkml	6 NoRel - Below \sqrt Inside 6 Right 0
+crohme2019/test/UN19_1024_em_336.inkml	1 Right + Right 5 Right + Right 7
+crohme2019/test/UN19wb_1116_em_1110.inkml	1 NoRel - Below x Sub 3 NoRel - Right x Sub 1
+crohme2019/test/UN19_1035_em_508.inkml	\sqrt Inside i Right r Right ( Right x Right )
+crohme2019/test/UN19wb_1102_em_901.inkml	2 Right 9 Right ( Right 1 Right 9 Right 8 Right 8 Right ) Right 2 Right 5 Right 3 Right 3
+crohme2019/test/UN19_1026_em_363.inkml	c Right = NoRel b Right - Right 1 NoRel - Below b Right + Right 1
+crohme2019/test/UN19_1043_em_628.inkml	a Right ( Right x Right ) Right a Right ( Right y Right ) Right a Right ( Right z Right )
+crohme2019/test/UN19_1025_em_348.inkml	9 NoRel - Below 2
+crohme2019/test/ISICal19_1211_em_896.inkml	1 Right - Right b Right x Right - Right c Right x Sup 2 NoRel \neq Right 0
+crohme2019/test/UN19wb_1118_em_1147.inkml	+ Right 1 Right 3 Right + Right 1 Right 7 Right + Right 1 Right 9
+crohme2019/test/ISICal19_1211_em_893.inkml	1 NoRel - Below x NoRel x Right = Right 1
+crohme2019/test/UN19wb_1102_em_910.inkml	\int Below 0 NoRel \infty NoRel \sin Right x
+crohme2019/test/UN19_1006_em_78.inkml	3 Right 5 NoRel - Below 5 Right 2 Right 8
+crohme2019/test/ISICal19_1211_em_895.inkml	a Right + NoRel 1 NoRel - Below 2 NoRel \geq NoRel 1 NoRel - Below 2
+crohme2019/test/UN19_1021_em_292.inkml	( Right 1 Right - Right \cos Right z Right )
+crohme2019/test/UN19_1048_em_700.inkml	x Sup 1 NoRel ( NoRel ) Sup 2 NoRel + Right ( Right x Sup 2 NoRel ) Sup 2 NoRel + Right \ldots Right + Right ( Right x Sup n Right + Right 1 NoRel ) Sup 2 NoRel = Right 1
+crohme2019/test/UN19wb_1121_em_1190.inkml	n Right \geq Right 9
+crohme2019/test/UN19_1048_em_695.inkml	s Right ( Right u Right ) Right = Right - Above \sin Right ( Right u Right ) NoRel \sin Right ( Right \lambda Right )
+crohme2019/test/UN19_1017_em_235.inkml	\theta Right = Right \lim Right n Sub m NoRel m NoRel / Right s Sub m
+crohme2019/test/UN19_1045_em_647.inkml	r Sup 2 NoRel = Right \sum Below i NoRel y Sup i NoRel y Sup i
+crohme2019/test/UN19_1050_em_727.inkml	t Right + Right \pi
+crohme2019/test/UN19wb_1121_em_1198.inkml	2 Right \pi NoRel - Below 3 NoRel - NoRel 4 Right \pi NoRel - Below 9 NoRel = NoRel 2 Right \pi NoRel - Below 9
+crohme2019/test/UN19wb_1105_em_946.inkml	\sin Right m Right r
+crohme2019/test/UN19_1034_em_481.inkml	h Right = Right \tan Right ( Right \pi Right / Right p Right )
+crohme2019/test/UN19_1006_em_86.inkml	a NoRel - Below b NoRel = NoRel k Sup 2 NoRel + Right 1 NoRel - Below k Sup 2 NoRel - Right 1
+crohme2019/test/UN19_1043_em_621.inkml	x Right \times Right y
+crohme2019/test/UN19_1010_em_147.inkml	X Right \times Right X
+crohme2019/test/UN19_1006_em_79.inkml	7 Right \times Right 7
+crohme2019/test/UN19wb_1109_em_1018.inkml	x Right = Right y Right \tan Right \theta
+crohme2019/test/UN19_1039_em_559.inkml	z Right \geq NoRel 9 NoRel - Below 8
+crohme2019/test/UN19wb_1113_em_1070.inkml	B Right = Right \sum Right n Sub y NoRel ( Right y Right ) NoRel y
+crohme2019/test/UN19wb_1116_em_1115.inkml	z Right ( Right s Right ) Right = Right \sin Right \theta Right \cos Right \phi Right r Sub 1 NoRel + Right \sin Right \theta Right \sin Right \phi Right r Sub 2 NoRel + Right \cos Right \theta Right r Sub 3
+crohme2019/test/ISICal19_1211_em_888.inkml	t Right - Right t
+crohme2019/test/UN19wb_1117_em_1132.inkml	\tan Right ( Right \theta Right / Right 2 Right ) Right \sin Sup 2 NoRel ( Right \theta Right / Right 2 Right )
+crohme2019/test/UN19wb_1109_em_1019.inkml	S Sup 2 NoRel \times Right S Sup 2 NoRel \times Right S Sup 2 NoRel \times Right S Sup 2
+crohme2019/test/UN19_1029_em_416.inkml	f Sub r Right a Right t NoRel = NoRel x Right - Right 1 NoRel - Below x Right + Right 1
+crohme2019/test/UN19_1002_em_24.inkml	x Sup p Right + Right 1 NoRel \ldots Right x Sup 5
+crohme2019/test/UN19wb_1118_em_1144.inkml	x Sup 2 NoRel j NoRel + Right x Sub j NoRel = Right x Sub j NoRel ( Right x Sub j NoRel + Right 1 Right )
+crohme2019/test/UN19_1022_em_311.inkml	\int Right R Right \sqrt Inside g
+crohme2019/test/ISICal19_1206_em_833.inkml	- NoRel 8 NoRel - Below \sqrt Inside 7 NoRel \leq Right c Sub 1 NoRel \leq Right 0
+crohme2019/test/UN19wb_1106_em_973.inkml	F Right ( Right z Right ) Right = Right f Right ( Right z Right COMMA Right \cos Right ( Right z Right ) Right COMMA Right \sin Right ( Right z Right ) Right )
+crohme2019/test/UN19_1027_em_381.inkml	z Right y Sup 2 NoRel = Right 4 Right x Sup 3 NoRel - Right g Sub 2 NoRel z Sup 2 NoRel x Right - Right g Sub 3 NoRel z Sup 3
+crohme2019/test/UN19_1032_em_464.inkml	r Right = Right \sqrt Inside x Sup 1 NoRel 2 NoRel ) NoRel ( NoRel + Right ( Right x Sup 2 NoRel 2 NoRel )
+crohme2019/test/UN19_1044_em_638.inkml	\pm Right - Below 9 Right 6 NoRel 2 Right 5 NoRel - Below R Sup 3 NoRel \sqrt Inside \pi
+crohme2019/test/UN19_1038_em_554.inkml	C Sub 2 NoRel ( Right j Right COMMA NoRel 1 NoRel - Below 2 NoRel COMMA Right \ldots Right COMMA Right \pm NoRel 1 NoRel - Below 2 NoRel ) Right = Right ( Right j Right - NoRel 1 NoRel - Below 2 NoRel ) Right ( Right j Right + Right 2 Right n Right - NoRel 3 NoRel - Below 2 NoRel ) Right + NoRel 1 NoRel - Below 4 NoRel n Right ( Right 2 Right n Right - Right 1 Right )
+crohme2019/test/UN19wb_1104_em_942.inkml	- Above - Right 4 NoRel \sqrt Inside 6 Right 0
+crohme2019/test/UN19_1020_em_279.inkml	- Right t Sup 2 NoRel - Right u Sup 2 NoRel + Right x Sup 2 NoRel + Right y Sup 2 NoRel = Right - Right 1
+crohme2019/test/UN19_1016_em_215.inkml	c Right c Right ( Right c Right a Right )
+crohme2019/test/UN19_1036_em_512.inkml	h Sub x Right x NoRel = NoRel h Sub y Right y NoRel \neq Right 0 NoRel -
+crohme2019/test/UN19wb_1106_em_967.inkml	6 Right + Right 8 Right + Right 1 Right 6 Right COMMA Right 6 Right + Right 6 Right + Right 8 Right + Right 1 Right 0
+crohme2019/test/UN19_1022_em_314.inkml	( Right 0 Right 0 Right )
+crohme2019/test/UN19wb_1112_em_1060.inkml	\sum Right A Sub i
+crohme2019/test/UN19wb_1106_em_968.inkml	f Right ( Right c Right ) Right = Right f Right ( Right a Right ) Right + Right \sqrt Inside 2 NoRel f Right ( Right b Right ) Right i
+crohme2019/test/ISICal19_1201_em_759.inkml	\int Right c Sub 3
+crohme2019/test/UN19wb_1115_em_1095.inkml	6 Right 4 Right x Sup 6 NoRel - Right 8 Right 0 Right x Sup 4 NoRel + Right 2 Right 4 Right x Sup 2 NoRel - Right 1
+crohme2019/test/UN19wb_1103_em_918.inkml	0 Right \leq Right x Right \leq NoRel 1 NoRel - Below 4
+crohme2019/test/UN19_1029_em_417.inkml	x Right \neq Right a
+crohme2019/test/UN19_1037_em_539.inkml	\lim Right o Right ( Right n Right )
+crohme2019/test/UN19wb_1114_em_1090.inkml	x Sub a Right b Right c NoRel = Right x Sub a NoRel + Right x Sub b NoRel - Right x Sub c
+crohme2019/test/UN19_1040_em_572.inkml	\lim Below t Right \rightarrow Right \infty NoRel | Right \gamma Right ( Right t Right ) Right | Right = Right \infty
+crohme2019/test/UN19wb_1103_em_917.inkml	( Right + Right - Above 1 NoRel 2 NoRel COMMA Right + Right - Right COMMA Right + Right - Right COMMA Right + Right - Right COMMA Right - Right - NoRel 1 NoRel 1 NoRel 1 NoRel 1 NoRel ) NoRel 2 NoRel 2 NoRel 2 NoRel 2
+crohme2019/test/UN19_1020_em_282.inkml	x Right + Right u
+crohme2019/test/UN19_1031_em_443.inkml	C Right = NoRel 1 NoRel - Below 2 NoRel \sqrt NoRel 5 NoRel - Below 3
+crohme2019/test/UN19_1010_em_139.inkml	\beta Right = Right \sqrt Inside \beta Sub a NoRel \beta Sup a
+crohme2019/test/ISICal19_1210_em_871.inkml	- Right a Right \lt Right b Right \leq Right a
+crohme2019/test/UN19_1016_em_220.inkml	4 Right ( Right x Sup 0 NoRel - Right y Sup 0 NoRel ) Right - Right 2 NoRel x Sup 0 NoRel ( NoRel - Right y Sup 0 NoRel ) Right ( Right 1 Right + Right 1 Right ) Right = Right 0
+crohme2019/test/UN19_1001_em_9.inkml	[ Right a Right b Right ] Right = Right a Right b Right - Right b Right a
+crohme2019/test/UN19wb_1103_em_925.inkml	\sin Right \alpha Right = Right 0
+crohme2019/test/UN19wb_1103_em_924.inkml	\sqrt Inside a Right b
+crohme2019/test/UN19_1048_em_696.inkml	- NoRel 4 Right 4 Right 8 Right 3 NoRel - Below 9 Right 4 Right 5
+crohme2019/test/UN19_1047_em_680.inkml	2 Right 4 Right + Right 8 Right + Right 6 Right COMMA Right 1 Right 6 Right + Right 1 Right 6 Right + Right 6 Right COMMA Right 1 Right 6 Right + Right 8 Right + Right 8 Right + Right 6 NoRel 1 Right 2 Right + Right 1 Right 2 Right + Right 8 Right + Right 6 NoRel 1 Right 2 Right + Right 8 Right + Right 6 Right + Right 6 Right + Right 6 NoRel COMMA NoRel COMMA
+crohme2019/test/UN19_1037_em_528.inkml	( Right z Right ) Right = NoRel \sin Right ( NoRel \theta NoRel - Below 2 Right i NoRel + NoRel \pi NoRel - Below 2 Right \pi NoRel z Right ) NoRel - Below \sin Right ( NoRel \theta NoRel - Below 2 Right i NoRel - NoRel \pi NoRel - Below 2 Right h NoRel z Right )
+crohme2019/test/UN19_1046_em_664.inkml	1 NoRel - Below x Sub 4 NoRel - Right x Sub 1
+crohme2019/test/UN19_1049_em_716.inkml	f Right ( Right x Right COMMA Right y Right ) Right = Right a Right x Sup 2 NoRel + Right b Right x Right y Right + Right c Right y Sup 2
+crohme2019/test/UN19_1042_em_600.inkml	y Right d Right x Right = NoRel j Sup 2 NoRel - Right q Sup 2 NoRel - Below 1 Right + Right q Sup 2 NoRel d Right y Right x Right - NoRel j Right q NoRel - Below 1 Right + Right q Sup 2 NoRel d Right x Right y
+crohme2019/test/UN19_1046_em_661.inkml	H Sub ( Right 2 Right ) NoRel 2 NoRel - Below 3 NoRel - NoRel 1 NoRel - Below 3 NoRel - Right - Above 1 NoRel 3 NoRel = Right 1
+crohme2019/test/UN19wb_1105_em_956.inkml	- Above e NoRel \sqrt Inside 2 Right \pi
+crohme2019/test/UN19wb_1110_em_1021.inkml	B Right = NoRel 2 Right \beta NoRel - Below \alpha NoRel ( NoRel \pi Right \alpha NoRel - Below \sin Right \pi Right \alpha NoRel ) Sup 2
+crohme2019/test/UN19_1026_em_361.inkml	\alpha Right ( Right 1 Right - Right \cos Right t Right )
+crohme2019/test/UN19_1044_em_639.inkml	f Right = Right a Sub 1 NoRel ( Right x Right - Right x Sub h NoRel ) Right + Right a Sub 2 NoRel ( Right x Right - Right x Sub h NoRel ) Sup 2
+crohme2019/test/UN19_1036_em_513.inkml	T Right ( Right x Right ) Right = Right i Right u Right \sin Right ( Right x Right )
+crohme2019/test/UN19_1043_em_625.inkml	\int Right \sqrt Inside h Right ( Right b Right ) NoRel d Right b
+crohme2019/test/UN19wb_1121_em_1196.inkml	8 Right \times Right 8
+crohme2019/test/UN19_1030_em_430.inkml	b Right - NoRel 4 Right B Right \pi Sup 2 NoRel \sqrt Inside 1 Right - Right x NoRel - NoRel 1 Right + Right 3 Right x NoRel \sqrt NoRel - Right 4 Right ( Right \gamma Right + Right \log Right ( Right 4 Right ) Right )
+crohme2019/test/ISICal19_1207_em_848.inkml	a Right = Right n Right + NoRel 1 NoRel - Below 2 NoRel COMMA Right n Right + NoRel 5 NoRel - Below 6
+crohme2019/test/UN19_1029_em_411.inkml	1 NoRel - Below c
+crohme2019/test/UN19wb_1108_em_990.inkml	\sum Below x NoRel d Sub x NoRel = Right 7 Right 2 Right 0
+crohme2019/test/UN19_1042_em_613.inkml	\lim Below z Right \rightarrow Right \infty NoRel z Right s Right ( Right z Right )
+crohme2019/test/UN19wb_1113_em_1067.inkml	f Right = Right \lim Right f Sub N Right - Right i NoRel N Right \rightarrow Right \infty
+crohme2019/test/UN19_1022_em_312.inkml	b Right ( Right x Right ) Right = NoRel 1 NoRel - Below 2 Right \pi NoRel [ Right - Above 2 NoRel ( Right x Right + Right \theta Right ) Sup 2 NoRel + Right 1 NoRel + Right - Above 2 NoRel ( Right x Right - Right \theta Right ) Sup 2 NoRel + Right 1
+crohme2019/test/UN19wb_1113_em_1065.inkml	x Right d Right x Right = Right a Sub 1 NoRel d Right x Right x Right + Right b Sub 1 NoRel d Right y Right x Right + Right c Sub 1 NoRel d Right x Right y Right + Right d Sub 1 NoRel d Right y Right y
+crohme2019/test/ISICal19_1207_em_852.inkml	\sin Right E Right t
+crohme2019/test/UN19_1013_em_180.inkml	\log Right ( Right z Right \log Right z Right )
+crohme2019/test/UN19_1035_em_509.inkml	\int Right d Right z Right \int Right d Right w
+crohme2019/test/UN19_1033_em_467.inkml	2 Right x Sup 2 NoRel + Right y Sup 2 NoRel + Right z Sup 2 NoRel = Right 4 Right x Right y Right z
+crohme2019/test/UN19wb_1120_em_1180.inkml	X Right = NoRel 1 NoRel - Below \sqrt Inside 2 NoRel ( Right x Sup 1 NoRel + Right i Right x Sup 2 NoRel )
+crohme2019/test/UN19_1026_em_360.inkml	5 Right 2 NoRel - Below 4 Right 5 NoRel -
+crohme2019/test/UN19_1051_em_747.inkml	3 Right \times Right 3 Right \times Right 3 Right + Right 3 Right + Right 3 Right + Right 3 Right \times Right 3 Right = Right 3 Right \times Right 1 Right 4
+crohme2019/test/UN19_1028_em_393.inkml	m NoRel - Below \sqrt Inside 2
+crohme2019/test/UN19wb_1108_em_1002.inkml	( Right 2 Right . Right 4 Right . Right 9 Right ) Right - Right ( Right 2 Right . Right 4 Right . Right 1 Right 0 Right )
+crohme2019/test/UN19_1019_em_263.inkml	y Sup 2 NoRel = Right y Sup a NoRel y Sup a
+crohme2019/test/UN19wb_1108_em_994.inkml	- Right \int Right b Right B
+crohme2019/test/UN19wb_1109_em_1013.inkml	( Right x Sub 1 Right 2 NoRel x Sub 2 Right 3 NoRel x Sub 3 Right 4 NoRel x Sub 4 Right 1 NoRel )
+crohme2019/test/UN19wb_1119_em_1156.inkml	\int Right d Sup 3 NoRel k Right ( Right - Above 1 NoRel k Sup 2 NoRel - Right m Sup 2 NoRel - Right - Above 1 NoRel k Sup 2 NoRel )
+crohme2019/test/UN19_1026_em_370.inkml	G Right \times Right G
+crohme2019/test/ISICal19_1207_em_844.inkml	\cos Right ( Right n Right z Right )
+crohme2019/test/UN19_1012_em_168.inkml	\sqrt Inside - Right g NoRel = Right \sqrt Inside h
+crohme2019/test/UN19wb_1105_em_950.inkml	\cos Right ( Right v Right )
+crohme2019/test/UN19_1051_em_738.inkml	a Right - Right b
+crohme2019/test/UN19_1023_em_319.inkml	a Right = Right \sqrt NoRel 5 NoRel - Below 6
+crohme2019/test/ISICal19_1209_em_867.inkml	1 NoRel - Below e Sup x NoRel + Right 1 NoRel = Right 2 Right e Sup - Right x NoRel - Right \sum Below n Right = Right 1 NoRel \infty NoRel e Sup - Right n Right x
+crohme2019/test/UN19_1041_em_585.inkml	\int Right x Sup m NoRel ( Right a Right + Right b Right x Sup n NoRel ) Sup p NoRel d Right x
+crohme2019/test/UN19_1050_em_734.inkml	a Right = Right \sqrt NoRel 1 Right + Right \sqrt Inside 1 Right + Right 1 Right 2 Right p NoRel - Below 6 Right p
+crohme2019/test/UN19_1005_em_71.inkml	\cos Right \theta Sub 0 NoRel = Right \sqrt NoRel 1 NoRel - Below 5
+crohme2019/test/UN19wb_1107_em_985.inkml	\int Right a Right b Right = Right \int Right b Right a
+crohme2019/test/UN19wb_1116_em_1122.inkml	\sqrt NoRel p Right + Right 1 NoRel - Below 2
+crohme2019/test/UN19_1025_em_359.inkml	( Right - Right 1 Right - Right 1 Right - Right 1 Right 0 Right 0 Right 0 Right ) Right ( Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right )
+crohme2019/test/UN19_1012_em_170.inkml	9 NoRel - Below 8
+crohme2019/test/UN19_1039_em_561.inkml	r Right = Right \sqrt Inside ( Right x Sup 1 NoRel ) Sup 2 NoRel + Right \ldots Right + Right ( Right x Sup p NoRel ) Sup 2
+crohme2019/test/UN19wb_1114_em_1093.inkml	L Sub a Right b NoRel = Right x Sup a NoRel p Sub b NoRel - Right x Sup b NoRel p Sub a
+crohme2019/test/UN19_1045_em_648.inkml	2 Right f Right - Right e Sub 1 NoRel - Right e Sub 3 NoRel + Right 2 Right e Sub 6 NoRel + Right e Sub 7 NoRel + Right 2 Right e Sub 9
+crohme2019/test/UN19wb_1115_em_1104.inkml	c Right \lt Right c Sub c Right r
+crohme2019/test/UN19_1021_em_298.inkml	a Right n Right d Right o Right n Right e Right g Right o Right e Right s Right d Right o Right w Right n Right f NoRel n NoRel o Right m
+crohme2019/test/ISICal19_1209_em_869.inkml	| Right k Right | Sup - Right 1 NoRel \sin Right | Right k Right | Right u
+crohme2019/test/UN19wb_1102_em_904.inkml	E Right = Right \sqrt Inside 2 NoRel \int Below - Right 1 NoRel + Right 1 NoRel d Right f Right \sqrt Inside V Right ( Right f Right )
+crohme2019/test/UN19_1010_em_141.inkml	2 Right n Right + Right n Right ( Right n Right - Right 2 Right ) Right + Right 2 Right = Right n Sup 2 NoRel + Right 2
+crohme2019/test/UN19_1016_em_219.inkml	n NoRel - Below \sqrt Inside a Sub 1 NoRel b Sub 1 NoRel \leq Right 1
+crohme2019/test/UN19_1021_em_293.inkml	\forall Right l Right COMMA Right j
+crohme2019/test/UN19_1033_em_475.inkml	0 Right \leq Right \alpha Right \leq NoRel c NoRel - Below 1 Right 2 NoRel \sqrt
+crohme2019/test/UN19wb_1118_em_1143.inkml	2 Right + Right 4 Right + Right 4 Right + Right \ldots
+crohme2019/test/UN19_1018_em_246.inkml	3 NoRel - Below 4 NoRel = Right - NoRel 1 NoRel - Below 2 NoRel ( NoRel 1 NoRel - Below 2 NoRel + Right 1 Right )
+crohme2019/test/ISICal19_1211_em_897.inkml	4 Right ( Right n Right + Right 1 Right ) Right - Right 3 Right n Right - Right n Right = Right 4 NoRel -
+crohme2019/test/UN19_1008_em_108.inkml	[ Right a Right ] Right + NoRel 1 NoRel - Below 2 NoRel [ Right b Right ]
+crohme2019/test/UN19_1032_em_456.inkml	1 Right - Right \cos Right x
+crohme2019/test/UN19_1007_em_94.inkml	4 NoRel - Below 7
+crohme2019/test/UN19_1007_em_104.inkml	\cos Right z Sub 0
+crohme2019/test/UN19wb_1105_em_951.inkml	x Right = Right \tan Right \theta
+crohme2019/test/UN19_1033_em_473.inkml	0 Right = Right e Sup - Right u NoRel + Right e Sup u Right - Right v Right - Right t NoRel + Right e Sup - Right v NoRel + Right 1
+crohme2019/test/UN19wb_1111_em_1041.inkml	( Right a Right b Right ) Right = NoRel 1 NoRel - Below 2 NoRel ( Right a Right b Right + Right b Right a Right )
+crohme2019/test/UN19wb_1102_em_908.inkml	F Right = Right c Right + Right \alpha Right x Sup 2 NoRel + Right \beta Right y Sup 2 NoRel + Right \gamma Right x Sup 2 NoRel y Sup 2
+crohme2019/test/UN19wb_1119_em_1161.inkml	9 Right + Right 1 Right 1 Right + Right 1 Right 3
+crohme2019/test/UN19_1006_em_87.inkml	r Right = Right | Right x Right | Right = Right \sqrt Inside x Sup 2 NoRel 1 NoRel + Right x Sup 2 NoRel 2 NoRel + Right x Sup 2 NoRel 3
+crohme2019/test/UN19wb_1118_em_1146.inkml	T Sup a Right a NoRel = Right T Sup x Sup 2 NoRel x Sup 2 NoRel + Right \ldots Right + Right T Sup x Sup d NoRel x Sup d
+crohme2019/test/UN19_1046_em_666.inkml	f Sub x NoRel = Right x Right - Right [ Right x Right ]
+crohme2019/test/UN19_1021_em_287.inkml	1 Right + Right 1 Right 6 Right + Right 4 Right + Right 2 Right 4 Right + Right 8 Right = Right 5 Right 3
+crohme2019/test/UN19_1021_em_288.inkml	3 NoRel - Below x Right P Right ( Right x Right )
+crohme2019/test/UN19_1037_em_526.inkml	[ Right a Sub 1 NoRel ] Right \times Right [ Right b Sub 2 NoRel ] Right \times Right [ Right b Sub 3 NoRel ]
+crohme2019/test/ISICal19_1201_em_755.inkml	g Right ( Right x Right ) Right = Right \beta Sub a Right b NoRel x Sup a NoRel x Sup b
+crohme2019/test/ISICal19_1202_em_769.inkml	\sqrt Inside - Right g NoRel = Right r Sup 2 NoRel \sin Right \theta
+crohme2019/test/UN19_1004_em_55.inkml	\int Right d Sup 4 NoRel x NoRel g NoRel \sqrt Right R Sup 3
+crohme2019/test/ISICal19_1205_em_821.inkml	\sin Right \theta Sub 1 NoRel \sin Right \theta Sub 2 NoRel = Right 0
+crohme2019/test/UN19_1027_em_389.inkml	x Sub 0 NoRel + Right g Right ( Right x Right - Right x Sub 0 NoRel )
+crohme2019/test/UN19_1007_em_96.inkml	\sum Below r NoRel m Right a Right x NoRel r NoRel = Right 1 NoRel 1 NoRel - Below r
+crohme2019/test/UN19_1030_em_433.inkml	\sin Right ( Right \theta Right )
+crohme2019/test/UN19_1017_em_226.inkml	3 Sup 8 NoRel c Sup 5 NoRel + Right 3 Sup 7 NoRel c Sup 4 NoRel - Right 7 Right 2 Right 9 Right 0 Right c Sup 3 NoRel - Right 1 Right 7 Right 8 Right 2 Right c Sup 2 NoRel + Right 1 Right 5 Right 9 Right 3 Right c Right + Right 1 Right 7 Right 1
+crohme2019/test/UN19_1048_em_690.inkml	\sqrt Inside p Right + Right 1 NoRel - Below 2
+crohme2019/test/UN19_1038_em_551.inkml	x Right \in Right Y
+crohme2019/test/UN19wb_1109_em_1007.inkml	\sum Below a NoRel p Sub a NoRel = Right \sum Right X Sub a NoRel = Right 0 NoRel a
+crohme2019/test/UN19_1015_em_197.inkml	\lim Right h NoRel b NoRel ( NoRel ) Right = Right 0 NoRel b Right \rightarrow Right \pm Right \infty
+crohme2019/test/UN19_1030_em_421.inkml	5 NoRel - Below 1 Right 2 NoRel - NoRel 1 Right 1 Right 5 NoRel - Below 8 NoRel u Sup - Right 2
+crohme2019/test/UN19_1008_em_107.inkml	y Right = NoRel p NoRel - Below q NoRel x
+crohme2019/test/ISICal19_1204_em_806.inkml	z Right = NoRel 1 NoRel - Below \sqrt Inside 2 NoRel ( Right x Sup 1 NoRel + Right i Right x Sup 2 NoRel )
+crohme2019/test/UN19_1046_em_671.inkml	b Right = Right - Right - Above 3 NoRel 8 Right \sqrt Inside 7
+crohme2019/test/UN19_1043_em_618.inkml	- Right 1 Right . Right 7 Right 9 Right 1 Right 9
+crohme2019/test/UN19_1025_em_356.inkml	a Right - Right b Right + Right c Right - Right d
+crohme2019/test/ISICal19_1205_em_817.inkml	C Right = NoRel 1 NoRel - Below 3 Right 2 NoRel + NoRel \log Right 2 NoRel - NoRel 6 NoRel 9
+crohme2019/test/UN19_1050_em_732.inkml	x Right \in Right A
+crohme2019/test/UN19_1019_em_266.inkml	I Right H
+crohme2019/test/UN19_1039_em_558.inkml	d NoRel - Below d Right y NoRel ( Right y NoRel d Right w NoRel - Below d Right y NoRel ) Right - Right 2 Right w Right ( Right w Sup 2 NoRel - Right 1 Right ) Right = Right 0
+crohme2019/test/UN19_1040_em_570.inkml	V Sub t NoRel = Right V Sub s NoRel = Right 0
+crohme2019/test/UN19_1040_em_576.inkml	\theta Right ( Right \pm Right ( Right ( Right x Sub 1 NoRel 0 NoRel + Right \ldots Right + Right x Sub 4 NoRel 0 NoRel ) Right - Right ( Right y Sub 1 NoRel 0 NoRel + Right \ldots Right + Right y Sub 4 NoRel 0 NoRel ) Right ) Right )
+crohme2019/test/UN19_1009_em_123.inkml	- NoRel 1 NoRel - Below 2 Right 4 NoRel + NoRel 1 NoRel - Below 1 Right 6 NoRel = NoRel 1 NoRel - Below 4 Right 8
+crohme2019/test/UN19_1042_em_604.inkml	\sin Right L Right t
+crohme2019/test/UN19_1045_em_652.inkml	2 Right n Sub 4 NoRel + Right ( Right n Sub 2 NoRel + Right n Sub 4 NoRel - Right 1 Right ) Right = Right 3 Right n Sub 4 NoRel + Right n Sub 2
+crohme2019/test/ISICal19_1205_em_812.inkml	\cos NoRel n NoRel \sigma
+crohme2019/test/UN19_1038_em_553.inkml	o Right \in Right X
+crohme2019/test/UN19_1002_em_22.inkml	\int Sub a NoRel b NoRel d Right x Right f Right ( Right x Right ) Right e Sup i Right N Right x
+crohme2019/test/UN19_1045_em_656.inkml	\forall Right i Right COMMA Right k
+crohme2019/test/UN19_1033_em_468.inkml	\lambda Right \log Right \lambda
+crohme2019/test/UN19_1006_em_89.inkml	y Right = NoRel 1 NoRel - Below x NoRel = NoRel b NoRel - Below w
+crohme2019/test/UN19_1023_em_323.inkml	A Sup - Right 1 NoRel 3 NoRel - Below 5 NoRel A Sup 1 NoRel - NoRel 3 NoRel - Below 5
+crohme2019/test/UN19wb_1120_em_1179.inkml	a Right = Right 3 Right ( Right 4 Right + Right \sqrt Inside 1 Right 0 NoRel ) Right / Right ( Right 5 Right + Right 1 Right 4 Right \sqrt Inside 1 Right 0 NoRel )
+crohme2019/test/UN19_1028_em_395.inkml	q Sup 2 NoRel = Right \sum Below a Right = Right 1 NoRel n NoRel ( Right x Sup a NoRel ) Sup 2
+crohme2019/test/UN19_1043_em_626.inkml	b Sup x NoRel a Sup y Right + Right n
+crohme2019/test/UN19_1020_em_276.inkml	1 NoRel - Below 6 Right 4 NoRel ( Right 3 Right n Sup 3 NoRel + Right 2 Right 3 Right n Sup 2 NoRel + Right 7 Right 2 Right n Right + Right 8 Right 0 Right )
+crohme2019/test/UN19_1012_em_166.inkml	a Right \sqrt Inside 2
+crohme2019/test/UN19wb_1120_em_1172.inkml	y Sup 2 NoRel = Right 4 Right x Sup 3 NoRel + Right A Right x Right + Right B
+crohme2019/test/UN19_1001_em_10.inkml	1 Right / Right ( Right \cos Right \alpha Right ) Sup 2 NoRel - Right ( Right \tan Right \alpha Right ) Sup 2 NoRel = Right 1
+crohme2019/test/ISICal19_1202_em_773.inkml	C Right = Right - Right m Right \cos Right a
+crohme2019/test/UN19_1035_em_507.inkml	\sum Below i NoRel \beta Sup i
+crohme2019/test/UN19_1012_em_171.inkml	y Right d Right y
+crohme2019/test/UN19_1017_em_234.inkml	\sqrt NoRel 2 NoRel - Below \beta
+crohme2019/test/UN19_1002_em_16.inkml	3 Right 9
+crohme2019/test/UN19_1013_em_194.inkml	| Right a Right | Right = Right | Right x Sup 1 NoRel | Right + Right \ldots Right + Right | Right x Sup n NoRel |
+crohme2019/test/UN19_1004_em_49.inkml	8 Right \cos Right \theta
+crohme2019/test/UN19wb_1120_em_1183.inkml	- NoRel 1 NoRel - Below \sqrt Inside 3
+crohme2019/test/UN19wb_1109_em_1010.inkml	z Right = Right x Sup 2 Right i Right + Right 2 NoRel + Right i Right x Sup 2 Right i Right + Right 3
+crohme2019/test/UN19_1004_em_54.inkml	p Right 2 Sup - Right p NoRel - Below 1 Right + Right p NoRel - Right 1 Right ) NoRel (
+crohme2019/test/UN19wb_1115_em_1099.inkml	0 Right . Right 7 Right 8 Right 5 Right 1 Right n Sup 2 NoRel + Right 3 Right . Right 9 Right 2 Right 9 Right n Right - Right 6 Right . Right 6 Right 2 Right 0
+crohme2019/test/UN19wb_1106_em_962.inkml	H Sub a Right a NoRel = Right H Sub x Right x NoRel + Right H Sub y Right y
+crohme2019/test/UN19_1032_em_462.inkml	B Right = NoRel 4 Right 9 NoRel - Below 9
+crohme2019/test/ISICal19_1202_em_774.inkml	x Right \neq Right \pm Right a
+crohme2019/test/UN19_1046_em_662.inkml	n Sup 2 NoRel ( Right - Right 1 Right + Right 2 Right n Sup 2 NoRel ) Right + Right ( Right 1 Right - Right 4 Right n Sup 2 NoRel ) Right ( Right n Sup 2 NoRel + Right n Right )
+crohme2019/test/ISICal19_1207_em_843.inkml	( Right 9 Right - Right 4 Right - Right 2 Right ) Right \times Right 9
+crohme2019/test/UN19_1021_em_299.inkml	x Right d Right y Right = Right a Sub 2 NoRel d Right x Right x Right + Right b Sub 2 NoRel d Right y Right x Right + Right c Sub 2 NoRel d Right x Right y Right + Right d Sub 2 NoRel d Right y Right y
+crohme2019/test/UN19_1005_em_65.inkml	[ Right x Right COMMA Right y Right ] Right = Right x Right y Right - Right y Right x
+crohme2019/test/UN19wb_1119_em_1169.inkml	A Right = Right \sum Below a NoRel A Sup a NoRel t Sup a
+crohme2019/test/UN19_1030_em_424.inkml	d Right = NoRel \sqrt Inside 7 NoRel - Below 4
+crohme2019/test/UN19wb_1108_em_999.inkml	( Right 2 Right 0 Right 0 Right 1 Right ) Right 4 Right 3 Right 7 Right 3 Right - Right 4 Right 3 Right 9 Right 4
+crohme2019/test/UN19_1021_em_296.inkml	\sin Right ( Right n Right z Right )
+crohme2019/test/UN19_1044_em_633.inkml	f Right = Right \sum Below n NoRel f Sub n NoRel z Sup n Right + Right 1
+crohme2019/test/ISICal19_1209_em_860.inkml	( Right f Right + Right 1 Right ) Right - Right f Right - Right f Right + Right ( Right f Right - Right 1 Right ) Right = Right 0
+crohme2019/test/UN19_1002_em_17.inkml	E Right F Right + Right E Right E Right E
+crohme2019/test/UN19_1015_em_204.inkml	a Right = Right 3 Right ( Right 4 Right - NoRel 1 Right 0 NoRel \sqrt Right ) NoRel 1 Right 0 NoRel \sqrt Right / Right ( Right 1 Right 4 NoRel 1 Right 0 NoRel \sqrt Right - Right 5 Right )
+crohme2019/test/UN19wb_1115_em_1097.inkml	\int Right d Sup 1 Right 1 NoRel x Right \sqrt Inside g NoRel G Sub A Right B Right C Right 1 Right 1 NoRel G Sup A Right B Right C Right 1 Right 1
+crohme2019/test/UN19wb_1117_em_1129.inkml	B Right = Right C
+crohme2019/test/UN19wb_1114_em_1082.inkml	X Right = Right L Right \cos Right ( Right s Right ) Right \cos Right ( Right t Right )
+crohme2019/test/UN19wb_1102_em_906.inkml	n NoRel - Below 2 NoRel + NoRel 7 NoRel - Below 2
+crohme2019/test/UN19wb_1117_em_1130.inkml	( Right t Right - Right x Right ) Right ( Right t Right + Right x Right ) Right \lt Right 0
+crohme2019/test/UN19_1045_em_659.inkml	\int Right d Right A
+crohme2019/test/UN19_1021_em_297.inkml	l Right = Right \int Right d Right y Right \sqrt Inside f
+crohme2019/test/UN19_1051_em_735.inkml	\cos Right f Right ( Right 0 Right ) Right = Right \cos Right f Right ( Right \pi Right ) Right = Right \pm Right 1
+crohme2019/test/ISICal19_1203_em_790.inkml	x Sup 5 NoRel - Right x Sup 8
+crohme2019/test/ISICal19_1205_em_818.inkml	0 Right 0 Right 0 Right 0 Right ) NoRel ( NoRel ( Right 0 Right 0 Right 0 Right 0 Right )
+crohme2019/test/ISICal19_1201_em_760.inkml	- Above 1 NoRel \sqrt Inside 6
+crohme2019/test/ISICal19_1203_em_792.inkml	f Right = Right f Sub a NoRel + Right f Sub b NoRel + Right f Sub c
+crohme2019/test/UN19wb_1104_em_940.inkml	\lim Below r Right \rightarrow Right \infty NoRel w Right = Right 0
+crohme2019/test/UN19wb_1108_em_992.inkml	y Right d Right x Right = Right a Sub 3 NoRel d Right x Right x Right + Right b Sub 3 NoRel d Right y Right x Right + Right c Sub 3 NoRel d Right x Right y Right + Right d Sub 3 NoRel d Right y Right y
+crohme2019/test/UN19_1032_em_463.inkml	\pi Right \times Right \pi
+crohme2019/test/UN19wb_1106_em_971.inkml	1 NoRel - Below n Right !
+crohme2019/test/UN19_1021_em_289.inkml	p Right \neq Right 9
+crohme2019/test/UN19wb_1110_em_1028.inkml	b Sub n NoRel = Right \lim Below \alpha Right \rightarrow Right 0 NoRel b Sub n Right - Right \alpha
+crohme2019/test/ISICal19_1210_em_880.inkml	( Right f Right + Right g Right ) Right ( Right x Right ) Right = Right f Right ( Right x Right ) Right + Right g Right ( Right x Right )
+crohme2019/test/UN19_1027_em_387.inkml	\int Sup \infty NoRel 0 NoRel - Above d Right x NoRel x
+crohme2019/test/UN19_1040_em_574.inkml	Y Right = Right L Right \cos Right ( Right s Right ) Right \sin Right ( Right t Right )
+crohme2019/test/ISICal19_1207_em_851.inkml	x Sup n NoRel - Right a Right x Sup s NoRel + Right b Right = Right 0
+crohme2019/test/UN19wb_1113_em_1072.inkml	F Right = NoRel 1 NoRel - Below 4 NoRel F Sub a Right b NoRel F Sup a Right b
+crohme2019/test/UN19wb_1117_em_1131.inkml	\int Right d Sup n NoRel x Right f Right g Right = Right \int Right d Sup n NoRel x Right g Right f
+crohme2019/test/UN19wb_1116_em_1116.inkml	( Right a Right - Right b Right ) Right - Right ( Right k Right - Right b Right - Right c Right ) Right \times Right ( Right a Right - Right b Right ) Right = Right ( Right a Right - Right k Right + Right c Right ) Right \times Right ( Right a Right - Right b Right )
+crohme2019/test/UN19_1022_em_310.inkml	\sqrt Inside - Right A
+crohme2019/test/ISICal19_1201_em_752.inkml	z Right ( Right \log Right z Right ) Sup n
+crohme2019/test/UN19_1033_em_477.inkml	i Right \ldots Right n
+crohme2019/test/UN19_1008_em_105.inkml	\lim Right \sum Right z Sup n NoRel z Right \rightarrow Right 1
+crohme2019/test/UN19_1050_em_731.inkml	1 NoRel - Below 2 NoRel n Right ( Right n Right + Right 3 Right ) Right + Right 3
+crohme2019/test/UN19_1038_em_544.inkml	5 Right 6 Sub s NoRel + Right 3 Right 5 Sub c NoRel + Right 2 Right 8 Right + Right 8 Sub s NoRel + Right 1
+crohme2019/test/UN19wb_1107_em_988.inkml	x Right y Right = Right q Right y Right x
+crohme2019/test/UN19wb_1118_em_1141.inkml	7 Right 7 Right 7 NoRel - Below 4 Right 0 Right 0
+crohme2019/test/UN19wb_1108_em_996.inkml	C Right = Right \sum Right c Sub n NoRel n Sup 2 NoRel n Right = Right 1
+crohme2019/test/UN19_1041_em_599.inkml	- Below 2 NoRel 1 NoRel \cos Right 2 Right \alpha
+crohme2019/test/UN19_1046_em_667.inkml	\int Right d Right A Sub 2 NoRel X Sub 7 NoRel = Right \int Right A Sub 2 NoRel X Sub 8
+crohme2019/test/UN19wb_1121_em_1199.inkml	1 Right . Right 0 Right 7 Right 3 Right 7 Right + Right 1 Right . Right 2 Right 2 Right 2 Right 7
+crohme2019/test/UN19_1005_em_72.inkml	( Right k Right + Right k Right + Right n Right ) Right \times Right ( Right k Right + Right k Right + Right n Right )
+crohme2019/test/UN19_1013_em_189.inkml	3 Right 2 Right 5 NoRel - Below 6 Right 6
+crohme2019/test/UN19_1001_em_11.inkml	9 Right \div Right 5 Right \div Right x
+crohme2019/test/UN19_1043_em_629.inkml	x Right + Right R
+crohme2019/test/UN19wb_1109_em_1017.inkml	8 Right \times Right 7
+crohme2019/test/UN19_1045_em_653.inkml	1 NoRel - Below 2 NoRel - Right \sin Sup 2 NoRel \alpha
+crohme2019/test/UN19wb_1107_em_978.inkml	\beta Right = Right \sqrt Inside 1 Right + Right b
+crohme2019/test/UN19_1028_em_401.inkml	[ Right a Right b Right ] Right = NoRel 1 NoRel - Below 2 NoRel ( Right a Right b Right - Right b Right a Right )
+crohme2019/test/UN19_1028_em_403.inkml	\int Right d Right y Right f Right ( Right y Right ) Right = Right 1
+crohme2019/test/UN19_1013_em_185.inkml	C Right \times Right C
+crohme2019/test/UN19_1032_em_460.inkml	a Right + Right i NoRel \beta NoRel 2 NoRel COMMA NoRel - NoRel b Right + Right i NoRel \beta NoRel - Below 2 NoRel ] NoRel [
+crohme2019/test/UN19wb_1111_em_1042.inkml	r Right = Right \sqrt Inside y Sup a NoRel y Sup a
+crohme2019/test/UN19wb_1106_em_964.inkml	| Right x Right | Right = Right | Right y Right | Right = Right \sqrt Inside | NoRel | NoRel z
+crohme2019/test/UN19_1032_em_451.inkml	3 Right . Right 1 Right 0 NoRel - Below 1 Right 0 Right + Right 2 NoRel = NoRel 1 Right 0 Right . Right 1 NoRel - Below 1 Right + Right 3
+crohme2019/test/UN19wb_1102_em_914.inkml	- Right a Right \leq Right x Right \leq Right a
+crohme2019/test/UN19_1005_em_67.inkml	r Right = Right \sqrt Inside x Sup 2 NoRel + Right y Sup 2 NoRel + Right z Sup 2
+crohme2019/test/UN19_1019_em_268.inkml	( Right 2 Right n Right - Right 2 Right ) Right ( Right 2 Right n Right - Right 2 Right ) NoRel - Below n Right - Right 1 NoRel + Right 4 Right = Right 4 Right n
+crohme2019/test/UN19_1018_em_253.inkml	X Right = Right \sqrt Inside x Sup a NoRel x Sub a NoRel + Right x Sup a Sup \prime NoRel x Sub a Sup \prime
+crohme2019/test/ISICal19_1204_em_809.inkml	V Sub 2 NoRel ( Right x Right ) Right = NoRel 1 NoRel - Below \sin Sup 2 NoRel ( Right x Right )
+crohme2019/test/UN19_1029_em_407.inkml	u Sup n Right + Right 1 NoRel = Right \cos Right r
+crohme2019/test/ISICal19_1203_em_782.inkml	a Right = Right 4 Right ( NoRel 1 NoRel - Below 4 NoRel - NoRel 3 NoRel - Below 8 NoRel )
+crohme2019/test/UN19_1017_em_229.inkml	\sum Right f Sub n
+crohme2019/test/ISICal19_1209_em_859.inkml	2 Right 0 Right \div Right 3 Right 0
+crohme2019/test/UN19wb_1113_em_1069.inkml	\sigma Right \sigma Right \sigma Right \sigma
+crohme2019/test/UN19_1010_em_144.inkml	x Sup a NoRel 1 NoRel x Sup b NoRel 2 NoRel x Sup c NoRel 3
+crohme2019/test/UN19_1041_em_591.inkml	[ Right a Right - Right i NoRel \beta NoRel - Below 2 NoRel COMMA Right b Right - Right i NoRel \beta NoRel - Below 2 NoRel ]
+crohme2019/test/UN19_1001_em_0.inkml	
+crohme2019/test/UN19wb_1118_em_1150.inkml	( Right + NoRel 1 NoRel - Below 2 NoRel COMMA NoRel 1 NoRel - Below 2 NoRel + NoRel COMMA Right + NoRel 1 NoRel - Below 2 NoRel COMMA Right - NoRel 1 NoRel - Below 2 NoRel COMMA Right + NoRel 1 NoRel - Below 2 NoRel )
+crohme2019/test/UN19_1025_em_352.inkml	x Sup 3 NoRel x Sup 4 NoRel x Sup 5
+crohme2019/test/UN19_1003_em_33.inkml	f Right \sin Right \alpha
+crohme2019/test/UN19wb_1110_em_1032.inkml	\sin Right \beta Sub n NoRel x
+crohme2019/test/UN19wb_1115_em_1109.inkml	\tan Right \theta Right / Right 2
+crohme2019/test/UN19_1047_em_676.inkml	g Sub x Right x NoRel g Sub t Right t NoRel \sqrt
+crohme2019/test/UN19wb_1116_em_1121.inkml	\lim Below r Right \rightarrow Right 0 NoRel f Right ( Right r Right ) Right = Right \sqrt Inside r
+crohme2019/test/UN19_1040_em_577.inkml	[ Right n Right ] Right = NoRel q Sup n NoRel - Right q Sup - Right n NoRel - Below q Right - Right q Sup - Right 1
+crohme2019/test/UN19_1015_em_209.inkml	( Right a Sup 2 NoRel COMMA Right a Right b Right + Right b Right a Right COMMA Right b Sup 2 NoRel + Right a Right c Right + Right c Right a Right COMMA Right a Right d Right + Right d Right a Right + Right b Right c Right + Right c Right b Right )
+crohme2019/test/UN19_1006_em_76.inkml	\int Right d Sup 6 NoRel y Right \sqrt Inside d Right e Right t Right g Sub m Right n
+crohme2019/test/UN19wb_1114_em_1083.inkml	C Sub f NoRel = Right - Right i Right \sin Right \pi Right \alpha
+crohme2019/test/ISICal19_1210_em_882.inkml	v Right ( Right x Right ) Right = Right x Right + Right f Sub 1 NoRel x Sup 2 NoRel + Right \ldots
+crohme2019/test/UN19wb_1114_em_1089.inkml	x Sub 2 NoRel = Right \sin Right \theta Right \sin Right \phi
+crohme2019/test/UN19_1049_em_706.inkml	\sum Right C Sup ( Right n Right ) NoRel e Sup B
+crohme2019/test/UN19_1043_em_622.inkml	\beta Right = Right \cos Right \alpha
+crohme2019/test/UN19_1039_em_557.inkml	( Right x Right y Right ) Sup - Right 1 NoRel = Right y Sup - Right 1 NoRel x Sup - Right 1
+crohme2019/test/UN19wb_1116_em_1124.inkml	x Right y Right = Right ( Right z Sup 2 NoRel + Right i Right \sqrt Inside 3 NoRel t Sup 2 NoRel ) Sup 2
+crohme2019/test/UN19_1013_em_191.inkml	A Sup ( Right 1 Right ) NoRel = Right a Right \cos Right \sqrt Inside 3 Right t
+crohme2019/test/ISICal19_1209_em_855.inkml	2 Right a Sub 1 NoRel + Right 2 Right a Sub 2 NoRel + Right 2 Right a Sub 3 NoRel + Right 2 Right a Sub 4 NoRel + Right 2 Right a Sub 5 NoRel + Right 2 Right a Sub 6
+crohme2019/test/UN19_1016_em_213.inkml	3 Right \times Right 2 Right + Right 8 Right + Right r Right - Right 4
+crohme2019/test/UN19_1016_em_224.inkml	x Right - Right x
+crohme2019/test/UN19wb_1105_em_959.inkml	( Right \cos Right \alpha Right z Sup 1 NoRel + Right \sin Right \alpha Right z Sup 2 NoRel ) Sup N NoRel = Right c Sup N
+crohme2019/test/UN19_1028_em_402.inkml	\int Right d Right u
+crohme2019/test/UN19wb_1107_em_989.inkml	f Right ( Right c Right ) Right = Right f Right ( Right a Right ) Right + Right \sqrt Inside 3 NoRel f Right ( Right b Right ) Right i
+crohme2019/test/UN19wb_1102_em_907.inkml	\cos Right \theta Right = Right \pm Right \sqrt NoRel 1 NoRel - Below 5
+crohme2019/test/UN19wb_1121_em_1195.inkml	\beta Right R Right R
+crohme2019/test/UN19_1023_em_328.inkml	2 Right h Right ( Right 2 Right h Right + Right 1 Right ) Right ( Right 4 Right h Right + Right 1 Right ) Right ( Right 4 Right h Right + Right 3 Right )
+crohme2019/test/UN19_1025_em_354.inkml	y Right = Right \sqrt Inside y Sub i NoRel y Sup i
+crohme2019/test/UN19_1007_em_95.inkml	+ Right 1 Right 2 Right 0 Right S Right R Sub i Right j Right j Right i NoRel + Right 1 Right 4 Right 4 Right S Right L Sub a Right a NoRel L Sub b Right b NoRel + Right 4 Right 8 Right S Right L Sub a Right b NoRel L Sub a Right b NoRel + Right 4 Right 8 Right 0 Right S Sup 2 NoRel L Sub a Right a NoRel + Right 4 Right 8 Right 0 Right S Sup 3
+crohme2019/test/UN19_1044_em_642.inkml	c Right \geq Right a
+crohme2019/test/UN19_1003_em_44.inkml	3 Right 2 Right x Sup 5 NoRel - Right 3 Right 2 Right x Sup 3 NoRel + Right 6 Right x
+crohme2019/test/UN19wb_1109_em_1015.inkml	\sqrt Inside - Right t
+crohme2019/test/UN19_1034_em_492.inkml	\sum Above n Right - Right 1 NoRel i Right = Right 0 NoRel g Sub i Right + Right 1 NoRel x Sup i
+crohme2019/test/UN19wb_1121_em_1189.inkml	- Right 4 Right ( Right \gamma Right + Right \log Right 4 Right ) Right + Right b Right + NoRel 4 Right B Right \pi Sup 2 NoRel \sqrt Inside 1 Right - Right x NoRel - Below \sqrt Inside 1 Right + Right 3 Right x
+crohme2019/test/UN19_1005_em_66.inkml	h Sub 0 NoRel = NoRel 7 NoRel - Below 2 Right \sqrt Inside 3 NoRel \sqrt Inside a Sup 2 NoRel + Right 1 Right 2 Right n Sup 2
+crohme2019/test/UN19_1022_em_308.inkml	f Sub x Right x NoRel + Right f Sub y Right y NoRel \neq Right 0
+crohme2019/test/UN19_1051_em_748.inkml	x Sup 2 NoRel + Right y Sup 5 NoRel + Right z Sup 3
+crohme2019/test/UN19_1035_em_497.inkml	- NoRel 1 Right 8 Right 5 Right 8 NoRel - Below 9
+crohme2019/test/UN19_1025_em_353.inkml	z Right = NoRel 1 NoRel - Below \sqrt Inside 2 NoRel = Right ( Right x Right + Right i Right y Right )
+crohme2019/test/UN19_1048_em_697.inkml	- Right \cos Right \theta
+crohme2019/test/UN19_1001_em_7.inkml	\sum Below i NoRel r Sub i NoRel + Right \sum Below i NoRel s Sub i
+crohme2019/test/UN19_1015_em_202.inkml	\lim Below x Right \rightarrow Right \infty NoRel \phi NoRel x NoRel ( NoRel ) Right = Right \phi Sup 0
+crohme2019/test/ISICal19_1207_em_847.inkml	x Sup 7 NoRel - Right x Sup 8
+crohme2019/test/ISICal19_1209_em_858.inkml	( Right 1 Right - Right x Right ) Sup c Right - Right a Right - Right b
+crohme2019/test/UN19_1031_em_441.inkml	x Sub a Right b NoRel = Right x Sub a NoRel - Right x Sub b
+crohme2019/test/UN19wb_1114_em_1085.inkml	\sum Above n NoRel i Right = Right 1 NoRel e Sup - Right \theta Sub i NoRel \sum Above n NoRel i Right = Right 1 NoRel e Sup + Right \theta Sub i
+crohme2019/test/UN19wb_1118_em_1148.inkml	Y Right ( Right x Right COMMA Right z Right ) Right = Right \sum Below n NoRel x Sub n NoRel z Sup - Right n Right - Right h Sub x
+crohme2019/test/UN19_1043_em_619.inkml	\int Right d Right x Sup i NoRel d Right x Sup j
+crohme2019/test/UN19_1022_em_304.inkml	1 NoRel - Below 8 NoRel ( Right n Right + Right 2 Right ) Right ( Right n Right + Right 4 Right )
+crohme2019/test/UN19wb_1104_em_938.inkml	- Above 1 NoRel 2 Right \sqrt Inside 3
+crohme2019/test/UN19_1004_em_53.inkml	C Right \geq Right 0
+crohme2019/test/UN19_1036_em_515.inkml	X Sub 9 NoRel ( Right X Sub 2 NoRel X Sub 7 NoRel - Right X Sub 3 NoRel X Sub 6 NoRel )
+crohme2019/test/UN19_1033_em_471.inkml	a Sub 0 NoRel z Sub 1 NoRel z Sub 2 NoRel z Sub 3 NoRel z Sub 4 NoRel z Sub 5
+crohme2019/test/UN19_1030_em_428.inkml	x Sup 2 NoRel - Right y Sup 2 NoRel - Right x Sup 3 NoRel = Right 0
+crohme2019/test/UN19_1010_em_138.inkml	[ Right - Right a Right + NoRel i Right \beta Right m NoRel - Below 2 NoRel COMMA Right a Right + NoRel i Right \beta Right m NoRel - Below 2 NoRel ]
+crohme2019/test/UN19_1032_em_459.inkml	\cos Right \alpha Right = Right - Right 1
+crohme2019/test/UN19wb_1106_em_969.inkml	1 NoRel - Below 2 Right \pi NoRel \int Right d Right k Sub l Right o Right o Right p NoRel \int Right d Right l Sub l Right o Right o Right p
+crohme2019/test/UN19_1033_em_476.inkml	n Right = NoRel n Sub 2 NoRel - Below n Sub 1 NoRel - Right 1 NoRel = NoRel n Sub 3 NoRel - Below n Sub 1 NoRel - Right 1
+crohme2019/test/UN19wb_1110_em_1023.inkml	- Right x Right - Right a
+crohme2019/test/UN19wb_1104_em_930.inkml	( Right 0 Right + Right 0 Right + Right 0 Right + Right 0 Right + Right ( Right 0 Right + Right 2 Right ) Right )
+crohme2019/test/UN19wb_1103_em_929.inkml	g Sub n NoRel ( Right x Right ) Right = Right a Sub n NoRel x Sup 2 NoRel + Right b Sub n NoRel x Right + Right c Sub n
+crohme2019/test/UN19_1008_em_112.inkml	T Right r
+crohme2019/test/UN19wb_1116_em_1123.inkml	( Right n Right c Sub - Right n NoRel b Sub - Right m NoRel + Right m Right c Right - Right m Right b Right - Right n Right )
+crohme2019/test/UN19wb_1118_em_1140.inkml	f Right ( Right y Right ) Right = Right y NoRel 1 NoRel - Below n Right - Right 2
+crohme2019/test/UN19_1023_em_315.inkml	e Sub a Right c NoRel e Sub c Right b NoRel = Right e Sub a Right b
+crohme2019/test/UN19wb_1114_em_1081.inkml	\sin Sup 2 NoRel y
+crohme2019/test/UN19_1006_em_75.inkml	x Right y Right - Right y Right x Right - Right ( Right x Right COMMA Right y Right )
+crohme2019/test/UN19_1003_em_41.inkml	3 Right \times Right 3 Right \times Right 3
+crohme2019/test/UN19_1029_em_408.inkml	2 Right \sin Right \gamma Right = Right \sqrt Inside q
+crohme2019/test/UN19_1003_em_35.inkml	( Right n Right - Right 2 Right ) Right ( Right n Right - Right 4 Right ) Right \ldots Right ( Right 1 Right ) Right \times Right ( Right n Right - Right 2 Right ) Right ( Right n Right - Right 4 Right ) Right \ldots Right ( Right 1 Right )
+crohme2019/test/UN19_1009_em_124.inkml	\int Right b Right = Right 0
+crohme2019/test/ISICal19_1210_em_875.inkml	x Right \rightarrow Right x Right + Right x Sup c Right l
+crohme2019/test/ISICal19_1203_em_786.inkml	x Sup 2 NoRel + Right y Sup 3 NoRel z Right + Right z Sup 3
+crohme2019/test/UN19_1022_em_302.inkml	A Sub d NoRel = Right A Sup ( Right 1 Right ) NoRel + Right A Sup ( Right 2 Right ) NoRel + Right A Sup ( Right 3 Right ) NoRel + Right \ldots
+crohme2019/test/UN19_1050_em_728.inkml	- Right n Right \leq Right t Right \leq Right n
+crohme2019/test/UN19_1010_em_142.inkml	A Right A
+crohme2019/test/UN19wb_1117_em_1136.inkml	1 Right + Right 1 Right 2 Right + Right 1 Right 2 Right + Right 2 Right + Right 1 Right 8 Right + Right 1 Right 2 Right + Right 6 Right = Right 6 Right 3
+crohme2019/test/ISICal19_1205_em_810.inkml	A Right = Right \sum Below x NoRel m Below x NoRel ( Right x Right )
+crohme2019/test/UN19wb_1108_em_1001.inkml	[ Right x Right COMMA Right y Right COMMA Right z Right ] Right = Right ( Right x Right y Right ) Right z Right - Right x Right ( Right y Right z Right )
+crohme2019/test/ISICal19_1210_em_878.inkml	\pm NoRel \sqrt Inside 3 NoRel - Below 2
+crohme2019/test/ISICal19_1203_em_784.inkml	f Right \rightarrow Right \cos Sup 2 NoRel t Right - Right \cos Sup 2 NoRel \theta
+crohme2019/test/UN19_1006_em_85.inkml	\lim Below r Right \rightarrow Right \infty NoRel V Right ( Right r Right )
+crohme2019/test/UN19wb_1111_em_1046.inkml	\beta Right = NoRel - Above d Right - Right 2 NoRel d Right - Right 3 NoRel \sqrt
+crohme2019/test/UN19wb_1119_em_1157.inkml	x Sup 2 NoRel + Right y Sup 2 NoRel + Right z Sup k Right + Right 1
+crohme2019/test/ISICal19_1205_em_820.inkml	- NoRel 1 NoRel - Below 3 NoRel \int Right A Sup 3
+crohme2019/test/UN19_1018_em_247.inkml	y Sup a NoRel n NoRel - Below y Sup b NoRel n
+crohme2019/test/ISICal19_1206_em_839.inkml	c Right \rightarrow Right c Right + Right d Right a
+crohme2019/test/UN19_1047_em_689.inkml	3 Right + Right z Sup 2 NoRel - Below 8 NoRel + NoRel ( Right 3 Right + Right z Sup 2 NoRel ) Sup 2 NoRel - Below 3 Right 2
+crohme2019/test/UN19_1042_em_606.inkml	\sin Right f Right ( Right 0 Right ) Right = Right \sin Right f Right ( Right \pi Right ) Right = Right 0
+crohme2019/test/UN19_1030_em_425.inkml	\int Below - Right n NoRel n NoRel d Sup 4 NoRel x
+crohme2019/test/UN19_1005_em_69.inkml	y Right = Right x Sup 4 NoRel + Right i Right x Sup 5
+crohme2019/test/UN19wb_1113_em_1075.inkml	- Right - Above \sin Right \alpha Right ( Right \infty Right ) NoRel 2 Right \pi
+crohme2019/test/UN19wb_1109_em_1009.inkml	x Right = Right a Right ( Right t Right - Right t Sub 0 NoRel ) Sup - Right 1 NoRel + Right p Right ( Right t Right - Right t Sub 0 NoRel ) Sup r Right - Right 1
+crohme2019/test/UN19wb_1111_em_1040.inkml	\pm NoRel 1 NoRel - Below \sqrt Inside 1 Right 3 Right 2
+crohme2019/test/ISICal19_1203_em_785.inkml	2 Right \pi Right - NoRel 2 Right \pi NoRel - Below 3 NoRel = NoRel 4 Right \pi NoRel - Below 3
+crohme2019/test/UN19_1006_em_80.inkml	H Right = Right \sqrt NoRel 5 NoRel - Below 2 NoRel ( NoRel 1 NoRel - Below ( Right x Right - Right 1 Right ) NoRel + NoRel 1 NoRel - Below 2 NoRel )
+crohme2019/test/ISICal19_1207_em_849.inkml	n Right ! Right k Right !
+crohme2019/test/UN19_1035_em_502.inkml	5 Right 6 Sub c NoRel + Right 8 Sub v NoRel + Right 5 Right 6 Sub v NoRel + Right 8 Sub c
+crohme2019/test/UN19_1038_em_547.inkml	( Right \lim Below q Right \rightarrow Right \infty NoRel \sqrt Inside 1 Right + Right q Sup 2 NoRel \int Sup \infty NoRel - Right \infty NoRel e Sup - Right q Right | Right x Right | Right / Right a NoRel d Right x Right ) Sup - Right 1 NoRel = Right 1 Right / Right 2 Right a
+crohme2019/test/UN19_1029_em_405.inkml	\cos Right ( NoRel c Right \pi NoRel - Below 2 NoRel )
+crohme2019/test/UN19wb_1109_em_1005.inkml	x Sup 1 NoRel y Sup 1 NoRel = Right q Right y Sup 1 NoRel x Sup 1
+crohme2019/test/UN19_1047_em_682.inkml	1 NoRel - Below 8 NoRel ( Right 3 Right n Sup 3 NoRel + Right 4 Right n Sup 2 NoRel + Right 1 Right 5 Right n Right + Right 1 Right 0 Right )
+crohme2019/test/UN19_1044_em_640.inkml	c Sup 2 NoRel ( Right x Right ) Right = Right x Right ( Right 1 Right - Right x Right ) Right ( Right - Right p Sup 2 NoRel )
+crohme2019/test/UN19_1016_em_222.inkml	x Right = Right - Right \log NoRel 1 Right - Right y Right ) NoRel (
+crohme2019/test/UN19_1047_em_677.inkml	M Right = NoRel 2 NoRel - Below c NoRel \sqrt
+crohme2019/test/UN19wb_1118_em_1145.inkml	\int Right d Sup 4 NoRel x Right \sqrt Inside g
+crohme2019/test/UN19_1051_em_737.inkml	3 Right \times Right 3 Right \times Right 3 Right + Right 1 Right 0 Right \times Right 3 Right + Right 3
+crohme2019/test/UN19wb_1116_em_1118.inkml	\sum Below b NoRel I Sub a Right b
+crohme2019/test/UN19_1010_em_143.inkml	k Right + Right x
+crohme2019/test/UN19wb_1117_em_1134.inkml	1 NoRel - Below 2 NoRel \leq Right x Right \leq NoRel 3 NoRel - Below 2
+crohme2019/test/UN19wb_1108_em_1003.inkml	- Right b Right j Sub 2 Right 1 NoRel = Right b Right j Sub 1 NoRel + Right b Right + NoRel 1 NoRel - Below 2 Right b
+crohme2019/test/UN19wb_1118_em_1152.inkml	( Right 1 Right - Right x Right ) Sup 1 Right / Right 2 NoRel \log Right ( Right 1 Right - Right x Right )
+crohme2019/test/ISICal19_1206_em_827.inkml	m Right n Right t Sup n NoRel ( Right n Right - Right 1 Right + Right m Right n Right t Sup n NoRel )
+crohme2019/test/UN19wb_1115_em_1105.inkml	a Right b Right a Sup - Right 1 NoRel b Sup - Right 1
+crohme2019/test/UN19_1004_em_45.inkml	P Sub 6 NoRel ( Right x Right ) Right = Right x Sup 2 NoRel P Sub 4 NoRel ( Right x Right ) Right = Right x Sup 2 NoRel ( Right x Sup 2 NoRel - Right a Sup 2 NoRel ) Right ( Right x Sup 2 NoRel - Right b Sup 2 NoRel )
+crohme2019/test/UN19_1017_em_236.inkml	0 Right \gt Right r Right \gt Right - Right 1
+crohme2019/test/UN19wb_1110_em_1022.inkml	6 NoRel - Below \sqrt Inside 7
+crohme2019/test/UN19wb_1104_em_935.inkml	g Right + Right 1 Right + Right n Right = Right ( Right n Right - Right 1 Right ) Right + Right 1 Right + Right n Right = Right 2 Right n
+crohme2019/test/UN19_1025_em_345.inkml	- Right 1 Right \leq Right x Right \leq Right 1
+crohme2019/test/UN19_1001_em_8.inkml	2 NoRel 3 NoRel - Right k Right + Right 7
+crohme2019/test/UN19_1027_em_375.inkml	- Right a Right \lt Right x Right \lt Right a
+crohme2019/test/UN19_1047_em_684.inkml	( Right - Right x Right ) Sup - Right a NoRel \log Right x
+crohme2019/test/ISICal19_1206_em_829.inkml	\infty NoRel - Below \infty
+crohme2019/test/UN19_1038_em_549.inkml	\sin Right \theta Sub 1 NoRel \sin Right \theta Sub 2 NoRel \sin Right \theta Sub 3
+crohme2019/test/ISICal19_1209_em_862.inkml	1 NoRel - Below n
+crohme2019/test/ISICal19_1205_em_816.inkml	\sqrt Inside s NoRel COMMA Right \sqrt Inside s Right - Right b NoRel COMMA Right \sqrt Inside s Right - Right a
+crohme2019/test/UN19_1040_em_575.inkml	n Right 2 Sup n Right - Right 1 NoRel + Right 1 Right - Right 2 Sup n
+crohme2019/test/ISICal19_1205_em_819.inkml	\int Right d Sup 4 NoRel x
+crohme2019/test/UN19wb_1111_em_1045.inkml	\tan Right o Right = Right q Right \div Right p
+crohme2019/test/UN19_1009_em_129.inkml	| Right x Right + Right y Right | Right \leq Right | Right x Right | Right + Right | Right y Right |
+crohme2019/test/ISICal19_1209_em_868.inkml	- Right 9 Right . Right 9 Right 1 Right 9 Right 9
+crohme2019/test/UN19_1043_em_617.inkml	u Right + Right v Right + Right t Right + Right - Above t Sup n Right + Right 2 NoRel u Right v NoRel = Right 0
+crohme2019/test/UN19wb_1121_em_1194.inkml	1 Right 4 Right 9 NoRel - Below 8 Right 4
+crohme2019/test/UN19wb_1110_em_1029.inkml	\int Right c Sub z
+crohme2019/test/UN19_1023_em_322.inkml	a Right + Right c
+crohme2019/test/UN19_1039_em_564.inkml	r Right = Right \tan Sup 2 NoRel t
+crohme2019/test/ISICal19_1204_em_808.inkml	x Sub i NoRel - Right x Right = Right y Right \tan Right \theta Sub i
+crohme2019/test/ISICal19_1204_em_805.inkml	1 NoRel - Below 6 NoRel ( Right n Right - Right 1 Right ) Right n Right ( Right n Right + Right 1 Right )
+crohme2019/test/UN19wb_1114_em_1087.inkml	1 Right - Right \sum Right \alpha Sub i
+crohme2019/test/UN19_1006_em_84.inkml	a Right - Right b Right \sqrt Inside P Sub e Right x Right c
+crohme2019/test/UN19_1002_em_18.inkml	B Right C Right H Right ( Right x Right COMMA Right y Right ) Right = Right x Right + Right y Right + NoRel 1 NoRel - Below 2 NoRel [ Right x Right COMMA Right y Right ] Right + Right \ldots
+crohme2019/test/UN19_1045_em_655.inkml	b Right c Right + Right c Right b
+crohme2019/test/UN19_1016_em_218.inkml	X Right \times Right Y
+crohme2019/test/UN19_1047_em_681.inkml	x Sub 1 NoRel - NoRel \gamma NoRel \sqrt NoRel + Right i Right \sqrt Inside \gamma NoRel x Sub 2
+crohme2019/test/UN19_1002_em_21.inkml	M Right \rightarrow NoRel M NoRel - Below \sqrt Inside c
+crohme2019/test/UN19wb_1103_em_923.inkml	\sqrt NoRel k NoRel - Below n
+crohme2019/test/UN19_1015_em_208.inkml	\sum Right l Sub i NoRel + Right \sum Right k Sub i NoRel + Right \sum Right m Sub i NoRel = Right 0
+crohme2019/test/UN19wb_1111_em_1047.inkml	9 Right 5 NoRel - Below 3 Right 3
+crohme2019/test/UN19_1017_em_237.inkml	\sum Below p Right = Right 1 NoRel P NoRel c Sub p NoRel n Sup - Right 2 Right p
+crohme2019/test/ISICal19_1205_em_811.inkml	- NoRel 3 Right 9 Right 3 NoRel - Below 3 Right 8 Right 4 Right 0
+crohme2019/test/UN19wb_1120_em_1174.inkml	[ NoRel m Right + Right 1 NoRel - Below 2 NoRel ] Right \times Right [ NoRel m Right + Right 1 NoRel - Below 2 NoRel ]
+crohme2019/test/UN19wb_1113_em_1074.inkml	\sqrt Inside T NoRel y Right ( Right t Right )
+crohme2019/test/UN19_1035_em_505.inkml	\cos Right ( Right z Right v Right ) Right / Right \sin Right ( Right z Right )
+crohme2019/test/UN19_1038_em_548.inkml	k Sub 5 NoRel y Right n Right g NoRel = Right ( Right 7 Right 5 Right COMMA Right 8 Right 4 Right COMMA Right 8 Right 6 Right COMMA Right 9 Right 8 Right COMMA Right 3 Right 4 Right 3 Right ) Right [ Right 6 Right 8 Right 6 Right ]
+crohme2019/test/ISICal19_1211_em_885.inkml	t Right - Right x
+crohme2019/test/UN19_1012_em_167.inkml	1 Right 0 Right \times Right 6 Right + Right 1 Right 0 Right \times Right 4 Right = Right 1 Right 0 Right 0
+crohme2019/test/UN19_1008_em_114.inkml	( Right x Sup 8 NoRel - Right x Sup 9 NoRel )
+crohme2019/test/UN19_1032_em_454.inkml	\lim Below l Right \rightarrow Right \infty NoRel x NoRel l NoRel ( NoRel )
+crohme2019/test/UN19wb_1119_em_1166.inkml	q Sup 2 NoRel = Right \tan Right \theta
+crohme2019/test/UN19wb_1102_em_911.inkml	z Right = Right \int Below 0 NoRel y NoRel d Right y Right e Sup - Right A Right ( Right y Right )
+crohme2019/test/ISICal19_1202_em_779.inkml	5 NoRel - Below 8
+crohme2019/test/UN19_1011_em_162.inkml	l Right = Right 1 Right \div Right 1 Right 0
+crohme2019/test/UN19_1018_em_248.inkml	Y Right = Right - NoRel 1 NoRel - Below 4 NoRel Y Sub ( Right 3 Right ) NoRel + NoRel 1 NoRel - Below 3 NoRel Y Sub ( Right 2 Right )
+crohme2019/test/UN19wb_1110_em_1025.inkml	+ Right 7 Right 8
+crohme2019/test/UN19_1003_em_42.inkml	- NoRel 1 NoRel - Below 2 Right \sqrt Inside 3
+crohme2019/test/UN19_1036_em_517.inkml	x Right = Right \pm NoRel a NoRel - Below 2
+crohme2019/test/UN19_1025_em_357.inkml	R Right = Right \sqrt Inside ( Right x Sup 1 NoRel ) Sup 2 NoRel + Right ( Right x Sup 2 NoRel ) Sup 2 NoRel + Right ( Right x Sup 3 NoRel ) Sup 2 NoRel + Right ( Right x Sup 4 NoRel ) Sup 2
+crohme2019/test/UN19_1005_em_62.inkml	4 Right x Sup 3 NoRel - Right 3 Right x
+crohme2019/test/UN19_1003_em_30.inkml	n Right = NoRel 1 NoRel - NoRel + Right \sqrt Inside 1 Right 5
+crohme2019/test/UN19_1011_em_156.inkml	y Sub 2 NoRel ( Right x Right ) Right = Right t Sub 3 NoRel ( Right x Right ) Right - Right t Sub 2 NoRel ( Right x Right )
+crohme2019/test/UN19_1050_em_730.inkml	2 Right 5 Right \sqrt Above 5 NoRel 2 Sup - Right 2 Right 1 NoRel 3 Sup 8
+crohme2019/test/UN19_1043_em_627.inkml	( Right k Right - Right b Right - Right c Right ) Right \times Right ( Right a Right - Right b Right )
+crohme2019/test/UN19_1005_em_61.inkml	| Right \int Right d Sup 4 NoRel x Right A Sup a NoRel ( Right x Right ) Right | Right \lt Right \infty
+crohme2019/test/UN19wb_1121_em_1187.inkml	\int Sup \infty NoRel 0 NoRel d Right x Right x Sup n NoRel e Sup - Right x NoRel = Right n Right !
+crohme2019/test/UN19wb_1110_em_1024.inkml	y Sup 2 NoRel = Right ( Right y Sup 1 NoRel ) Sup 2 NoRel + Right \ldots Right + Right ( Right y Sup 6 NoRel ) Sup 2
+crohme2019/test/UN19_1024_em_341.inkml	A Right = Right \int Right d Right x Right h Right ( Right x Right ) Right B Right ( Right x Right )
+crohme2019/test/UN19_1041_em_592.inkml	\int Sup y NoRel x NoRel c Sub i
+crohme2019/test/UN19wb_1107_em_975.inkml	( Right 1 Right . Right 6 Right 5 Right 5 Right COMMA Right 1 Right 4 Right . Right 4 Right 4 Right 7 Right COMMA Right 3 NoRel 3 NoRel . NoRel 9 Right 8 Right )
+crohme2019/test/UN19_1029_em_413.inkml	x Right = Right x Sub a NoRel - Right x Sub b
+crohme2019/test/UN19_1005_em_60.inkml	b Sup 2 NoRel = Right 1 Right + NoRel u Sup 2 NoRel - Below 2 NoRel = NoRel 1 NoRel - Below E Sup 2
+crohme2019/test/UN19_1009_em_125.inkml	\sqrt Inside - Right g
+crohme2019/test/UN19_1049_em_710.inkml	C Sub 0 NoRel = NoRel 3 NoRel - Below 2 Right g Sup 2 NoRel - NoRel 5 NoRel - Below 2 Right g Sup 2 NoRel \log Right 2 Right + NoRel 3 NoRel - Below g Sup 2 NoRel \log Right g
+crohme2019/test/UN19_1016_em_216.inkml	y Sup 2 NoRel = Right x Sup 2 NoRel x Right + Right a Right ) NoRel (
+crohme2019/test/UN19_1048_em_693.inkml	y Right = Right \pm Right \sqrt Inside - Right u
+crohme2019/test/UN19_1039_em_565.inkml	b Right \rightarrow Right - NoRel 2 NoRel - Below b
+crohme2019/test/UN19_1002_em_19.inkml	2 Right \int Right R Sub a Right b NoRel R Sup a Right b NoRel c
+crohme2019/test/UN19_1030_em_432.inkml	S Sub a Right b NoRel S Sub b NoRel + Right S Sub b NoRel S Sub a Right b NoRel = Right 0
+crohme2019/test/UN19_1013_em_183.inkml	( Right 1 Right COMMA Right - NoRel 1 NoRel - Below 3 NoRel COMMA Right - NoRel 1 NoRel - Below 3 NoRel COMMA Right - NoRel 1 NoRel - Below 3 NoRel )
+crohme2019/test/UN19_1047_em_688.inkml	- Right f NoRel \sqrt
+crohme2019/test/ISICal19_1203_em_788.inkml	x Right + Right ( Right y Right \div Right 7 Right ) Right = Right 7 Right b
+crohme2019/test/ISICal19_1201_em_763.inkml	x Sup 6 NoRel \ldots Right x Sup 9
+crohme2019/test/UN19_1031_em_449.inkml	y Sub 2 NoRel - Right y Sub 1 NoRel - Below x Sub 2 NoRel - Right x Sub 1
+crohme2019/test/UN19_1029_em_412.inkml	5 Right \times Right 5
+crohme2019/test/UN19_1038_em_543.inkml	\phi Right ( Right x Right ) Right = NoRel c Right ( Right \sqrt Inside 1 Right + NoRel 4 Right x NoRel - Below a NoRel + Right 1 Right ) NoRel - Below 2 Right x NoRel ( Right 1 Right + NoRel c Right ( Right 1 Right + NoRel 4 Right x NoRel - Below a NoRel + Right 1 Right ) NoRel - Below 2 Right a Right x NoRel )

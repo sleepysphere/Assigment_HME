@@ -1,0 +1,74 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">19</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1021</annotation>
+<annotation type="truth">$\sin(x)$</annotation>
+<annotation type="UI">CROHME19_294</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="\sin_1">\sin</mi>
+			<mrow>
+				<mo xml:id="(_1">(</mo>
+				<mrow>
+					<mi xml:id="x_1">x</mi>
+					<mo xml:id=")_1">)</mo>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+283 285, 301 277, 303 275, 306 273, 308 271, 311 268, 314 265, 318 262, 321 258, 325 255, 328 251, 330 247, 332 244, 334 241, 335 238, 335 236, 335 234, 336 233, 336 232, 336 231, 336 230, 336 231, 337 232, 337 233, 338 235, 338 236, 339 238, 340 240, 341 243, 342 245, 343 248, 345 251, 346 254, 348 257, 350 260, 351 263, 352 266, 353 268, 354 270, 354 272, 354 274, 354 275, 354 277, 353 278, 352 278, 351 279, 349 279, 348 280, 346 280, 344 280, 341 280, 340 280, 338 280, 337 280, 336 280, 335 280, 334 280, 334 279, 335 278, 336 278, 338 277, 340 276, 343 275, 345 274, 348 273, 351 272, 354 271, 357 270, 361 269, 365 268, 368 266, 371 264, 374 262, 376 260, 379 258, 382 256, 384 254, 386 252, 388 249, 389 246, 391 244, 392 242, 392 239, 393 236, 394 234, 394 233, 394 232, 393 231, 392 231, 392 232, 392 234, 391 236, 391 238, 390 240, 390 243, 389 246, 389 249, 388 253, 388 256, 388 259, 388 265, 388 266
+</trace>
+<trace id="1">
+384 216
+</trace>
+<trace id="2">
+386 260, 394 266, 395 265, 396 263, 397 262, 398 260, 400 257, 402 255, 404 253, 407 251, 409 250, 411 249, 414 248, 415 248, 417 248, 418 248, 419 248, 421 249, 423 249, 424 250, 426 251, 427 252, 427 253, 428 254, 429 255, 430 256, 431 257, 431 258, 432 258, 433 258, 434 258, 436 257, 437 256, 438 255, 440 253, 442 251, 445 250, 447 248, 449 247, 452 246, 454 246, 455 246, 457 246, 458 247, 459 248, 459 250, 460 252, 461 255, 461 257, 461 260, 462 262, 462 265, 463 267, 464 269
+</trace>
+<trace id="3">
+550 185, 535 208, 533 212, 530 217, 528 222, 526 228, 525 233, 524 239, 522 245, 521 251, 521 258, 520 264, 520 270, 520 277, 520 283, 521 289, 521 295, 522 301, 524 308, 525 309
+</trace>
+<trace id="4">
+563 238, 580 240, 582 241, 584 243, 585 245, 586 248, 586 251, 587 254, 587 257, 587 260, 586 262, 585 265, 584 267, 582 269, 579 271, 577 272, 574 274, 571 275, 569 277, 567 278, 566 278, 564 279, 562 280, 561 281, 559 282
+</trace>
+<trace id="5">
+602 239, 587 251, 586 253, 585 255, 585 258, 584 261, 584 264, 584 267, 585 270, 585 272, 586 274, 587 276, 588 278, 590 279, 592 280, 594 280, 597 280, 600 280, 603 280, 604 279
+</trace>
+<trace id="6">
+637 195, 645 209, 646 213, 647 218, 647 223, 648 228, 648 234, 648 240, 649 246, 649 252, 649 259, 648 265, 647 271, 646 277, 644 282, 642 287, 640 292, 638 296, 637 297
+</trace>
+<traceGroup xml:id="7">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="8">
+		<annotation type="truth">\sin</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="\sin_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">(</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="(_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">x</annotation>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="x_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">)</annotation>
+		<traceView traceDataRef="6"/>
+		<annotationXML href=")_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,74 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">28</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1120</annotation>
+<annotation type="truth">$\tan \beta=2$</annotation>
+<annotation type="UI">CROHME19_1178</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="tan_1">tan</mi>
+			<mrow>
+				<mi xml:id="beta_1">beta</mi>
+				<mrow>
+					<mo xml:id="=_1">=</mo>
+					<mn xml:id="2_1">2</mn>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+422 201, 423 201, 424 200, 432 198, 436 197, 438 197, 441 196, 448 194, 450 193, 450 194, 450 193, 452 192
+</trace>
+<trace id="1">
+441 183, 440 189, 439 192, 439 194, 439 197, 438 199, 437 202, 437 207, 437 209, 437 211, 437 213, 437 214, 436 214, 437 214, 440 216, 443 216, 442 216, 448 214
+</trace>
+<trace id="2">
+471 201, 472 199, 472 198, 471 196, 472 196, 469 196, 469 195, 465 197, 464 199, 462 200, 461 202, 460 203, 458 209, 458 212, 461 214, 465 212, 466 211, 468 209, 469 208, 470 206, 471 205, 473 202, 473 200, 473 201, 474 202, 474 207, 477 210, 476 210, 477 210, 480 209, 481 208, 483 207, 485 204, 486 201, 487 198, 487 199, 487 200, 487 205, 487 208, 487 210, 486 211, 487 211, 487 210, 489 204, 491 199, 494 194, 497 193, 498 193, 500 194, 501 201, 501 209, 501 209, 503 211, 503 212, 507 213, 510 211
+</trace>
+<trace id="3">
+539 261, 539 258, 541 254, 541 251, 541 249, 541 247, 541 244, 541 242, 540 238, 540 235, 540 232, 540 228, 540 225, 541 214, 542 210, 542 207, 542 204, 543 200, 543 197, 545 192, 546 189, 547 187, 549 185, 550 183, 552 182, 554 180, 556 180, 560 179, 562 179, 565 182, 566 183, 565 189, 564 191, 563 193, 562 195, 560 197, 554 202, 550 204, 549 204, 548 204, 549 204, 556 201, 558 200, 560 200, 566 200, 569 202, 570 203, 570 204, 570 206, 570 209, 568 212, 567 214, 565 215, 559 217, 554 218, 552 217, 550 217, 548 216, 544 211
+</trace>
+<trace id="4">
+601 203, 601 202, 602 202, 606 202, 609 202, 611 202, 613 202, 615 202, 617 202, 618 202, 620 202
+</trace>
+<trace id="5">
+599 211, 604 211, 607 212, 613 212, 615 212, 619 212, 621 212, 620 212, 621 212, 623 212
+</trace>
+<trace id="6">
+661 185, 660 185, 661 185, 662 185, 663 185, 670 185, 673 186, 674 187, 675 186, 675 187, 677 194, 676 196, 676 199, 675 202, 673 204, 671 207, 669 209, 667 212, 664 214, 659 218, 657 219, 654 221, 651 222, 649 223, 647 223, 646 224, 645 225, 644 225, 650 224, 658 224, 661 224, 664 224, 668 224, 671 224, 674 224, 679 224, 682 224, 685 224, 686 224, 688 225
+</trace>
+<traceGroup xml:id="7">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="8">
+		<annotation type="truth">\tan</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="tan_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">\beta</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="beta_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">=</annotation>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="=_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">2</annotation>
+		<traceView traceDataRef="6"/>
+		<annotationXML href="2_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

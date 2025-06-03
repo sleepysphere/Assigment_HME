@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">21</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1110</annotation>
+<annotation type="truth">$\cos o\sigma$</annotation>
+<annotation type="UI">CROHME19_1030</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="cos_1">cos</mi>
+			<mrow>
+				<mi xml:id="o_1">o</mi>
+				<mi xml:id="sigma_1">sigma</mi>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+230 122, 231 122, 230 122, 224 121, 221 122, 218 123, 216 125, 213 127, 209 130, 206 134, 203 137, 200 142, 199 146, 199 150, 200 154, 202 157, 205 159, 209 161, 213 162, 219 162, 224 162, 230 162, 235 161, 245 158, 250 156, 254 154, 257 152, 260 150, 262 149, 263 147, 263 146, 264 147, 263 146, 259 145, 256 144, 252 144, 248 144, 243 145, 239 146, 236 147, 233 149, 230 151, 228 154, 226 157, 225 159, 226 161, 227 163, 230 164, 234 164, 239 164, 244 163, 249 161, 263 155, 266 153, 267 150, 267 148, 265 146, 263 145, 259 144, 255 144, 251 145, 245 148, 244 150, 244 151, 246 153, 250 154, 254 154, 260 154, 266 152, 272 150, 277 148, 282 145, 285 142, 287 140, 288 138, 288 137, 289 137, 299 149, 304 157, 292 166, 277 165, 274 164, 273 163
+</trace>
+<trace id="1">
+353 128, 353 127, 352 127, 348 128, 348 127, 347 127, 343 132, 341 135, 339 137, 338 141, 337 144, 337 153, 338 155, 340 157, 343 158, 345 158, 348 157, 352 156, 355 154, 359 152, 362 149, 364 146, 366 143, 367 140, 367 136, 366 134, 364 131, 361 130, 357 128, 354 128, 350 128, 349 128
+</trace>
+<trace id="2">
+408 134, 408 133, 406 131, 405 130, 406 130, 405 130, 400 128, 397 128, 395 128, 393 128, 391 129, 386 131, 384 133, 382 134, 380 136, 379 139, 378 141, 378 143, 378 145, 378 147, 379 149, 381 151, 382 152, 384 153, 388 153, 390 153, 392 152, 394 151, 395 150, 397 149, 398 147, 398 145, 398 139, 398 138, 397 136, 396 134, 396 133, 394 131
+</trace>
+<traceGroup xml:id="3">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="4">
+		<annotation type="truth">\cos</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="cos_1"/>
+	</traceGroup>
+	<traceGroup xml:id="5">
+		<annotation type="truth">o</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="o_1"/>
+	</traceGroup>
+	<traceGroup xml:id="6">
+		<annotation type="truth">\sigma</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="sigma_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

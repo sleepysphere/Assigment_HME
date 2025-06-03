@@ -1,0 +1,44 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">20</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1107</annotation>
+<annotation type="truth">$B_i$</annotation>
+<annotation type="UI">CROHME19_983</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<msub>
+			<mi xml:id="B_1">B</mi>
+			<mi xml:id="i_1">i</mi>
+		</msub>
+	</math>
+</annotationXML>
+<trace id="0">
+262 148, 262 147, 263 148, 263 149, 264 156, 265 160, 266 165, 266 170, 265 176, 264 182, 263 188, 262 201, 261 208, 261 214, 260 221, 259 228, 259 234, 258 239, 258 243, 258 246, 259 250, 259 251, 261 253, 265 252, 267 250, 272 248, 275 246, 278 244, 282 242, 286 239, 289 237, 295 230, 297 227, 299 223, 300 219, 300 216, 299 212, 296 205, 294 202, 292 200, 289 197, 287 195, 284 194, 282 193, 280 193, 278 192, 279 193, 285 195, 296 196, 309 194, 313 193, 316 191, 319 190, 322 187, 325 185, 327 182, 329 179, 330 172, 328 163, 326 160, 323 157, 320 155, 307 149, 298 147, 285 146
+</trace>
+<trace id="1">
+320 244, 321 244, 323 244, 329 239, 331 237, 332 235, 333 234, 334 232, 334 231, 334 232, 336 242, 337 244, 339 245, 340 246, 342 246, 343 247
+</trace>
+<trace id="2">
+340 216, 341 216
+</trace>
+<traceGroup xml:id="3">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="4">
+		<annotation type="truth">B</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="B_1"/>
+	</traceGroup>
+	<traceGroup xml:id="5">
+		<annotation type="truth">i</annotation>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="i_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,62 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">19</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1113</annotation>
+<annotation type="truth">$\sigma\sigma\sigma\sigma$</annotation>
+<annotation type="UI">CROHME19_1069</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="sigma_1">sigma</mi>
+			<mrow>
+				<mi xml:id="sigma_2">sigma</mi>
+				<mrow>
+					<mi xml:id="sigma_3">sigma</mi>
+					<mi xml:id="sigma_4">sigma</mi>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+126 183, 125 183, 122 182, 121 182, 117 182, 115 182, 114 182, 112 182, 112 181, 107 182, 105 182, 103 183, 101 183, 99 184, 97 185, 95 186, 93 187, 92 188, 90 189, 88 191, 87 193, 85 197, 84 198, 83 200, 83 202, 83 205, 83 207, 83 208, 83 210, 84 212, 85 213, 86 214, 89 216, 93 218, 98 218, 101 218, 103 217, 105 217, 106 216, 108 215, 109 213, 111 212, 112 210, 112 208, 113 206, 113 205, 113 199, 112 197, 111 196, 110 194, 109 193, 108 192, 106 190, 105 190, 99 188, 97 188, 95 188, 93 188, 92 189
+</trace>
+<trace id="1">
+190 189, 189 189, 188 189, 183 190, 180 191, 178 191, 176 192, 174 193, 171 195, 169 196, 166 197, 164 199, 162 200, 160 202, 158 204, 156 206, 155 208, 152 216, 152 218, 153 220, 153 222, 155 223, 156 225, 158 226, 160 227, 163 228, 165 228, 167 228, 170 228, 175 227, 178 226, 180 225, 182 223, 184 222, 185 221, 186 219, 187 217, 188 212, 187 210, 187 208, 186 207, 185 205, 184 204, 183 202, 181 201, 179 200, 177 199, 175 198, 172 197, 170 197, 167 197, 165 197, 163 197, 161 197, 160 197
+</trace>
+<trace id="2">
+262 196, 261 196, 260 196, 255 195, 252 195, 250 196, 248 196, 246 196, 243 197, 241 197, 238 198, 236 199, 233 200, 231 201, 228 202, 226 204, 224 205, 222 207, 221 208, 219 210, 218 212, 216 214, 216 216, 215 218, 215 220, 215 222, 215 224, 216 226, 217 228, 218 229, 220 231, 222 232, 224 233, 231 233, 234 233, 236 233, 239 232, 241 231, 245 229, 246 228, 248 227, 249 225, 250 224, 250 222, 251 220, 251 217, 251 215, 250 213, 249 211, 248 209, 246 208, 244 206, 242 205, 240 204, 238 203, 235 203, 233 202, 229 202, 228 202
+</trace>
+<trace id="3">
+314 205, 313 205, 312 205, 307 205, 305 205, 303 206, 300 207, 298 208, 296 209, 286 215, 284 217, 282 219, 281 221, 280 223, 279 225, 279 228, 279 230, 279 232, 280 234, 282 236, 284 237, 286 238, 289 239, 292 239, 294 239, 297 239, 300 239, 303 238, 305 237, 307 236, 309 235, 311 233, 312 232, 313 230, 313 229, 313 227, 313 225, 312 224, 312 222, 311 221, 309 219, 307 218, 306 217, 304 216, 302 215, 298 213, 295 213, 294 213, 292 213, 289 213
+</trace>
+<traceGroup xml:id="4">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="5">
+		<annotation type="truth">\sigma</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="sigma_1"/>
+	</traceGroup>
+	<traceGroup xml:id="6">
+		<annotation type="truth">\sigma</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="sigma_2"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">\sigma</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="sigma_3"/>
+	</traceGroup>
+	<traceGroup xml:id="8">
+		<annotation type="truth">\sigma</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="sigma_4"/>
+	</traceGroup>
+</traceGroup>
+</ink>

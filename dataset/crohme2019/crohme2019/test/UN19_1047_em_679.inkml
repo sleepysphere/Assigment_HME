@@ -1,0 +1,55 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">32</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1047</annotation>
+<annotation type="truth">$\int dX$</annotation>
+<annotation type="UI">CROHME19_679</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mo xml:id="int_1">int</mo>
+			<mrow>
+				<mi xml:id="d_1">d</mi>
+				<mi xml:id="X_1">X</mi>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+384 99, 367 95, 365 95, 363 96, 361 98, 359 100, 358 103, 356 106, 354 109, 352 113, 350 117, 348 122, 347 127, 346 132, 346 137, 346 143, 345 149, 345 155, 345 162, 346 169, 347 176, 348 183, 350 189, 351 195, 353 201, 354 207, 356 213, 358 219, 359 226, 361 232, 362 238, 363 244, 363 250, 362 256, 361 261, 359 266, 357 269, 355 272, 351 274, 348 275, 344 276, 341 277, 338 278, 335 279, 332 279, 331 280
+</trace>
+<trace id="1">
+420 194, 407 200, 407 202, 407 204, 407 206, 408 207, 409 209, 410 210, 411 211, 413 211, 415 211, 416 210, 417 209, 419 207, 420 204, 422 201, 424 198, 425 195, 426 192, 427 188, 427 184, 428 179, 428 174, 429 170, 428 166, 428 163, 428 159, 427 156, 426 153, 426 151, 426 149, 425 148, 425 146, 426 145, 426 143, 427 143, 427 142, 428 142, 429 143, 429 144, 430 145, 431 147, 431 149, 432 152, 432 157, 431 162, 431 168, 430 174, 430 180, 430 186, 430 191, 431 195, 431 198, 432 201, 434 203
+</trace>
+<trace id="2">
+461 141, 467 170, 470 175, 472 181, 475 186, 477 192, 479 198, 481 203, 484 208, 487 212, 489 216, 492 219
+</trace>
+<trace id="3">
+456 227, 467 202, 471 195, 476 186, 482 177, 484 175
+</trace>
+<traceGroup xml:id="4">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="5">
+		<annotation type="truth">\int</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="int_1"/>
+	</traceGroup>
+	<traceGroup xml:id="6">
+		<annotation type="truth">d</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="d_1"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">X</annotation>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="X_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

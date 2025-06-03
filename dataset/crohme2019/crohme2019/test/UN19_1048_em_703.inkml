@@ -1,0 +1,51 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">29</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1048</annotation>
+<annotation type="truth">$\theta &lt;\infty$</annotation>
+<annotation type="UI">CROHME19_703</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="theta_1">theta</mi>
+			<mrow>
+				<mo xml:id="&lt;_1">&lt;</mo>
+				<mi xml:id="infin_1">infty</mi>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+435 215, 439 207, 439 206, 439 204, 439 202, 439 200, 438 199, 438 197, 438 196, 437 194, 437 192, 436 191, 434 190, 433 189, 432 188, 431 187, 429 187, 428 187, 426 188, 424 189, 422 192, 420 194, 417 198, 414 202, 411 207, 408 213, 405 219, 403 226, 401 233, 400 241, 399 248, 398 256, 398 263, 398 270, 398 276, 399 282, 400 288, 402 292, 404 297, 405 301, 407 303, 408 305, 410 306, 412 306, 414 305, 416 303, 418 300, 420 295, 423 290, 425 284, 428 278, 431 271, 433 263, 435 255, 437 247, 438 239, 439 231, 439 224, 440 217, 440 211, 440 207, 439 203, 439 200, 437 197, 435 195, 433 194, 430 193, 426 194, 423 195, 420 196, 416 199, 412 203, 408 208, 404 213, 402 219, 400 226, 399 232, 398 237, 399 241, 401 244, 404 247, 408 249, 412 250, 417 250, 423 250, 428 249, 430 249
+</trace>
+<trace id="1">
+550 215, 546 220, 544 223, 541 225, 537 227, 533 230, 529 232, 525 235, 521 237, 516 239, 512 241, 508 244, 504 246, 500 248, 496 249, 494 251, 491 253, 490 254, 489 256, 488 257, 488 259, 489 261, 491 264, 493 266, 496 268, 498 271, 501 273, 505 275, 509 278, 514 280, 517 283, 522 286, 526 288, 531 291, 535 293, 538 296, 541 297, 543 299, 545 299, 546 300, 547 301
+</trace>
+<trace id="2">
+681 230, 678 235, 677 237, 675 240, 673 243, 671 246, 667 249, 664 252, 659 255, 655 258, 651 261, 647 263, 642 265, 638 266, 635 266, 632 266, 629 265, 626 264, 624 262, 622 260, 621 258, 620 256, 620 254, 621 252, 622 250, 623 249, 624 248, 625 247, 627 246, 628 246, 630 246, 633 246, 635 247, 637 247, 640 249, 643 250, 645 252, 647 254, 650 256, 653 258, 655 261, 658 263, 660 265, 663 267, 665 269, 667 270, 669 272, 671 273, 673 273, 676 274, 678 274, 680 274, 682 273, 684 272, 686 271, 687 269, 688 267, 689 264, 689 261, 690 258, 689 255, 689 251, 688 247, 687 245, 685 242, 684 240, 681 238, 678 237, 676 238, 675 238
+</trace>
+<traceGroup xml:id="3">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="4">
+		<annotation type="truth">\theta</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="theta_1"/>
+	</traceGroup>
+	<traceGroup xml:id="5">
+		<annotation type="truth">\infty</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="infin_1"/>
+	</traceGroup>
+	<traceGroup xml:id="6">
+		<annotation type="truth">\lt</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="&lt;_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

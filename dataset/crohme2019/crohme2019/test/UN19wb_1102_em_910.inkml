@@ -1,0 +1,83 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">20</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1102</annotation>
+<annotation type="truth">$\int\limits_{0}^{\infty}\sin{x}$</annotation>
+<annotation type="UI">CROHME19_910</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<munderover>
+				<mo xml:id="int_1">int</mo>
+				<mn xml:id="0_1">0</mn>
+				<mi xml:id="infin_1">infty</mi>
+			</munderover>
+			<mrow>
+				<mi xml:id="sin_1">sin</mi>
+				<mi xml:id="x_1">x</mi>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+380 103, 377 102, 374 103, 371 103, 368 104, 361 107, 358 110, 355 113, 352 116, 349 120, 345 133, 345 138, 345 143, 346 148, 347 154, 347 160, 347 167, 347 174, 346 194, 345 202, 344 209, 342 217, 340 224, 338 232, 333 246, 330 253, 327 260, 323 267, 319 273, 315 279, 311 285, 306 290, 301 295, 291 303, 287 305, 283 307, 279 308, 276 309, 273 308
+</trace>
+<trace id="1">
+287 330, 287 329, 286 329, 283 330, 281 331, 279 332, 278 333, 277 334, 276 336, 275 338, 274 341, 274 343, 273 346, 274 349, 274 352, 275 355, 275 358, 277 361, 278 363, 280 365, 283 368, 285 368, 287 368, 290 368, 291 367, 293 366, 295 364, 296 362, 298 360, 299 354, 300 351, 300 348, 300 345, 300 341, 299 338, 299 335, 298 333, 296 331, 292 329
+</trace>
+<trace id="2">
+328 73, 328 72, 327 72, 330 69, 331 68, 333 66, 336 64, 338 63, 340 62, 343 61, 346 60, 348 60, 350 60, 352 61, 354 62, 355 64, 357 66, 358 69, 359 72, 359 75, 360 78, 361 81, 362 83, 364 85, 366 87, 368 87, 373 88, 376 87, 379 86, 383 85, 386 83, 389 81, 392 79, 395 76, 399 70, 399 68, 399 67, 399 68, 399 67, 396 65, 391 64, 386 65, 383 66, 380 67, 374 69, 371 71, 368 72, 365 74, 362 75, 358 77, 355 78, 353 80, 350 81, 347 82, 345 83, 343 83, 335 82, 333 80, 332 78, 331 77, 331 76, 331 75
+</trace>
+<trace id="3">
+383 215, 384 216, 385 216, 391 216, 394 215, 395 214, 397 212, 399 209, 401 207, 402 203, 403 200, 405 193, 405 189, 405 186, 405 183, 405 181, 405 179, 404 177, 404 178, 403 177, 403 176, 404 177, 407 182, 411 187, 414 189, 415 193, 417 196, 419 200, 421 203, 422 207, 423 210, 424 213, 425 216, 425 219, 425 221, 425 222, 424 223, 425 223, 424 223, 420 223, 418 222, 416 221, 415 220, 413 219, 414 219, 410 217
+</trace>
+<trace id="4">
+432 196, 432 197, 432 198, 432 199, 433 207, 434 210, 435 212, 436 214, 437 215, 438 216, 441 217, 444 214, 446 212, 447 209, 450 203, 450 200, 451 199, 452 198, 451 198, 452 198, 453 197, 454 197, 454 203, 454 206, 455 208, 455 211, 455 213, 455 215, 455 217, 455 218, 455 217, 459 208, 463 201, 465 199, 467 198, 468 198, 469 198, 471 199, 471 207, 471 210, 471 214, 471 217, 470 219, 470 221, 470 220, 470 221
+</trace>
+<trace id="5">
+432 179
+</trace>
+<trace id="6">
+492 192, 492 191, 496 190, 499 189, 501 189, 503 189, 506 189, 509 189, 511 190, 513 192, 516 196, 517 200, 517 203, 517 206, 517 208, 515 211, 510 216, 506 218, 504 219, 502 218, 500 218, 501 218, 500 218, 497 217, 498 217
+</trace>
+<trace id="7">
+531 189, 529 188, 528 188, 522 193, 521 195, 519 207, 520 209, 522 212, 525 214, 529 215, 533 217, 538 219, 543 220, 549 222, 552 223
+</trace>
+<traceGroup xml:id="8">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="9">
+		<annotation type="truth">\int</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="int_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">0</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="0_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">\infty</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="infin_1"/>
+	</traceGroup>
+	<traceGroup xml:id="12">
+		<annotation type="truth">x</annotation>
+		<traceView traceDataRef="6"/>
+		<traceView traceDataRef="7"/>
+		<annotationXML href="x_1"/>
+	</traceGroup>
+	<traceGroup xml:id="13">
+		<annotation type="truth">\sin</annotation>
+		<traceView traceDataRef="3"/>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="sin_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

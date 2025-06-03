@@ -1,0 +1,44 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">19</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1008</annotation>
+<annotation type="truth">$\mbox{Tr}$</annotation>
+<annotation type="UI">CROHME19_112</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="T_1">T</mi>
+			<mi xml:id="r_1">r</mi>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+605 188, 604 201, 604 204, 604 207, 604 211, 604 215, 603 219, 603 222, 603 226, 603 230, 603 233, 602 236, 602 238, 602 241, 603 243, 603 245, 603 247, 603 249, 604 251, 604 252, 604 253, 605 254, 605 255
+</trace>
+<trace id="1">
+581 190, 590 190, 592 189, 596 189, 599 189, 602 189, 605 189, 609 189, 612 189, 616 188, 619 188, 622 189, 624 189, 626 189, 628 189, 630 188, 632 188, 634 188, 635 188, 636 188, 637 188, 638 188, 639 187, 639 188, 638 188
+</trace>
+<trace id="2">
+627 237, 626 243, 626 245, 626 246, 626 248, 626 249, 626 251, 625 252, 625 253, 625 254, 625 255, 625 256, 625 257, 625 258, 625 257, 624 255, 624 254, 624 253, 623 252, 623 250, 622 249, 622 248, 622 247, 622 245, 621 244, 622 243, 622 242, 622 241, 622 240, 623 239, 624 238, 625 238, 626 237, 627 237, 628 237, 629 237, 630 237, 631 237, 632 237, 633 237, 634 238, 635 238, 636 238, 637 238, 638 238, 638 239, 639 239
+</trace>
+<traceGroup xml:id="3">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="4">
+		<annotation type="truth">r</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="r_1"/>
+	</traceGroup>
+	<traceGroup xml:id="5">
+		<annotation type="truth">T</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="T_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

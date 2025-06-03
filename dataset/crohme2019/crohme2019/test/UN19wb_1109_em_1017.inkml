@@ -1,0 +1,59 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">32</annotation>
+<annotation type="gender">F</annotation>
+<annotation type="hand">L</annotation>
+<annotation type="writer">UN19wb_1109</annotation>
+<annotation type="truth">$8 \times 7$</annotation>
+<annotation type="UI">CROHME19_1017</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mn xml:id="8_1">8</mn>
+			<mrow>
+				<mo xml:id="times_1">times</mo>
+				<mn xml:id="7_1">7</mn>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+424 183, 425 182, 424 180, 425 180, 425 179, 423 178, 421 178, 418 179, 416 180, 414 181, 412 182, 411 184, 410 186, 411 189, 415 196, 418 199, 421 201, 424 204, 428 207, 431 210, 434 214, 437 217, 438 220, 440 226, 439 228, 438 230, 435 232, 433 233, 430 233, 426 233, 423 232, 421 231, 415 226, 415 224, 415 222, 416 220, 417 217, 419 215, 421 213, 423 210, 426 208, 431 203, 432 201, 434 198, 435 196, 436 193, 436 191, 435 188, 434 186, 433 185, 431 184, 429 183, 427 183, 425 183, 425 182
+</trace>
+<trace id="1">
+493 189, 493 190, 493 191, 490 196, 488 198, 486 201, 484 203, 482 206, 480 209, 478 212, 477 215, 475 217, 473 220, 472 222, 470 224, 469 225, 468 226, 467 226
+</trace>
+<trace id="2">
+464 185, 465 186, 466 187, 472 194, 475 197, 477 200, 480 203, 482 206, 484 209, 486 212, 487 215, 489 218, 492 223, 493 224, 494 225
+</trace>
+<trace id="3">
+515 180, 516 180, 518 180, 526 181, 530 181, 533 181, 535 181, 537 181, 539 181, 541 184, 541 183, 540 188, 539 191, 538 194, 538 197, 537 201, 536 204, 536 208, 536 211, 536 214, 536 218, 535 220, 535 223, 535 225, 535 226, 535 227, 534 227
+</trace>
+<trace id="4">
+520 199, 526 199, 530 199, 534 200, 541 201, 544 202, 547 202, 549 203, 551 203, 552 203
+</trace>
+<traceGroup xml:id="5">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="6">
+		<annotation type="truth">8</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="8_1"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">\times</annotation>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="times_1"/>
+	</traceGroup>
+	<traceGroup xml:id="8">
+		<annotation type="truth">7</annotation>
+		<traceView traceDataRef="3"/>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="7_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

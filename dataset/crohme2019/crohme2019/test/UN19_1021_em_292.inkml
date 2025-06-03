@@ -1,0 +1,88 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">19</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1021</annotation>
+<annotation type="truth">$(1 - \cos z)$</annotation>
+<annotation type="UI">CROHME19_292</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mo xml:id="(_1">(</mo>
+			<mrow>
+				<mn xml:id="1_1">1</mn>
+				<mrow>
+					<mo xml:id="-_1">-</mo>
+					<mrow>
+						<mi xml:id="\cos_1">\cos</mi>
+						<mrow>
+							<mi xml:id="z_1">z</mi>
+							<mo xml:id=")_1">)</mo>
+						</mrow>
+					</mrow>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+292 137, 282 151, 281 153, 279 154, 277 156, 275 159, 274 162, 273 164, 271 168, 270 171, 269 175, 267 179, 265 184, 263 189, 263 193, 261 198, 260 203, 259 208, 258 214, 258 219, 258 224, 258 230, 258 234, 259 239, 259 243, 259 248, 260 253, 260 259, 261 263, 260 268, 261 272, 261 273
+</trace>
+<trace id="1">
+317 219, 330 212, 332 210, 335 207, 338 204, 341 202, 345 199, 348 196, 351 193, 354 189, 357 185, 360 182, 363 179, 366 177, 368 174, 371 173, 372 172, 374 171, 375 171, 375 172, 375 174, 375 175, 374 177, 373 179, 372 182, 371 184, 369 187, 368 191, 367 194, 366 197, 365 200, 364 203, 363 206, 363 209, 362 212, 362 215, 362 218, 362 221, 362 223, 362 225, 362 226
+</trace>
+<trace id="2">
+425 217, 445 216, 449 216, 450 216
+</trace>
+<trace id="3">
+545 200, 536 198, 534 199, 531 200, 529 201, 527 203, 525 205, 523 206, 521 208, 519 210, 517 212, 516 214, 514 216, 512 219, 511 222, 509 224, 508 227, 507 229, 507 232, 506 234, 506 236, 506 238, 507 239, 507 241, 509 242, 510 244, 511 245, 513 246, 516 247, 518 248, 520 248, 523 249, 526 249, 530 249, 534 248, 537 248, 540 247, 543 246, 546 245, 547 245
+</trace>
+<trace id="4">
+578 221, 563 229, 562 231, 561 232, 559 234, 558 236, 558 237, 558 238, 558 239, 558 240, 559 242, 560 243, 561 244, 562 245, 563 246, 564 246, 565 246, 566 246, 567 245, 569 244, 571 243, 573 242, 575 241, 576 239, 578 238, 579 236, 580 234, 581 232, 581 231, 581 229, 581 227, 580 225, 579 223, 578 222, 577 220, 576 220, 575 219, 573 219, 572 218, 571 218, 570 218, 569 218, 568 218, 568 219, 569 219, 570 220, 571 220, 573 221, 576 221, 579 221, 581 221, 584 220, 587 219, 590 219, 594 217, 597 216, 601 214, 603 212, 606 211, 609 209, 612 206, 614 204, 615 203, 616 201, 617 200, 617 199, 618 199, 618 200, 618 202, 619 203, 620 205, 621 206, 622 208, 624 211, 625 213, 626 215, 627 217, 629 220, 630 223, 632 225, 634 227, 636 229, 637 231, 639 233, 640 235, 641 236, 642 237, 643 238, 643 239, 642 239, 641 240, 640 240, 638 240, 636 240, 634 240, 631 240, 629 240, 627 240, 625 240, 623 240, 621 241, 620 241
+</trace>
+<trace id="5">
+685 204, 707 201, 709 201, 711 201, 713 201, 715 201, 717 202, 719 202, 720 203, 721 203, 721 204, 720 205, 718 206, 717 207, 715 209, 714 210, 712 212, 709 214, 707 215, 705 217, 702 219, 699 222, 697 224, 695 226, 694 228, 693 230, 691 232, 691 234, 690 235, 690 237, 689 237, 689 238, 689 239, 690 239, 690 240, 691 241, 692 241, 694 242, 697 243, 699 243, 702 244, 705 244, 707 244, 710 244, 712 244, 714 245, 716 245, 719 244
+</trace>
+<trace id="6">
+759 156, 772 165, 773 167, 774 170, 774 173, 775 177, 775 181, 775 185, 775 189, 776 193, 776 197, 776 201, 775 205, 775 210, 775 214, 775 219, 774 223, 774 228, 773 232, 773 236, 772 240, 772 244, 771 247, 771 251, 770 253, 769 256, 769 259, 768 261, 767 263, 766 265, 765 267, 763 268, 762 270, 761 270
+</trace>
+<traceGroup xml:id="7">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="8">
+		<annotation type="truth">(</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="(_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">1</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="1_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="-_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">\cos</annotation>
+		<traceView traceDataRef="3"/>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="\cos_1"/>
+	</traceGroup>
+	<traceGroup xml:id="12">
+		<annotation type="truth">z</annotation>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="z_1"/>
+	</traceGroup>
+	<traceGroup xml:id="13">
+		<annotation type="truth">)</annotation>
+		<traceView traceDataRef="6"/>
+		<annotationXML href=")_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

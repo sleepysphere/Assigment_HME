@@ -1,0 +1,48 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">34</annotation>
+<annotation type="gender">F</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1003</annotation>
+<annotation type="truth">$\frac{c}{u}$</annotation>
+<annotation type="UI">CROHME19_32</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mfrac xml:id="_1">
+			<mi xml:id="c_1">c</mi>
+			<mi xml:id="u_1">u</mi>
+		</mfrac>
+	</math>
+</annotationXML>
+<trace id="0">
+566 130, 557 122, 554 123, 551 123, 548 125, 545 126, 542 128, 539 130, 537 133, 534 137, 532 140, 530 143, 529 147, 529 150, 529 153, 531 156, 532 159, 535 161, 538 163, 542 164, 546 165, 550 166, 555 166, 559 166, 563 165, 567 165, 570 164, 572 164, 574 164, 575 164, 575 163, 576 163, 577 163
+</trace>
+<trace id="1">
+483 196, 512 196, 520 195, 529 195, 538 194, 546 194, 554 194, 562 193, 570 193, 577 193, 583 193, 588 193, 593 193, 596 193, 599 193, 601 194, 603 194, 604 194, 604 195, 603 195
+</trace>
+<trace id="2">
+495 278, 509 271, 512 268, 515 265, 517 262, 519 259, 521 255, 523 251, 525 247, 527 243, 529 240, 531 237, 532 234, 533 233, 533 231, 534 231, 534 230, 534 229, 534 230, 533 231, 533 232, 532 234, 531 236, 530 239, 529 242, 529 245, 529 248, 529 251, 529 255, 530 258, 531 261, 532 264, 533 267, 534 269, 535 271, 536 272, 537 274, 538 275, 540 275, 541 275, 542 275, 543 275, 544 274, 545 272, 546 271, 548 269, 549 266, 551 264, 552 260, 553 257, 554 253, 554 250, 554 247, 555 244, 555 243, 555 242, 555 241, 555 240, 555 239, 556 240, 556 241, 556 243, 557 245, 557 248, 558 251, 558 254, 559 257, 559 261, 560 264, 560 266, 561 269, 562 271, 563 272, 564 274, 566 275, 569 275, 575 274, 581 273, 589 271, 597 267, 599 266
+</trace>
+<traceGroup xml:id="3">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="4">
+		<annotation type="truth">c</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="c_1"/>
+	</traceGroup>
+	<traceGroup xml:id="5">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="6">
+		<annotation type="truth">u</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="u_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

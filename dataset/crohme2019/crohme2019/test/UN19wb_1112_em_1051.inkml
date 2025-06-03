@@ -1,0 +1,155 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">19</annotation>
+<annotation type="gender">F</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1112</annotation>
+<annotation type="truth">$\frac{1}{8} (n^2 + 5 n + 8)$</annotation>
+<annotation type="UI">CROHME19_1051</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mfrac xml:id="_1">
+				<mn xml:id="1_1">1</mn>
+				<mn xml:id="8_1">8</mn>
+			</mfrac>
+			<mrow>
+				<mo xml:id="(_1">(</mo>
+				<mrow>
+					<msup>
+						<mi xml:id="n_1">n</mi>
+						<mn xml:id="2_1">2</mn>
+					</msup>
+					<mrow>
+						<mo xml:id="+_1">+</mo>
+						<mrow>
+							<mn xml:id="5_1">5</mn>
+							<mrow>
+								<mi xml:id="n_2">n</mi>
+								<mrow>
+									<mo xml:id="+_2">+</mo>
+									<mrow>
+										<mn xml:id="8_2">8</mn>
+										<mo xml:id=")_1">)</mo>
+									</mrow>
+								</mrow>
+							</mrow>
+						</mrow>
+					</mrow>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+301 131, 301 131, 304 130, 307 130, 310 129, 319 125, 321 123, 324 121, 326 119, 329 116, 331 114, 333 111, 335 109, 336 107, 337 106, 338 104, 338 105, 338 104, 339 103, 340 104, 340 110, 340 114, 340 118, 339 122, 339 126, 339 133, 339 137, 338 140, 338 142, 338 144, 338 146, 339 145, 339 146, 338 147, 337 147
+</trace>
+<trace id="1">
+303 167, 303 167, 304 167, 306 167, 315 167, 320 167, 323 167, 327 167, 330 168, 333 168, 340 168, 347 168, 350 168, 353 168, 355 168, 357 167, 359 168
+</trace>
+<trace id="2">
+333 196, 332 196, 327 195, 326 195, 324 194, 325 194, 324 194, 321 191, 321 189, 321 187, 321 186, 323 184, 324 182, 327 181, 329 180, 332 180, 335 180, 338 180, 341 181, 343 182, 344 184, 344 185, 344 187, 344 189, 343 191, 341 193, 334 200, 332 203, 329 205, 326 208, 324 211, 322 213, 320 219, 319 221, 320 223, 320 225, 321 227, 323 228, 325 229, 328 230, 333 231, 337 231, 340 231, 343 231, 345 230, 348 228, 352 225, 353 223, 354 222, 355 220, 356 219, 355 217, 356 218, 355 217, 353 214, 352 212, 352 213, 352 212, 347 209, 345 208, 343 206, 341 205, 340 204, 338 202, 336 201, 334 200, 333 198, 331 198, 330 197
+</trace>
+<trace id="3">
+396 136, 395 137, 393 141, 392 143, 391 145, 389 147, 388 150, 387 153, 386 157, 385 160, 384 164, 384 168, 384 171, 383 175, 384 179, 384 183, 385 187, 386 190, 390 197, 391 198, 392 199, 393 200, 394 200
+</trace>
+<trace id="4">
+400 165, 401 164, 406 161, 407 160, 408 160, 410 161, 411 163, 412 165, 412 168, 412 172, 412 175, 412 179, 412 182, 412 185, 412 187, 412 188, 413 188, 413 189, 413 188, 415 175, 416 172, 417 169, 419 166, 420 164, 421 163, 423 162, 422 162, 423 162, 426 163, 427 162, 427 163, 428 169, 428 172, 428 176, 428 182, 429 185, 430 188, 431 190, 433 191, 435 192, 435 192, 436 192, 440 190, 441 189, 441 190, 441 189, 443 188
+</trace>
+<trace id="5">
+448 137, 449 136, 453 133, 458 133, 458 132, 460 136, 461 138, 460 140, 459 143, 458 145, 456 147, 454 149, 453 150, 451 151, 449 152, 447 153, 446 153, 445 153, 444 152, 443 152, 444 152, 446 150, 446 149, 446 150, 447 150, 450 153, 451 153, 454 155, 455 156, 457 156, 460 154, 460 155, 461 154, 464 152, 465 152
+</trace>
+<trace id="6">
+481 179, 482 179, 483 179, 490 180, 494 180, 496 180, 499 181, 502 181, 505 180, 508 180, 511 180, 514 180, 515 180, 516 180, 518 181
+</trace>
+<trace id="7">
+498 162, 498 163, 498 164, 500 170, 500 174, 500 177, 500 180, 500 184, 499 187, 499 189, 499 192, 498 193, 498 195
+</trace>
+<trace id="8">
+561 151, 560 151, 559 151, 555 151, 554 151, 550 152, 548 153, 546 153, 545 154, 543 158, 543 161, 543 163, 543 166, 543 169, 544 172, 544 174, 544 176, 544 178, 543 177, 543 178, 544 179, 545 179, 549 175, 551 174, 552 173, 555 172, 554 172, 555 171, 561 171, 563 171, 565 173, 567 174, 568 176, 569 179, 570 181, 570 184, 569 186, 567 191, 566 193, 563 195, 561 196, 558 198, 555 199, 552 200, 550 200, 547 200, 545 200, 543 200, 541 199
+</trace>
+<trace id="9">
+579 180, 579 179, 580 179, 584 177, 584 176, 586 178, 587 180, 587 182, 588 185, 587 188, 587 191, 587 194, 586 196, 586 198, 586 199, 586 198, 586 197, 587 196, 590 188, 591 184, 593 182, 594 180, 595 179, 596 178, 596 177, 599 179, 600 180, 601 182, 601 184, 602 187, 602 189, 602 192, 603 194, 604 196, 605 198, 606 200, 611 202, 612 202, 615 202
+</trace>
+<trace id="10">
+635 181, 634 181, 634 180, 635 180, 640 180, 643 180, 645 180, 648 180, 650 180, 653 180, 655 180, 658 181, 662 181
+</trace>
+<trace id="11">
+648 171, 648 176, 648 179, 649 182, 649 186, 649 195, 648 197, 648 198, 648 199
+</trace>
+<trace id="12">
+687 165, 686 164, 685 164, 683 160, 683 158, 684 158, 686 155, 687 153, 689 153, 690 153, 696 154, 698 156, 699 158, 700 160, 701 162, 701 165, 700 167, 699 169, 698 172, 696 174, 693 177, 690 179, 688 182, 686 184, 684 187, 682 189, 681 192, 681 194, 681 196, 681 197, 682 199, 683 200, 685 201, 687 201, 690 201, 692 201, 694 201, 701 197, 703 196, 704 194, 705 193, 704 192, 705 192, 703 188, 702 188, 699 184, 697 182, 692 177, 691 176, 690 174, 689 172, 688 171, 687 169, 686 168, 685 166, 685 165, 684 164
+</trace>
+<trace id="13">
+718 136, 721 138, 722 137, 727 142, 729 144, 730 146, 731 149, 733 156, 733 159, 734 163, 734 166, 734 170, 734 174, 734 177, 734 180, 732 184, 732 187, 731 190, 731 193, 730 196, 729 199, 727 201, 726 204, 725 206, 724 208, 723 209, 721 211, 720 212, 720 212
+</trace>
+<traceGroup xml:id="14">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="15">
+		<annotation type="truth">1</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="1_1"/>
+	</traceGroup>
+	<traceGroup xml:id="16">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="17">
+		<annotation type="truth">8</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="8_1"/>
+	</traceGroup>
+	<traceGroup xml:id="18">
+		<annotation type="truth">(</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="(_1"/>
+	</traceGroup>
+	<traceGroup xml:id="19">
+		<annotation type="truth">n</annotation>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="n_1"/>
+	</traceGroup>
+	<traceGroup xml:id="20">
+		<annotation type="truth">2</annotation>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="2_1"/>
+	</traceGroup>
+	<traceGroup xml:id="21">
+		<annotation type="truth">+</annotation>
+		<traceView traceDataRef="6"/>
+		<traceView traceDataRef="7"/>
+		<annotationXML href="+_1"/>
+	</traceGroup>
+	<traceGroup xml:id="22">
+		<annotation type="truth">5</annotation>
+		<traceView traceDataRef="8"/>
+		<annotationXML href="5_1"/>
+	</traceGroup>
+	<traceGroup xml:id="23">
+		<annotation type="truth">n</annotation>
+		<traceView traceDataRef="9"/>
+		<annotationXML href="n_2"/>
+	</traceGroup>
+	<traceGroup xml:id="24">
+		<annotation type="truth">+</annotation>
+		<traceView traceDataRef="10"/>
+		<traceView traceDataRef="11"/>
+		<annotationXML href="+_2"/>
+	</traceGroup>
+	<traceGroup xml:id="25">
+		<annotation type="truth">8</annotation>
+		<traceView traceDataRef="12"/>
+		<annotationXML href="8_2"/>
+	</traceGroup>
+	<traceGroup xml:id="26">
+		<annotation type="truth">)</annotation>
+		<traceView traceDataRef="13"/>
+		<annotationXML href=")_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

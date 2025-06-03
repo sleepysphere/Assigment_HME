@@ -1,0 +1,75 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">19</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1105</annotation>
+<annotation type="truth">$\frac{e}{\sqrt{2\pi}}$</annotation>
+<annotation type="UI">CROHME19_956</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mfrac xml:id="_1">
+			<mi xml:id="e_1">e</mi>
+			<msqrt xml:id="_2">
+				<mn xml:id="2_1">2</mn>
+				<mi xml:id="pi_1">pi</mi>
+			</msqrt>
+		</mfrac>
+	</math>
+</annotationXML>
+<trace id="0">
+297 189, 299 188, 309 188, 315 188, 321 188, 335 188, 341 188, 348 187, 354 187, 361 187, 368 187, 390 186, 398 186, 406 185, 414 185, 421 185, 429 185, 436 185, 443 184, 451 185, 458 185, 464 185, 470 185, 482 187
+</trace>
+<trace id="1">
+367 149, 367 150, 368 151, 370 152, 372 152, 376 150, 378 148, 379 147, 380 145, 381 143, 381 141, 381 140, 382 141, 382 140, 378 139, 375 139, 373 140, 371 142, 369 144, 368 147, 367 149, 367 152, 372 157, 375 158, 379 159, 383 159, 387 159, 400 157
+</trace>
+<trace id="2">
+322 212, 323 214, 324 220, 325 224, 326 228, 328 233, 329 238, 330 243, 331 248, 332 253, 333 258, 334 262, 335 266, 335 269, 336 272, 337 274, 338 275, 338 274, 338 275, 339 275, 340 276, 339 265, 339 261, 339 257, 339 252, 339 247, 339 242, 340 232, 341 219, 342 216, 342 213, 343 211, 343 209, 343 208, 343 207, 342 207, 343 207, 343 206, 344 206, 349 206, 353 206, 357 206, 362 206, 368 206, 374 206, 388 205, 396 205, 403 205, 411 205, 419 204, 427 204, 440 205, 454 205, 456 205
+</trace>
+<trace id="3">
+363 241, 361 238, 360 236, 359 235, 359 233, 359 231, 359 230, 360 228, 361 226, 364 225, 366 224, 369 223, 377 225, 378 226, 377 228, 375 231, 373 234, 370 237, 367 240, 364 243, 361 249, 361 251, 362 252, 364 253, 367 253, 371 254, 384 253, 389 252
+</trace>
+<trace id="4">
+411 226, 411 231, 411 234, 411 237, 411 241, 412 243, 411 245, 411 244, 411 245, 412 245
+</trace>
+<trace id="5">
+422 228, 422 227, 422 228, 423 235, 424 238, 424 241, 425 245, 426 247, 426 249, 426 251, 427 250, 426 251
+</trace>
+<trace id="6">
+391 227, 391 226, 392 223, 393 221, 395 220, 397 219, 399 218, 402 218, 404 218, 414 220, 418 221, 422 222, 426 222, 431 222, 436 222, 441 221, 446 220, 451 219, 454 219
+</trace>
+<traceGroup xml:id="7">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="8">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">e</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="e_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">\sqrt</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="_2"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">2</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="2_1"/>
+	</traceGroup>
+	<traceGroup xml:id="12">
+		<annotation type="truth">\pi</annotation>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<traceView traceDataRef="6"/>
+		<annotationXML href="pi_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

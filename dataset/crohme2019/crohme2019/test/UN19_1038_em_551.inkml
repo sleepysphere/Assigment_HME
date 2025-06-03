@@ -1,0 +1,63 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">30</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1038</annotation>
+<annotation type="truth">$x \in Y$</annotation>
+<annotation type="UI">CROHME19_551</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="x_1">x</mi>
+			<mrow>
+				<mo xml:id="\in_1">\in</mo>
+				<mi xml:id="Y_1">Y</mi>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+311 168, 321 166, 325 166, 328 167, 331 168, 333 169, 335 171, 336 173, 337 176, 337 179, 337 182, 337 187, 336 190, 335 194, 332 198, 329 203, 325 208, 321 213, 317 217, 312 222, 309 225, 306 229, 303 232, 302 233
+</trace>
+<trace id="1">
+350 182, 342 179, 340 182, 338 187, 336 190, 335 195, 333 199, 332 203, 332 207, 332 211, 332 214, 333 217, 334 219, 336 221, 339 223, 342 223, 346 223, 351 221, 354 221
+</trace>
+<trace id="2">
+475 144, 455 142, 450 144, 445 147, 439 150, 434 153, 428 156, 422 160, 416 164, 410 169, 406 173, 402 178, 399 182, 396 187, 394 191, 393 195, 393 199, 393 202, 394 206, 396 209, 399 212, 402 214, 407 216, 412 219, 418 220, 425 222, 431 223, 438 223, 445 223, 452 222, 459 221, 466 220, 472 218, 478 216, 483 214, 485 213
+</trace>
+<trace id="3">
+399 192, 404 191, 408 191, 413 191, 418 190, 423 190, 427 189, 432 189, 436 189, 440 188, 445 187, 449 187, 450 187
+</trace>
+<trace id="4">
+528 136, 534 142, 537 144, 539 147, 541 149, 543 152, 546 153, 549 155, 551 157, 553 159, 555 161, 558 162, 560 164, 560 165
+</trace>
+<trace id="5">
+586 129, 575 152, 573 157, 570 163, 567 169, 564 175, 561 181, 556 187, 553 192, 549 197, 544 203, 540 208, 535 213, 531 217, 529 221, 526 224, 524 226, 522 228, 521 229, 521 230
+</trace>
+<traceGroup xml:id="6">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="7">
+		<annotation type="truth">x</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="x_1"/>
+	</traceGroup>
+	<traceGroup xml:id="8">
+		<annotation type="truth">\in</annotation>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="\in_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">Y</annotation>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="Y_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

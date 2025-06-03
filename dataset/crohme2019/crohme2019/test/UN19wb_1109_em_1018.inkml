@@ -1,0 +1,101 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">32</annotation>
+<annotation type="gender">F</annotation>
+<annotation type="hand">L</annotation>
+<annotation type="writer">UN19wb_1109</annotation>
+<annotation type="truth">$x=y \tan \theta$</annotation>
+<annotation type="UI">CROHME19_1018</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="x_1">x</mi>
+			<mrow>
+				<mo xml:id="=_1">=</mo>
+				<mrow>
+					<mi xml:id="y_1">y</mi>
+					<mrow>
+						<mi xml:id="tan_1">tan</mi>
+						<mi xml:id="theta_1">theta</mi>
+					</mrow>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+329 193, 329 194, 329 193, 333 191, 337 190, 340 190, 343 190, 346 190, 349 190, 351 191, 354 192, 356 194, 357 196, 359 198, 359 200, 359 203, 359 205, 357 207, 355 209, 352 210, 349 211, 346 212, 343 212, 339 212, 336 212, 333 212, 330 212, 328 212, 327 211
+</trace>
+<trace id="1">
+372 191, 371 190, 369 190, 367 190, 363 193, 361 195, 360 197, 360 198, 360 200, 361 202, 361 204, 362 205, 366 208, 368 209, 370 209, 372 209, 374 209, 375 209, 376 209
+</trace>
+<trace id="2">
+400 183, 400 184, 402 184, 414 184, 417 184, 419 184, 422 184, 424 184, 426 184
+</trace>
+<trace id="3">
+395 195, 396 195, 397 195, 404 195, 407 196, 410 196, 413 196, 415 196, 418 196, 419 196, 421 197, 420 197
+</trace>
+<trace id="4">
+467 187, 466 187, 466 188, 464 191, 462 192, 461 194, 459 195, 458 196, 456 198, 454 199, 453 201, 451 203, 449 205, 447 206, 445 208, 443 210, 441 212, 439 213, 437 215, 435 217, 433 218, 431 220, 430 222, 428 223, 426 225, 425 226, 423 227, 422 228, 421 229, 419 231, 420 231
+</trace>
+<trace id="5">
+435 190, 436 191, 437 191, 440 194, 441 194, 441 195, 444 200, 446 203
+</trace>
+<trace id="6">
+495 177, 495 178, 494 178, 494 183, 493 186, 493 188, 492 190, 492 193, 492 196, 492 198, 493 201, 494 203, 495 204, 496 206, 498 207, 500 208, 503 208, 505 208, 508 208, 510 208, 512 208, 511 208, 514 208
+</trace>
+<trace id="7">
+502 192, 503 192, 502 192, 501 192, 497 192
+</trace>
+<trace id="8">
+532 194, 532 195, 532 194, 531 194, 527 193, 525 193, 525 192, 520 194, 518 195, 517 196, 516 198, 515 200, 515 201, 515 203, 516 204, 517 205, 518 206, 520 206, 522 206, 524 206, 526 206, 528 205, 529 204, 530 203, 531 202, 531 200, 531 199, 530 196, 529 195, 530 198, 531 199, 533 201, 535 203, 536 204, 538 205, 540 207, 541 208, 541 207
+</trace>
+<trace id="9">
+546 206, 545 205, 546 201, 546 198, 546 197, 546 196, 545 196, 547 193, 546 193, 547 193, 550 193, 550 192, 551 193, 556 195, 558 197, 559 199, 561 200, 562 202, 562 204, 562 207, 563 209, 562 208, 563 209, 564 210
+</trace>
+<trace id="10">
+615 177, 612 177, 610 178, 611 177, 610 178, 607 181, 605 183, 604 185, 602 188, 601 191, 601 194, 600 197, 599 200, 599 207, 599 210, 599 213, 600 215, 601 217, 602 219, 603 220, 605 220, 606 220, 608 220, 610 219, 611 218, 613 216, 615 215, 616 213, 617 210, 619 208, 619 205, 620 203, 621 200, 621 197, 621 195, 621 192, 621 189, 620 187, 619 184, 615 179, 613 178, 611 178, 610 178
+</trace>
+<trace id="11">
+620 197, 619 197, 618 197, 613 196, 610 196, 609 196, 605 195, 602 196
+</trace>
+<traceGroup xml:id="12">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="13">
+		<annotation type="truth">x</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="x_1"/>
+	</traceGroup>
+	<traceGroup xml:id="14">
+		<annotation type="truth">=</annotation>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="=_1"/>
+	</traceGroup>
+	<traceGroup xml:id="15">
+		<annotation type="truth">\tan</annotation>
+		<traceView traceDataRef="6"/>
+		<traceView traceDataRef="7"/>
+		<traceView traceDataRef="8"/>
+		<traceView traceDataRef="9"/>
+		<annotationXML href="tan_1"/>
+	</traceGroup>
+	<traceGroup xml:id="16">
+		<annotation type="truth">\theta</annotation>
+		<traceView traceDataRef="10"/>
+		<traceView traceDataRef="11"/>
+		<annotationXML href="theta_1"/>
+	</traceGroup>
+	<traceGroup xml:id="17">
+		<annotation type="truth">y</annotation>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="y_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

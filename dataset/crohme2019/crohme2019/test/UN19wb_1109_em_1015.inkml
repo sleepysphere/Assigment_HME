@@ -1,0 +1,52 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">32</annotation>
+<annotation type="gender">F</annotation>
+<annotation type="hand">L</annotation>
+<annotation type="writer">UN19wb_1109</annotation>
+<annotation type="truth">$\sqrt{-t}$</annotation>
+<annotation type="UI">CROHME19_1015</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<msqrt xml:id="_1">
+			<mo xml:id="-_1">-</mo>
+			<mi xml:id="t_1">t</mi>
+		</msqrt>
+	</math>
+</annotationXML>
+<trace id="0">
+346 180, 347 180, 348 181, 357 187, 361 190, 364 193, 367 197, 371 201, 375 206, 379 211, 383 216, 391 227, 395 231, 397 234, 399 236, 400 238, 400 237, 401 228, 400 223, 400 218, 399 212, 398 206, 398 200, 397 194, 396 188, 395 182, 394 176, 393 171, 393 167, 392 163, 392 159, 393 156, 394 154, 400 148, 404 146, 409 145, 415 143, 421 142, 429 141, 445 138, 454 137, 463 136, 472 135, 480 135, 489 134, 496 134, 504 134, 511 134, 522 134, 526 135, 529 135, 532 135
+</trace>
+<trace id="1">
+428 198, 429 198, 430 198, 436 198, 439 198, 441 198, 444 198, 447 198, 451 197, 454 197, 458 197, 461 197, 465 197, 468 196, 472 196, 475 196, 478 196, 480 195, 483 195, 485 195, 487 194, 488 194
+</trace>
+<trace id="2">
+503 179, 504 180, 504 186, 504 189, 503 192, 503 195, 502 198, 501 202, 500 211, 501 213, 502 215, 503 217, 505 218, 507 219, 512 220, 514 220, 517 220, 519 220, 520 220
+</trace>
+<trace id="3">
+512 195, 511 195, 510 195, 509 195, 504 195
+</trace>
+<traceGroup xml:id="4">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="5">
+		<annotation type="truth">\sqrt</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="6">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="-_1"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">t</annotation>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="t_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

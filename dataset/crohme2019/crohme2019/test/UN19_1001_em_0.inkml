@@ -1,0 +1,54 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">41</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19_1001</annotation>
+<annotation type="truth">$A_i$</annotation>
+<annotation type="UI">CROHME19_0</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<msub>
+			<mi xml:id="A_1">A</mi>
+			<mi xml:id="i_1">i</mi>
+		</msub>
+	</math>
+</annotationXML>
+<trace id="0">
+1143 403, 1149 392, 1151 389, 1152 384, 1154 379, 1156 374, 1158 369, 1160 364, 1163 360, 1165 356, 1167 354, 1169 351, 1171 349, 1172 348, 1173 348, 1174 348, 1174 350, 1175 352, 1175 355, 1176 358, 1176 362, 1176 366, 1177 371, 1177 375, 1177 379, 1177 383, 1177 387, 1177 390, 1177 393, 1177 396, 1177 398, 1177 400, 1177 401, 1176 403, 1176 404, 1176 405, 1176 406
+</trace>
+<trace id="1">
+1159 381, 1171 382, 1172 382, 1174 382, 1176 382, 1177 382, 1178 382, 1179 382, 1180 382
+</trace>
+<trace id="2">
+1187 429, 1193 419, 1194 416, 1195 414, 1195 411, 1196 409, 1196 407, 1196 406, 1197 405, 1197 404, 1197 403, 1197 404, 1197 405, 1197 407, 1197 409, 1197 411, 1198 413, 1198 414, 1198 416, 1198 417, 1199 418, 1199 419, 1199 420, 1200 421, 1201 421, 1202 422
+</trace>
+<trace id="3">
+1202 377
+</trace>
+<traceGroup xml:id="4">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="5">
+		<annotation type="truth">A</annotation>
+		<annotationXML href="A_1"/>
+		<traceGroup xml:id="6">
+			<annotation type="truth"></annotation>
+			<traceView traceDataRef="0"/>
+			<traceView traceDataRef="1"/>
+		</traceGroup>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">i</annotation>
+		<annotationXML href="i_1"/>
+		<traceGroup xml:id="8">
+			<annotation type="truth"></annotation>
+			<traceView traceDataRef="2"/>
+			<traceView traceDataRef="3"/>
+		</traceGroup>
+	</traceGroup>
+</traceGroup>
+</ink>

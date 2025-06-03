@@ -1,0 +1,66 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">20</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1107</annotation>
+<annotation type="truth">$4 \sum k_a$</annotation>
+<annotation type="UI">CROHME19_982</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mn xml:id="4_1">4</mn>
+			<mrow>
+				<mo xml:id="sum_1">sum</mo>
+				<msub>
+					<mi xml:id="k_1">k</mi>
+					<mi xml:id="a_1">a</mi>
+				</msub>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+179 225, 178 225, 176 225, 169 228, 165 230, 161 231, 157 232, 152 232, 149 232, 145 229, 144 227, 145 224, 146 220, 147 216, 149 212, 151 208, 153 203, 155 199, 160 189
+</trace>
+<trace id="1">
+170 217, 168 222, 167 225, 166 233, 166 237, 165 241, 165 245, 165 248, 165 251, 166 252
+</trace>
+<trace id="2">
+244 194, 243 194, 239 194, 237 194, 234 195, 225 197, 222 197, 219 198, 216 199, 213 200, 211 201, 210 202, 209 202, 208 204, 209 204, 213 205, 215 205, 218 206, 224 207, 227 208, 231 209, 234 210, 237 211, 240 212, 242 213, 244 214, 244 217, 243 219, 241 221, 235 224, 231 225, 227 227, 222 229, 217 231, 212 233, 205 237, 202 239, 201 242, 202 243, 205 244, 208 245, 212 245, 229 246, 235 246, 241 245, 252 245, 264 243, 266 243, 267 243
+</trace>
+<trace id="3">
+281 246, 282 246, 282 245, 286 242, 289 239, 292 236, 293 233, 295 230, 297 226, 298 222, 299 218, 300 214, 300 211, 300 208, 300 206, 300 203, 301 201, 300 199, 300 198, 300 197, 299 197, 297 199, 297 201, 296 203, 296 206, 295 209, 295 212, 295 215, 295 218, 295 221, 295 225, 295 230, 295 233, 295 236, 295 238, 296 239, 297 240, 298 238, 299 237, 300 235, 301 232, 301 230, 304 223, 305 221, 306 219, 307 218, 309 216, 310 215, 311 215, 311 214, 314 215, 315 215, 316 218, 316 219, 313 222, 311 224, 310 225, 308 226, 306 226, 305 227, 307 230, 309 231, 313 234, 314 236, 316 237, 317 239, 318 241, 319 243, 320 244
+</trace>
+<trace id="4">
+348 234, 347 234, 348 233, 347 233, 344 232, 340 232, 339 234, 338 235, 337 237, 336 238, 336 240, 336 241, 337 241, 341 241, 343 241, 345 240, 347 239, 349 236, 350 235, 351 233, 351 234, 353 239, 355 242, 357 244, 359 246, 362 248, 364 251, 366 253, 368 254
+</trace>
+<traceGroup xml:id="5">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="6">
+		<annotation type="truth">4</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="4_1"/>
+	</traceGroup>
+	<traceGroup xml:id="7">
+		<annotation type="truth">\sum</annotation>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="sum_1"/>
+	</traceGroup>
+	<traceGroup xml:id="8">
+		<annotation type="truth">k</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="k_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">a</annotation>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="a_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

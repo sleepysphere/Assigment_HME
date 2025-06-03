@@ -1,0 +1,101 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">21</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">L</annotation>
+<annotation type="writer">UN19_1037</annotation>
+<annotation type="truth">$\frac\pi2+n\pi$</annotation>
+<annotation type="UI">CROHME19_533</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mfrac xml:id="_1">
+				<mi xml:id="\pi_1">\pi</mi>
+				<mn xml:id="2_1">2</mn>
+			</mfrac>
+			<mrow>
+				<mo xml:id="+_1">+</mo>
+				<mrow>
+					<mi xml:id="n_1">n</mi>
+					<mi xml:id="\pi_2">\pi</mi>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+93 100, 96 110, 96 115, 96 120, 97 126, 97 133, 98 141, 99 148, 100 154, 101 159, 101 164, 102 168, 102 169
+</trace>
+<trace id="1">
+126 136, 128 154, 128 158, 129 163, 130 168, 131 173, 132 178, 133 182, 134 185, 134 188, 135 189
+</trace>
+<trace id="2">
+59 106, 64 86, 65 82, 67 78, 70 75, 73 72, 76 70, 79 69, 83 68, 87 69, 92 71, 96 75, 102 79, 107 84, 113 89, 118 94, 123 98, 128 101, 134 103, 138 104, 142 104, 147 103, 152 101, 153 101
+</trace>
+<trace id="3">
+201 221, 174 224, 166 226, 159 227, 149 228, 141 229, 131 230, 121 230, 112 230, 102 229, 94 229, 86 229, 78 228, 73 228, 68 228, 64 228, 62 228, 60 228, 59 228, 59 229
+</trace>
+<trace id="4">
+63 286, 72 279, 76 278, 80 278, 84 278, 89 279, 93 280, 96 282, 99 285, 102 288, 104 292, 105 298, 105 304, 105 310, 105 316, 104 321, 102 327, 99 332, 97 335, 94 338, 91 339, 88 339, 86 338, 84 337, 83 335, 83 333, 83 331, 84 329, 86 327, 89 326, 93 325, 97 325, 103 325, 108 327, 114 328, 120 330, 126 331, 132 333, 138 335, 145 337, 146 337
+</trace>
+<trace id="5">
+249 187, 249 196, 249 200, 250 206, 250 212, 250 218, 251 224, 251 229, 252 234, 252 236
+</trace>
+<trace id="6">
+269 223, 253 221, 248 220, 242 219, 238 219, 234 219, 230 218, 229 218
+</trace>
+<trace id="7">
+333 263, 329 255, 328 254, 328 252, 328 250, 327 249, 327 247, 327 246, 327 244, 327 243, 327 241, 327 239, 326 237, 327 235, 327 232, 327 229, 327 226, 328 222, 328 218, 329 214, 330 209, 331 204, 332 199, 333 194, 334 189, 335 185, 337 181, 339 178, 341 175, 344 173, 346 172, 349 171, 351 171, 354 171, 357 172, 360 174, 363 177, 366 180, 369 185, 371 190, 373 197, 375 204, 376 212, 377 219, 377 226, 378 232, 378 237, 378 239
+</trace>
+<trace id="8">
+398 146, 406 157, 406 162, 407 169, 408 177, 409 186, 410 197, 410 207, 411 217, 412 225, 413 233, 414 239, 415 244, 415 248, 416 251
+</trace>
+<trace id="9">
+438 197, 438 218, 437 223, 437 228, 437 233, 437 238, 437 242, 437 245, 438 247, 438 249, 439 250, 439 249
+</trace>
+<trace id="10">
+359 120, 382 115, 387 115, 391 116, 395 119, 401 122, 406 128, 411 134, 416 142, 421 150, 426 158, 430 164, 434 170, 438 175, 441 179, 445 181, 450 182, 454 182, 460 180, 466 178, 471 175, 474 173
+</trace>
+<traceGroup xml:id="11">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="12">
+		<annotation type="truth">\pi</annotation>
+		<traceView traceDataRef="0"/>
+		<traceView traceDataRef="2"/>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="\pi_1"/>
+	</traceGroup>
+	<traceGroup xml:id="13">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="14">
+		<annotation type="truth">2</annotation>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="2_1"/>
+	</traceGroup>
+	<traceGroup xml:id="15">
+		<annotation type="truth">+</annotation>
+		<traceView traceDataRef="5"/>
+		<traceView traceDataRef="6"/>
+		<annotationXML href="+_1"/>
+	</traceGroup>
+	<traceGroup xml:id="16">
+		<annotation type="truth">n</annotation>
+		<traceView traceDataRef="7"/>
+		<annotationXML href="n_1"/>
+	</traceGroup>
+	<traceGroup xml:id="17">
+		<annotation type="truth">\pi</annotation>
+		<traceView traceDataRef="8"/>
+		<traceView traceDataRef="9"/>
+		<traceView traceDataRef="10"/>
+		<annotationXML href="\pi_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>

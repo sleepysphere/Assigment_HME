@@ -1,0 +1,74 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">20</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">L</annotation>
+<annotation type="writer">UN19wb_1103</annotation>
+<annotation type="truth">$2\pi\sin\alpha$</annotation>
+<annotation type="UI">CROHME19_916</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mn xml:id="2_1">2</mn>
+			<mrow>
+				<mi xml:id="pi_1">pi</mi>
+				<mrow>
+					<mi xml:id="sin_1">sin</mi>
+					<mi xml:id="alpha_1">alpha</mi>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+172 169, 172 168, 171 167, 170 161, 171 157, 172 153, 174 148, 176 134, 178 130, 180 126, 183 123, 186 121, 195 121, 198 123, 201 126, 203 129, 204 133, 206 138, 207 148, 207 154, 207 160, 206 166, 205 172, 204 179, 202 186, 200 192, 198 199, 196 206, 194 212, 191 218, 189 223, 186 227, 184 230, 178 234, 176 234, 175 234, 175 235, 175 234, 173 230, 173 228, 174 227, 176 225, 182 225, 193 230, 196 231, 199 232, 202 233, 205 234, 208 235, 211 235, 214 235, 222 232, 224 230, 226 227, 227 224, 228 221, 229 220
+</trace>
+<trace id="1">
+244 174, 244 179, 244 182, 244 185, 245 189, 246 194, 246 198, 247 203, 247 208, 248 212, 248 215, 248 218, 249 219
+</trace>
+<trace id="2">
+265 175, 265 176, 266 184, 267 189, 268 194, 269 198, 270 203, 271 208, 271 212, 272 216, 272 220, 271 222, 271 224, 270 224
+</trace>
+<trace id="3">
+234 172, 235 172, 236 171, 242 168, 244 166, 246 165, 247 165, 249 164, 255 166, 258 167, 260 169, 261 170, 263 171, 265 172, 266 173, 271 172, 273 171, 274 170, 276 168
+</trace>
+<trace id="4">
+337 215, 339 215, 341 214, 346 211, 349 209, 352 207, 355 204, 357 201, 360 197, 361 194, 363 190, 363 186, 364 182, 364 178, 363 175, 363 174, 363 173, 363 172, 363 173, 364 173, 369 180, 374 193, 376 197, 377 201, 377 205, 378 208, 376 217, 375 218, 373 219, 374 219, 373 219, 370 218, 370 219, 370 216, 374 213, 377 212, 379 210, 381 208, 384 205, 388 199, 389 195, 391 191, 392 187, 393 184, 394 179, 393 179, 394 180, 394 181, 394 183, 396 193, 397 201, 398 204, 399 207, 400 209, 400 211, 401 213, 403 215, 406 211, 408 209, 408 206, 410 203, 411 199, 412 196, 413 190, 414 187, 415 184, 415 181, 415 179, 415 177, 416 176, 416 177, 416 178, 416 179, 419 190, 420 195, 423 206, 425 209, 425 211, 426 212, 427 213, 429 209, 430 206, 430 203, 431 200, 432 193, 433 190, 434 186, 435 183, 436 180, 437 178, 441 175, 442 175, 443 176, 445 177, 446 179, 450 191, 451 195, 452 198, 453 202, 453 207
+</trace>
+<trace id="5">
+388 155
+</trace>
+<trace id="6">
+498 166, 497 166, 498 166, 500 169, 500 170, 500 172, 500 171, 500 172, 500 176, 499 178, 499 179, 498 181, 497 184, 497 186, 496 188, 495 190, 495 192, 494 194, 493 196, 492 198, 490 199, 487 200, 487 201, 482 197, 480 195, 478 190, 476 179, 476 174, 477 171, 478 169, 479 168, 480 166, 480 167, 480 166, 483 166, 490 171, 491 173, 492 175, 494 177, 495 180, 496 182, 498 186, 500 192, 501 193, 501 192, 501 193, 503 195, 502 195, 503 195, 504 197
+</trace>
+<traceGroup xml:id="7">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="8">
+		<annotation type="truth">\alpha</annotation>
+		<traceView traceDataRef="6"/>
+		<annotationXML href="alpha_1"/>
+	</traceGroup>
+	<traceGroup xml:id="9">
+		<annotation type="truth">2</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="2_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">\pi</annotation>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="3"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="pi_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">\sin</annotation>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="sin_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

@@ -1,0 +1,78 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">21</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1111</annotation>
+<annotation type="truth">$a=\sin \theta$</annotation>
+<annotation type="UI">CROHME19_1036</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="a_1">a</mi>
+			<mrow>
+				<mo xml:id="=_1">=</mo>
+				<mrow>
+					<mi xml:id="sin_1">sin</mi>
+					<mi xml:id="theta_1">theta</mi>
+				</mrow>
+			</mrow>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+267 210, 265 209, 262 208, 259 208, 256 208, 254 209, 252 211, 250 213, 248 216, 246 222, 246 225, 247 228, 249 231, 252 233, 255 234, 258 234, 261 234, 264 232, 266 230, 268 227, 269 223, 269 219, 269 215, 269 212, 269 210, 269 209, 270 210, 270 211, 274 217, 277 220, 279 223, 281 225, 284 227, 288 230, 291 232, 295 233, 298 234, 301 234, 304 234, 305 233
+</trace>
+<trace id="1">
+358 228, 360 228, 362 228, 378 229, 384 229, 388 229, 392 229, 394 228, 397 228, 398 228
+</trace>
+<trace id="2">
+371 210, 378 209, 385 209, 390 209, 395 209, 398 209, 400 208, 402 208
+</trace>
+<trace id="3">
+446 221, 448 220, 448 218, 448 217, 448 214, 449 212, 448 209, 448 206, 446 204, 444 201, 442 200, 441 198, 445 198, 448 198, 453 199, 458 201, 464 204, 469 207, 473 211, 476 214, 477 217, 477 219, 476 221, 475 222, 473 222, 471 222, 469 222, 468 222, 467 221, 466 221
+</trace>
+<trace id="4">
+476 220, 477 220, 478 220, 479 220, 486 218, 489 217, 490 214, 491 212, 492 209, 492 206, 491 203, 490 201, 490 199, 489 199, 489 198, 489 199, 491 204, 492 207, 495 215, 497 219, 499 222, 500 224, 502 225, 501 225, 502 225, 503 221, 504 218, 504 215, 504 212, 505 209, 506 206, 507 204, 508 203, 513 206, 515 208, 516 209, 516 208, 516 207, 518 201, 520 200, 522 201, 524 203, 527 206, 530 211, 533 215, 536 219, 537 220, 536 219
+</trace>
+<trace id="5">
+490 177, 490 178
+</trace>
+<trace id="6">
+563 175, 562 174, 560 172, 560 171, 559 171, 556 176, 554 180, 554 183, 553 187, 554 191, 555 196, 556 200, 558 205, 559 209, 561 212, 563 214, 565 216, 567 217, 569 217, 570 215, 572 213, 573 211, 574 207, 575 204, 575 200, 574 195, 574 191, 573 187, 571 183, 569 179, 567 177, 566 175, 564 175, 562 175
+</trace>
+<trace id="7">
+560 200, 560 199, 562 198, 565 197, 566 197, 571 198, 573 198, 576 198, 576 199
+</trace>
+<traceGroup xml:id="8">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="9">
+		<annotation type="truth">a</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="a_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">=</annotation>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="=_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">\sin</annotation>
+		<traceView traceDataRef="3"/>
+		<traceView traceDataRef="4"/>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="sin_1"/>
+	</traceGroup>
+	<traceGroup xml:id="12">
+		<annotation type="truth">\theta</annotation>
+		<traceView traceDataRef="6"/>
+		<traceView traceDataRef="7"/>
+		<annotationXML href="theta_1"/>
+	</traceGroup>
+</traceGroup>
+</ink>

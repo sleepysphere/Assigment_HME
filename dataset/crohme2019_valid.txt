@@ -1,0 +1,986 @@
+crohme2019/valid/34_em_241.inkml	\phi Right ( Right \phi Right ( Right n Right ) Right )
+crohme2019/valid/RIT_2014_76.inkml	t Right \rightarrow Right \infty
+crohme2019/valid/504_em_39.inkml	\sqrt Inside 2 Right 7 NoRel - Below \sqrt Inside 9 NoRel 3
+crohme2019/valid/513_em_301.inkml	\sin Right ( Right - Right B Right ) Right = Right - Right \sin Right B
+crohme2019/valid/504_em_40.inkml	2 Sup n Right - Right 1 NoRel + Right 2 Sup n Right - Right 2 NoRel \ldots Right 2 Right + Right 1 Right = Right 2 Sup n NoRel - Right 1
+crohme2019/valid/516_em_392.inkml	- Right \sqrt Inside z Right - Right c NoRel COMMA Right + Right \sqrt Inside z Right - Right c
+crohme2019/valid/RIT_2014_138.inkml	\sqrt Inside 3 NoRel - Below 2 NoRel - NoRel 1 NoRel - Below 2 NoRel = Right \sqrt Inside 3
+crohme2019/valid/RIT_2014_215.inkml	( Right - NoRel 1 NoRel - Below 2 NoRel - NoRel \sqrt Inside 3 NoRel - Below 2 NoRel i Right ) Right ( Right - NoRel 1 NoRel - Below 2 NoRel + NoRel \sqrt Inside 3 NoRel - Below 2 NoRel i Right )
+crohme2019/valid/26_em_86.inkml	\log Sub a NoRel x
+crohme2019/valid/27_em_109.inkml	f Sup ( Right i Right + Right k Right ) NoRel ( Right 0 Right ) Right = Right f Sup ( Right i Right ) NoRel ( Right 0 Right ) Right f Sup ( Right k Right ) NoRel ( Right 0 Right )
+crohme2019/valid/RIT_2014_191.inkml	x Right [ Right \infty Right ] Right = Right \lim Below z Right \rightarrow Right 1 NoRel z Right - NoRel ) NoRel ( NoRel x Right ( Right z Right ) NoRel 1
+crohme2019/valid/RIT_2014_38.inkml	- NoRel 1 Right 1 NoRel - Below 1 Right 2 NoRel y Sub n Right + Right 1 NoRel + NoRel 5 NoRel - Below 3 NoRel y Sub n NoRel - NoRel 1 NoRel - Below 2 NoRel y Sub n Right - Right 1 NoRel - NoRel 1 NoRel - Below 3 NoRel y Sub n Right - Right 2 NoRel + NoRel 1 NoRel - Below 1 Right 2 NoRel y Sub n Right - Right 3
+crohme2019/valid/511_em_273.inkml	x Right = Right \beta
+crohme2019/valid/508_em_83.inkml	( Right a Sub 1 NoRel b Sub 3 NoRel - Right a Sub 3 NoRel b Sub 1 NoRel )
+crohme2019/valid/518_em_425.inkml	( Right \sin Right ( Right x Right ) Right ) Sup 2 NoRel + Right ( Right \cos Right ( Right x Right ) Right ) Sup 2
+crohme2019/valid/RIT_2014_4.inkml	\sin Right x Right - Right x Right \cos Right x
+crohme2019/valid/504_em_43.inkml	2 Right \times Right 3 Right \times Right 4 Right \times Right x Sup 2 NoRel \times Right x Right \times Right y Right \times Right y Sup 3 NoRel \times Right z Right \times Right z Sup 2
+crohme2019/valid/26_em_82.inkml	1 NoRel - Below 2 NoRel t Sup 2 NoRel u Right ( Right t Right )
+crohme2019/valid/29_em_173.inkml	x Sup 2 NoRel + Right 1 Right 3 Right x Right + Right 4 Right 0 NoRel - Below 2 Right x Sup 3 NoRel + Right 2 Right 7 Right x Sup 2 NoRel + Right 1 Right 1 Right 1 Right x Right + Right 1 Right 4 Right 0
+crohme2019/valid/518_em_428.inkml	1 Right 1 Right 1 Right 0 Right 0 Right 0 Right 1 Right 1 Sub 2
+crohme2019/valid/35_em_17.inkml	x Sup 2 NoRel + Right x Right + Right 1
+crohme2019/valid/RIT_2014_264.inkml	3 Right 8 Right \sqrt Inside 9 Right x Right - Right 3 Right 8 NoRel - Below 9 NoRel + Right C
+crohme2019/valid/RIT_2014_209.inkml	\int Right 3 Right \sin Right x Right d Right x
+crohme2019/valid/37_em_16.inkml	8 Right \sqrt Inside 5
+crohme2019/valid/37_em_29.inkml	\sum Right F Sub x
+crohme2019/valid/34_em_227.inkml	6 Right 5 Right 8 Right 8
+crohme2019/valid/512_em_275.inkml	3 Right m
+crohme2019/valid/32_em_216.inkml	g Right ( Right y Right ) Right - Right g Right ( Right x Right )
+crohme2019/valid/RIT_2014_67.inkml	x Right + Right 2 Right + Right \sqrt Inside 3
+crohme2019/valid/511_em_266.inkml	F Sup 1 NoRel 0
+crohme2019/valid/23_em_73.inkml	B Sub m Right + Right 1
+crohme2019/valid/RIT_2014_158.inkml	\sum NoRel 1 NoRel - Below 2 NoRel i Right = Right 1 NoRel \infty
+crohme2019/valid/RIT_2014_85.inkml	5 Right 6 Right \div Right 7 NoRel - Below 6 Right 3 Right \div Right 7 NoRel = NoRel 8 NoRel - Below 9
+crohme2019/valid/RIT_2014_15.inkml	\sum Below n Right = Right 1 NoRel \infty NoRel x Sub n
+crohme2019/valid/515_em_365.inkml	1 Right 6 NoRel - Below 1 Right 6 NoRel - NoRel 1 NoRel - Below 1 Right 6
+crohme2019/valid/501_em_13.inkml	y Right \lt Right y Right \prime
+crohme2019/valid/26_em_85.inkml	\log Sub u NoRel g
+crohme2019/valid/29_em_158.inkml	\alpha Sup 4 NoRel + Right \alpha Sup 6 NoRel + Right \alpha Sup 7 NoRel + Right \alpha Sup 9
+crohme2019/valid/511_em_255.inkml	[ Right A Right ] Right A
+crohme2019/valid/506_em_64.inkml	\sqrt Inside 7 NoRel + Right 2 Right \sqrt Inside 7
+crohme2019/valid/RIT_2014_149.inkml	\sin Right z NoRel - Below z
+crohme2019/valid/515_em_367.inkml	\tan Right x Right - Right 3 Right ) NoRel ( NoRel ( Right \tan Right x Right + Right 1 Right ) Right = Right 0
+crohme2019/valid/502_em_12.inkml	R Sub L
+crohme2019/valid/RIT_2014_283.inkml	s Right = Right 2 Right 5 Right 8 Right 5 Right 7
+crohme2019/valid/37_em_18.inkml	x Right \times Right x Right \times Right x Right \times Right x NoRel - Below x Right \times Right x NoRel = Right x Right \times Right x Right = Right x Sup 2
+crohme2019/valid/RIT_2014_86.inkml	x Right ( Right 7 Right ) Right - Right x Right ( Right 2 Right ) NoRel - Below 7 Right - Right 2
+crohme2019/valid/20_em_40.inkml	4 Right x Sup 5 NoRel + Right x NoRel \sqrt
+crohme2019/valid/515_em_370.inkml	x Sub B Right 5
+crohme2019/valid/RIT_2014_87.inkml	a Sup n NoRel + Right ( NoRel 1 NoRel - Below a NoRel ) Sup n
+crohme2019/valid/RIT_2014_130.inkml	8 Right - Right 7
+crohme2019/valid/RIT_2014_200.inkml	\lim Below n Right \rightarrow Right \infty NoRel y Sub n NoRel = Right 0
+crohme2019/valid/518_em_433.inkml	M Sup n
+crohme2019/valid/35_em_23.inkml	y Right = Right y Sub o NoRel + Right m Right ( Right x Right - Right x Sub o NoRel )
+crohme2019/valid/501_em_12.inkml	T Sub H NoRel f NoRel - Below 2 NoRel V Sub 2 NoRel - Below T NoRel f NoRel - Below 2 NoRel H NoRel V Sub 1 NoRel = NoRel T NoRel f NoRel - Below 2 NoRel C NoRel V Sub 3 NoRel - Below T NoRel f NoRel - Below 2 NoRel C NoRel V Sub 4
+crohme2019/valid/31_em_190.inkml	1 NoRel - Below 2 Right 5 NoRel y Sup 2 NoRel - NoRel 8 NoRel - Below 2 Right 5 NoRel y
+crohme2019/valid/511_em_262.inkml	\lim Below n Right \rightarrow Right \infty NoRel x Sup 3 NoRel - Below n Sup 3 NoRel 2 Right n Sup 3 NoRel + Right 3 Right n Sup 2 NoRel + Right n NoRel - Below 6
+crohme2019/valid/20_em_30.inkml	I Sub S
+crohme2019/valid/23_em_65.inkml	f Right ( Right n Right - Right 1 Right )
+crohme2019/valid/512_em_299.inkml	p Right ( Right 1 Right - Right p Right )
+crohme2019/valid/RIT_2014_122.inkml	1 Right 8 Right z
+crohme2019/valid/34_em_228.inkml	- Right y Right - Right 5 Right ( Right 1 Right )
+crohme2019/valid/20_em_49.inkml	6 Right f Right t
+crohme2019/valid/RIT_2014_55.inkml	a Right = Right - Right 2 Right x Right y Right - Right 2 Right y Sup 2
+crohme2019/valid/RIT_2014_241.inkml	\sqrt Inside a NoRel \sqrt Inside a NoRel = Right a
+crohme2019/valid/516_em_388.inkml	\sqrt Inside \alpha Sup 2 NoRel - Right \beta Sup 2 NoRel t
+crohme2019/valid/28_em_131.inkml	z Right y Right + Right 2 Right z Right y Right + Right 2 Right z Right + Right 2 Right y
+crohme2019/valid/513_em_318.inkml	z Right - Right w Right \neq Right w Right - Right z
+crohme2019/valid/513_em_320.inkml	k Right N
+crohme2019/valid/501_em_22.inkml	\forall Right \gamma Right \in Right X
+crohme2019/valid/31_em_180.inkml	x Sup 5 NoRel + Right y Sup 5 NoRel - Right 5 NoRel + Right 1 Right = Right 0 NoRel x Right y
+crohme2019/valid/502_em_18.inkml	9 NoRel 2 NoRel \sqrt
+crohme2019/valid/RIT_2014_219.inkml	m Right / Right q
+crohme2019/valid/RIT_2014_23.inkml	1 Right s Sup 2 NoRel 2 Right s Sup 2 NoRel 2 Right p Sup 1
+crohme2019/valid/32_em_223.inkml	\pi NoRel ( NoRel )
+crohme2019/valid/26_em_91.inkml	k Right [ Right a Sup - Right 1 NoRel ]
+crohme2019/valid/32_em_203.inkml	l Right - Right 1
+crohme2019/valid/32_em_205.inkml	( Right a Right + Right b Right i Right ) Right - Right ( Right c Right + Right d Right i Right ) Right = Right ( Right a Right - Right c Right ) Right + NoRel b Right - Right d Right ) NoRel ( NoRel i
+crohme2019/valid/511_em_259.inkml	\sin Right x Right + Right \sin Right y Right = Right 2 Right \sin Right ( NoRel x Right + Right y NoRel - Below 2 NoRel ) Right \cos Right ( NoRel x Right - Right y NoRel - Below 2 NoRel )
+crohme2019/valid/RIT_2014_246.inkml	7 Right 5 Right 8 Right 8
+crohme2019/valid/RIT_2014_101.inkml	1 NoRel - Below 2 NoRel ( Right 1 Right - Right \sqrt NoRel \gamma NoRel - Below 1 Right + Right \gamma Sub 0 NoRel )
+crohme2019/valid/516_em_397.inkml	v Sub 1 NoRel 2 NoRel + Right 2 Right v Sub 1 NoRel v Sub 2 NoRel + Right v Sub 2 NoRel 2 NoRel = Right v Sub 1 NoRel 2 NoRel + Right v Sub 2 NoRel 2
+crohme2019/valid/518_em_419.inkml	p Sup \alpha NoRel - Right p Sup \alpha Right - Right 1
+crohme2019/valid/500_em_109.inkml	b Sub L
+crohme2019/valid/502_em_20.inkml	\int NoRel 1 NoRel - Below y NoRel d Right y NoRel - Below d Right x NoRel d Right x Right = Right \int Right a Right d Right x
+crohme2019/valid/31_em_197.inkml	x Sup 2 NoRel - NoRel + NoRel - Right y Sup 2 NoRel x Right y NoRel x Right y
+crohme2019/valid/RIT_2014_208.inkml	\sum Below k Right = Right 1 NoRel 1 NoRel a Sub k NoRel = Right a Sub 1
+crohme2019/valid/511_em_271.inkml	f Right + Right g
+crohme2019/valid/37_em_28.inkml	\sum Right F Sub z NoRel = Right 0
+crohme2019/valid/32_em_207.inkml	\int Right - Right \cos Right \phi Right d Right \phi
+crohme2019/valid/RIT_2014_304.inkml	\lim Below x Right \rightarrow Right - Right \infty NoRel P Sub k Right + Right 1 NoRel ( Right x Right ) Right \lt Right 0
+crohme2019/valid/RIT_2014_64.inkml	a Right b Right \sin Right \alpha
+crohme2019/valid/RIT_2014_277.inkml	m Right COMMA Right n
+crohme2019/valid/23_em_66.inkml	z Sup 3 NoRel + Right z Right = Right z
+crohme2019/valid/RIT_2014_134.inkml	( Right a Right + Right x Right ) Right - Right ( Right b Right + Right y Right ) Right = Right ( Right a Right - Right b Right )
+crohme2019/valid/36_em_36.inkml	L Sub t NoRel = Right L Right + Right L Right = Right 2 Right L
+crohme2019/valid/34_em_237.inkml	n Right + Right 1 NoRel ( NoRel ) Right ( Right ( Right n Right + Right 1 Right ) Right + Right 1 Right ) NoRel - Below 2
+crohme2019/valid/502_em_19.inkml	a NoRel - Below b NoRel + NoRel c NoRel - Below b NoRel = NoRel a Right + Right c NoRel - Below b
+crohme2019/valid/518_em_423.inkml	u Sub m
+crohme2019/valid/RIT_2014_30.inkml	a Right z Sup - Right 1 NoRel ( Right 1 Right + Right a Right z Sup - Right 1 NoRel ) NoRel - Below ( Right 1 Right - Right a Right z Sup - Right 1 NoRel ) Sup 3
+crohme2019/valid/516_em_383.inkml	r Right ( Right x Right )
+crohme2019/valid/515_em_358.inkml	f Right ( Right t Right ) Right g Right ( Right t Right )
+crohme2019/valid/512_em_281.inkml	p NoRel - Below t
+crohme2019/valid/516_em_379.inkml	\lim Right f Sub n NoRel ( Right x Right ) Right = Right 0 NoRel n Right \rightarrow Right \infty
+crohme2019/valid/RIT_2014_193.inkml	E Sub t Right o Right t NoRel = Right \sum Below n NoRel E Sub n
+crohme2019/valid/36_em_32.inkml	\lim Below x Right \rightarrow Right 0 NoRel f Right ( Right x Right )
+crohme2019/valid/27_em_106.inkml	\alpha Sup 2 NoRel + Right \beta Sup 2 NoRel = Right ( Right \alpha Right + Right \beta Right ) Sup 2 NoRel - Right 2 Right \alpha Right \beta
+crohme2019/valid/RIT_2014_272.inkml	4 Right 0
+crohme2019/valid/32_em_201.inkml	\sum Below k Right = Right 1 NoRel n NoRel ( Right c Right a Sub k NoRel ) Right = Right c Right \sum Below i Right = Right 1 NoRel n NoRel ( Right a Sub k NoRel )
+crohme2019/valid/RIT_2014_145.inkml	\int NoRel d Right y NoRel - Below d Right x NoRel d Right x Right = Right \int Right ( Right x Sup 2 NoRel + Right 7 Right ) Right d Right x
+crohme2019/valid/518_em_416.inkml	x Sup 3 NoRel + Right 8 Right y Sup 3
+crohme2019/valid/36_em_49.inkml	1 Right . Right 6 Right 9 Right 4 Right 6 Right 9 Right 6 Right 1
+crohme2019/valid/505_em_52.inkml	o Right r Right 1
+crohme2019/valid/29_em_153.inkml	( Right a Right - Right b Right ) Sup 2 NoRel = Right a Sup 2 NoRel - Right 2 Right a Right b Right + Right b Sup 2
+crohme2019/valid/37_em_32.inkml	a Sub 0 NoRel + Right a Sub 1 NoRel x Right + Right a Sub 2 NoRel x Sup 2 NoRel + Right \ldots
+crohme2019/valid/516_em_398.inkml	\sin Right ( Right x Right - Right y Right ) Right = Right \sin Right x Right \cos Right y Right - Right \cos Right x Right \sin Right y
+crohme2019/valid/20_em_35.inkml	\mu Right \geq Right 0
+crohme2019/valid/28_em_136.inkml	\pi Sub t Right + Right 1
+crohme2019/valid/RIT_2014_7.inkml	4 Right x Sup 3 NoRel - Below 3 NoRel + NoRel 1 Right 1 Right x Sup 4 NoRel - Below 4 NoRel + Right C
+crohme2019/valid/515_em_372.inkml	\int Right - Right 9 Right e Sup - Right 3 Right x NoRel d Right x
+crohme2019/valid/511_em_256.inkml	( Right x Sup 4 NoRel + Right 4 Right x Sup 2 NoRel + Right 4 Right ) Right - Right 4 Right x Sup 2
+crohme2019/valid/500_em_108.inkml	s Right \geq Right 1
+crohme2019/valid/37_em_12.inkml	u Right ( Right x Sub b NoRel ) Right = Right u Sub b NoRel ( Right x Sub b NoRel )
+crohme2019/valid/513_em_313.inkml	P Sub 1
+crohme2019/valid/35_em_12.inkml	\int NoRel 1 NoRel - Below p NoRel = Right \int NoRel z NoRel - Below a NoRel d Right p NoRel d Right t
+crohme2019/valid/519_em_448.inkml	( Right ( NoRel 1 NoRel - Below 4 NoRel ( Right 3 Right ) Sup 4 NoRel - Right 3 Right ( Right 3 Right ) Sup 2 NoRel ) Right - Right ( NoRel 1 NoRel - Below 4 NoRel ( Right 2 Right ) Sup 4 NoRel - Right 3 Right ( Right 2 Right ) Sup 2 NoRel ) Right )
+crohme2019/valid/37_em_19.inkml	- NoRel \sqrt Inside 2 Right - Right \sqrt Inside 2 NoRel - Below 2
+crohme2019/valid/RIT_2014_28.inkml	\sqrt NoRel 5 NoRel - Below 4 NoRel = NoRel \sqrt Inside 5 NoRel - Below \sqrt Inside 4 NoRel = NoRel \sqrt Inside 5 NoRel - Below 2
+crohme2019/valid/518_em_421.inkml	\sum Right F Sub y
+crohme2019/valid/26_em_84.inkml	S Sub \infty NoRel = Right \lim Below n Right \rightarrow Right \infty NoRel a Right ( Right 1 Right - Right r Sup n NoRel ) NoRel - Below 1 Right - Right r NoRel = NoRel a NoRel - Below 1 Right - Right r
+crohme2019/valid/RIT_2014_293.inkml	\tan Right ( Right 2 Right x Right ) Right = NoRel 2 Right \tan Right ( Right x Right ) NoRel - Below 1 Right - Right \tan Sup 2 NoRel ( Right x Right )
+crohme2019/valid/18_em_1.inkml	\sqrt Inside 4 Right 8
+crohme2019/valid/26_em_95.inkml	\sqrt Inside a NoRel \sqrt Inside b NoRel = Right \sqrt Inside a Right b
+crohme2019/valid/512_em_289.inkml	1 NoRel - Below 8
+crohme2019/valid/507_em_74.inkml	\cos Right 4 Right \theta Right + Right i Right \sin Right 4 Right \theta Right = Right ( Right \cos Right \theta Right + Right i Right \sin Right \theta Right ) Sup 4
+crohme2019/valid/516_em_394.inkml	\int Right f Right ( Right a Right x Right ) Right d Right x Right = NoRel 1 NoRel - Below a NoRel \int Right f Right ( Right x Right ) Right d Right x
+crohme2019/valid/RIT_2014_32.inkml	\int Right \sin Right x Right d Right x
+crohme2019/valid/18_em_9.inkml	a NoRel - Below b Right + Right \sqrt Inside c
+crohme2019/valid/RIT_2014_110.inkml	f Sup 7 NoRel a
+crohme2019/valid/27_em_111.inkml	x Sup 2 NoRel - Right y Sup 2 NoRel = Right x Sup 2 NoRel + Right 2 Right x Right y Right + Right y Sup 2 NoRel - Right 2 Right x Right y Right - Right 2 Right y Sup 2
+crohme2019/valid/32_em_211.inkml	H Sub c Right l
+crohme2019/valid/508_em_78.inkml	2 Sup 2 NoRel b Sub 2 NoRel + Right 2 Right b Sub 1 NoRel + Right b Sub 0
+crohme2019/valid/511_em_268.inkml	\log Right ( Right 1 Right + Right x Right )
+crohme2019/valid/RIT_2014_189.inkml	\sqrt Above 4 NoRel 6 Right 4 Right 8 Right + Right 6 Right 4 Right 8 NoRel + Right 8
+crohme2019/valid/RIT_2014_202.inkml	c Sub 1 NoRel x Sub 1 NoRel + Right c Sub 2 NoRel + Right \ldots Right + Right c Sub m NoRel x Sub m NoRel x Sub 2
+crohme2019/valid/36_em_43.inkml	( Right x Sup \prime NoRel COMMA Right t Sup \prime NoRel )
+crohme2019/valid/26_em_79.inkml	- Right a Right + Right b Right + Right c
+crohme2019/valid/RIT_2014_9.inkml	\log
+crohme2019/valid/RIT_2014_308.inkml	F Right ( Right b Right ) Right - Right F Right ( Right a Right )
+crohme2019/valid/34_em_235.inkml	1 Right - Right w
+crohme2019/valid/RIT_2014_268.inkml	\int NoRel 1 NoRel - Below x NoRel \sqrt NoRel 1 Right - Right x NoRel - Below x NoRel d Right x
+crohme2019/valid/37_em_1.inkml	p Sub 1 NoRel = Right - Right p Sub 2 NoRel + Right p Sub 5 NoRel - Right p Sub 6
+crohme2019/valid/501_em_7.inkml	S Right S Right E Right + Right S Right S Right A Right B Right + Right S Right S Right B Right + Right S Right S Right A
+crohme2019/valid/RIT_2014_237.inkml	y Sup 4 NoRel + Right y Sup 3 NoRel + Right y Sup 2 NoRel + Right 1 Right = Right 0
+crohme2019/valid/RIT_2014_300.inkml	\log Sub a NoRel x Right - Right \log Sub a NoRel y Right = Right \log Sub a NoRel x NoRel - Below y
+crohme2019/valid/505_em_53.inkml	\sigma Sub x NoRel = Right \sqrt Inside \sigma Sup 2 NoRel x
+crohme2019/valid/RIT_2014_286.inkml	x Sup 2 NoRel - Right y Sup 2 NoRel = Right x Sup 2 NoRel + Right x Right y Right + Right y Sup 2 NoRel - Right x Right y Right - Right 2 Right y Sup 2 NoRel + Right x Right y Right - Right x Right y
+crohme2019/valid/RIT_2014_121.inkml	f Right ( Right z Right ) Right = Right z
+crohme2019/valid/RIT_2014_77.inkml	V Sub 2 NoRel - Below V Sub 1 NoRel = NoRel V Sub 3 NoRel - Below V Sub 4
+crohme2019/valid/23_em_68.inkml	q Right - Right p NoRel - Below \sqrt Inside p Right q
+crohme2019/valid/RIT_2014_119.inkml	n Sup 3 NoRel - Right n Right + Right 3
+crohme2019/valid/510_em_102.inkml	m Right v
+crohme2019/valid/36_em_40.inkml	1 Right 5 Right ! NoRel - Below 1 Right 0 Right ! Right 5 Right !
+crohme2019/valid/501_em_6.inkml	f Right ( Right 1 Right . Right 9 Right 9 Right 9 Right 9 Right 9 Right ) Right = Right 3 Right . Right 9 Right 9 Right 9 Right 9 Right 9
+crohme2019/valid/516_em_380.inkml	4 Right + Right 4 Right - Right 4 Right + Right \sqrt Inside 4
+crohme2019/valid/31_em_178.inkml	q Right + Right w
+crohme2019/valid/507_em_76.inkml	4 Right \times Right 4 Right + Right 4 Right + Right 4
+crohme2019/valid/508_em_79.inkml	a Sup 2 NoRel - Right a Right \sqrt Inside a NoRel - Below a Right - Right 1
+crohme2019/valid/32_em_221.inkml	n Right \geq Right N
+crohme2019/valid/23_em_69.inkml	X Right \leq Right 1 Right 5
+crohme2019/valid/37_em_25.inkml	\sqrt Inside b NoRel x
+crohme2019/valid/RIT_2014_278.inkml	\lim NoRel | Right a Sub n Right + Right 1 NoRel x Right | NoRel - Below | Right a Sub n NoRel | NoRel \gt Right 1
+crohme2019/valid/18_em_13.inkml	4 Sup 2 NoRel + Right 4 Sup 2 NoRel + NoRel 4 NoRel - Below 4
+crohme2019/valid/503_em_31.inkml	1 Right 5 Right \pi NoRel - Below 8 NoRel -
+crohme2019/valid/20_em_46.inkml	d Sub 1 NoRel - Right 2 NoRel - Below d Sub 1 NoRel - Above d Sub 2 NoRel d Sub 2 NoRel + Right 2
+crohme2019/valid/501_em_18.inkml	2 Right G Right M Right r Right - Right 2 Right r Sup 3 NoRel \pm NoRel \sqrt NoRel - Below 2 Right ( Right r Sup 2 NoRel - Right G Right M Right ) NoRel 4 Right r NoRel r NoRel 4 NoRel - Right 8 Right G Right M Right r Sup 2 NoRel + Right 4 Right G Sup 2 NoRel M Sup 2 NoRel - Right 4 Right r Sup 4 NoRel + Right 4 Right G Right M Right r Sup 2 NoRel -
+crohme2019/valid/35_em_21.inkml	- Right \sin Right \theta
+crohme2019/valid/32_em_210.inkml	1 Right - Right 2 Right p NoRel - Below \sqrt Inside n Right p NoRel - NoRel ( Right 1 Right - Right p Right )
+crohme2019/valid/RIT_2014_263.inkml	x Sub 1 NoRel = Right a Sub 1 Right 1 NoRel y Sub 1 NoRel + Right a Sub 1 Right 2 NoRel y Sub 2
+crohme2019/valid/18_em_24.inkml	7 Right 5 Right 2 Right 9 Right 5 Right 3 Right 6 NoRel - Below 1 Right 5 Right 6 Right 2 Right 5
+crohme2019/valid/29_em_164.inkml	\cos Right \pi Right z
+crohme2019/valid/RIT_2014_309.inkml	\sqrt Inside x NoRel - Below 2 NoRel - NoRel \sqrt Inside 3 NoRel \sqrt Below 2 Right \sqrt Inside x
+crohme2019/valid/517_em_400.inkml	a Right + Right b NoRel - Below 2
+crohme2019/valid/34_em_249.inkml	2 NoRel - Below n Right \pi NoRel ( Right 1 Right - Right \cos Right ( Right n Right \pi Right ) Right )
+crohme2019/valid/RIT_2014_196.inkml	\int Right \sin Right x Right d Right x NoRel 2
+crohme2019/valid/504_em_36.inkml	1 Right 1 Right 2 Right \div Right 2 NoRel - Below 1 Right 2 Right 6 Right \div Right 2 NoRel = NoRel 5 Right 6 NoRel - Below 6 Right 3
+crohme2019/valid/RIT_2014_312.inkml	\sum Below i Right = Right 1 NoRel n NoRel a Sup 2 NoRel = Right a Sup 2 NoRel \sum Below i Right = Right 1 NoRel n NoRel 1 Right = Right n Right a Sup 2
+crohme2019/valid/35_em_13.inkml	( Right x Right \times Right x Right \times Right x Right ) Right \times Right ( Right x Right \times Right x Right )
+crohme2019/valid/26_em_76.inkml	- Right m Right p
+crohme2019/valid/503_em_29.inkml	\sin Right \phi Right + Right c
+crohme2019/valid/34_em_225.inkml	x NoRel 3 NoRel + NoRel 3 NoRel x NoRel 2 NoRel y NoRel + NoRel 3 NoRel x NoRel y NoRel 2 NoRel + NoRel y NoRel 3
+crohme2019/valid/RIT_2014_106.inkml	\sin Right 6 Right \theta
+crohme2019/valid/RIT_2014_79.inkml	a Sub 0 NoRel + Right a Right \alpha Right + Right \ldots Right + Right a Sub n Right - Right 1 NoRel \alpha Sup n Right - Right 1
+crohme2019/valid/RIT_2014_249.inkml	N Right - Right 1
+crohme2019/valid/518_em_435.inkml	e Sup \phi NoRel + NoRel 2 NoRel - Below \phi Sup 3 NoRel - Right 3 Right \phi
+crohme2019/valid/18_em_23.inkml	1 Right 8 Right \div Right 6 NoRel - Below 2 Right 4 Right \div Right 6 NoRel = NoRel 3 NoRel - Below 4
+crohme2019/valid/501_em_21.inkml	\theta Right \rightarrow Right 0
+crohme2019/valid/28_em_137.inkml	3 Right COMMA Right 4 Right COMMA Right 5 Right COMMA Right 6 Right COMMA Right \ldots
+crohme2019/valid/RIT_2014_302.inkml	\pm Right \sqrt NoRel 1 Right 5 NoRel - Below 1 Right 6
+crohme2019/valid/502_em_14.inkml	p Right ( Right \alpha Right ) Right = Right \alpha Sup m NoRel + Right b Sub m Right - Right 2 NoRel \alpha Sup m Right - Right 1 NoRel + Right \ldots Right + Right b Sub 3 NoRel \alpha Sup 4 NoRel + Right b Sub 1 NoRel \alpha Right + Right b Sub 0
+crohme2019/valid/RIT_2014_255.inkml	m Sub k NoRel = Right p Sub k NoRel - Right p Sub k Right - Right 1
+crohme2019/valid/28_em_145.inkml	f Right ( Right x Right ) Right = Right - Above \infty NoRel \infty
+crohme2019/valid/20_em_29.inkml	( Right - Right \infty Right COMMA Right \infty Right )
+crohme2019/valid/515_em_371.inkml	1 NoRel - Below 4 Right \pi Right E Sub 0
+crohme2019/valid/26_em_92.inkml	- NoRel 1 Right 1 Right \pi NoRel - Below 8
+crohme2019/valid/RIT_2014_251.inkml	\sqrt Inside 6 NoRel + Right \sqrt Inside 2 NoRel - Below 4
+crohme2019/valid/502_em_6.inkml	u Right ( Right x Right COMMA Right y Right ) Right = Right B Right \sin Right ( Right n Right \pi Right x Right ) NoRel e Sup n Right \pi Right y NoRel - NoRel ( NoRel e Sup - Right n Right \pi Right y NoRel )
+crohme2019/valid/510_em_103.inkml	\int Right x Right \sin Right x Right d Right x
+crohme2019/valid/507_em_72.inkml	1 NoRel - Below 3 NoRel ( Right b Right - Right a Right ) Right ( Right b Sup 2 NoRel + Right a Right b Right + Right a Sup 2 NoRel )
+crohme2019/valid/35_em_11.inkml	B Right = Right C Sub 1 NoRel + Right C Sub 2 NoRel + Right \ldots Right + Right C Sub n
+crohme2019/valid/509_em_95.inkml	e Sub P Right V Right T
+crohme2019/valid/513_em_314.inkml	\int Sub - Right 1 NoRel 1 NoRel f Right ( Right z Right ) Right - Right 1 Right / Right 2 NoRel 2 NoRel d Right x NoRel ) NoRel (
+crohme2019/valid/RIT_2014_217.inkml	v Sub \pm Right 1 Sub COMMA NoRel \pm Right 2 Sub COMMA NoRel \pm Right 3
+crohme2019/valid/18_em_5.inkml	\int Right g Right = Right \lim Below n Right \rightarrow Right \infty NoRel \int Right g Sub n
+crohme2019/valid/35_em_2.inkml	( Right x Right + Right 2 Right y Right ) Right ( Right x Sup 2 NoRel - Right 2 NoRel + Right 4 Right y Sup 2 NoRel ) NoRel y NoRel x
+crohme2019/valid/506_em_66.inkml	2 Right \leq Right A Right \leq Right 4
+crohme2019/valid/32_em_224.inkml	z Right = Right \sqrt Inside 3 NoRel ( Right \sqrt Inside 2 NoRel + Right i Right )
+crohme2019/valid/507_em_68.inkml	3 Right x Sup 3 NoRel e Sup 3 Right x
+crohme2019/valid/35_em_8.inkml	\lim Below z Right \rightarrow Right z Sub 0 NoRel f Right ( Right z Right ) Right = Right k
+crohme2019/valid/513_em_316.inkml	\lim Right F Sub x Sub n NoRel ( Right a Right ) Right = Right F Sub x NoRel ( Right a Right )
+crohme2019/valid/RIT_2014_179.inkml	y Right = Right 3 Right x Right + Right 7 Right + NoRel x Right + Right 8 NoRel - Below x
+crohme2019/valid/35_em_20.inkml	\sqrt Inside 3 Right 8
+crohme2019/valid/RIT_2014_227.inkml	x Sup 3 NoRel - Right 2 Right x Sup 2 NoRel y Right + Right 4 Right x Right y Sup 2 NoRel ) NoRel ( NoRel + Right ( Right 2 Right x Sup 2 NoRel y Right - Right 4 Right x Right y Sup 2 NoRel + Right 8 Right y Sup 3 NoRel )
+crohme2019/valid/518_em_414.inkml	\lim Below z Right \rightarrow Right z Sub 0 NoRel f Right ( Right z Right ) Right = Right f Right ( Right z Sub 0 NoRel )
+crohme2019/valid/34_em_230.inkml	( Right a Right + Right b Right ) Sup 2 NoRel = Right a Sup 2 NoRel + Right 2 NoRel + Right b NoRel a Right b NoRel 2
+crohme2019/valid/29_em_170.inkml	E Right ( Right t Right ) Right \leq Right E Right ( Right 0 Right )
+crohme2019/valid/RIT_2014_118.inkml	a Right \neq Right b
+crohme2019/valid/RIT_2014_294.inkml	- Right | Right y Right | Right \leq Right y Right \leq Right | Right y Right |
+crohme2019/valid/520_em_466.inkml	\lambda Right ( Right t Right ) Right = Right \lambda Sub 0 NoRel ( Right 1 Right - Right e Sup - Right - Above t NoRel \lambda NoRel )
+crohme2019/valid/518_em_415.inkml	l Right u Sub 1
+crohme2019/valid/514_em_345.inkml	\pm Right \infty NoRel - Below \pm Right \infty
+crohme2019/valid/RIT_2014_72.inkml	x Sup 2 NoRel + Right 5 Right / Right 6 Right x Right + Right 1 Right / Right 6
+crohme2019/valid/RIT_2014_157.inkml	C Right H Sub 2 NoRel = Right C Right H Right C Right H Sub 2 NoRel C Right H Sub 2 NoRel C Right H Sub 3
+crohme2019/valid/519_em_440.inkml	8 Right 9 Right 9 Right 3 NoRel - Below 7 Right 8 Right 7 Right 3
+crohme2019/valid/515_em_374.inkml	\sin Right ( Right \theta Right ) Right + Right i Right \cos Right ( Right \theta Right )
+crohme2019/valid/RIT_2014_181.inkml	\lim Below b Right \rightarrow Right \infty NoRel f Right ( Right b Right )
+crohme2019/valid/503_em_27.inkml	( Right x Sub 2 NoRel - Right x Sub 1 NoRel ) Sup 2 NoRel + Right ( Right y Sub 2 NoRel - Right y Sub 1 NoRel ) Sup 2 NoRel \sqrt
+crohme2019/valid/RIT_2014_144.inkml	y Sup 4 NoRel - Right 9 Right y Sup 2 NoRel - Right 1 Right 8 Right + Right e Sup y
+crohme2019/valid/26_em_93.inkml	4 Right \times Right 4 Right + Right 4 Right - Right 4
+crohme2019/valid/28_em_140.inkml	3 Right ( Right - Right 5 Right ) Sup 2 NoRel + Right 3 Right ( Right - Right 5 Right - Right 2 Right ) Right - Right ( Right - Right 5 Right ) Right ( Right 2 Right ) Sup 2
+crohme2019/valid/27_em_118.inkml	\sqrt Inside 3 Right 2 NoRel + Right \sqrt Inside 3 Right 2
+crohme2019/valid/511_em_264.inkml	( Right e Sup 8 NoRel - Right 9 Right ) Right / Right 9
+crohme2019/valid/501_em_19.inkml	\tan Right ( Right 5 Right x Right ) Right = NoRel 5 Right \tan Right ( Right x Right ) Right - Right 1 Right 0 Right \tan Sup 3 NoRel ( Right x Right ) Right + Right \tan Sup 5 NoRel ( Right x Right ) NoRel - Below 1 Right - NoRel \tan Sup 2 NoRel ( Right x Right ) NoRel 1 Right 0 NoRel + Right 5 Right \tan Sup 4 NoRel ( Right x Right )
+crohme2019/valid/516_em_384.inkml	x Sub k NoRel x Right y Sub k NoRel + Right y Sub k NoRel y Right y Sub k
+crohme2019/valid/29_em_167.inkml	\cos Right ( Right n Right x Right ) Right = Right 2 Right \cos Right ( Right x Right ) Right \cos Right [ NoRel n Right - Right 1 NoRel ( NoRel ) Right x Right ] Right - Right \cos Right [ NoRel n Right - Right 2 Right ) NoRel ( NoRel x Right ]
+crohme2019/valid/516_em_393.inkml	N Right m
+crohme2019/valid/511_em_252.inkml	n Right ( Right - Right 1 Right ) Sup n
+crohme2019/valid/RIT_2014_44.inkml	\sin Right 3 Right x Right - Right \sqrt Inside 3 NoRel \cos Right 3 Right x Right = Right - Right \sqrt Inside 3
+crohme2019/valid/37_em_22.inkml	\int Right X Right ( Right x Right ) Right e Sup - Right a Right x NoRel a Sup x NoRel d Right x
+crohme2019/valid/516_em_378.inkml	5 Right j Right + Right 3 Right j
+crohme2019/valid/RIT_2014_310.inkml	y Right \leq Right z
+crohme2019/valid/RIT_2014_224.inkml	\pm NoRel 0 Sub . NoRel 0 Right 5 NoRel - Below 5 Right 0 NoRel = Right \pm Right 0 Sub . NoRel 0 Right 0 Right 1
+crohme2019/valid/RIT_2014_287.inkml	\log Right x Right - Right \log Right y Right = Right \log Right ( NoRel x NoRel - Below y NoRel )
+crohme2019/valid/511_em_253.inkml	X Sub f Right g
+crohme2019/valid/34_em_240.inkml	\cos Right ( Right 3 Right x Right ) Right = Right 4 Right \cos Sup 3 NoRel ( Right x Right ) Right - Right 3 Right \cos Right ( Right x Right )
+crohme2019/valid/512_em_283.inkml	x Sup 2 NoRel + Right 2 Right x Right y Right + Right y Sup 2 NoRel = Right ( Right x Right + Right y Right ) Sup 2
+crohme2019/valid/RIT_2014_182.inkml	\infty NoRel \sum Below i Right = Right 1 NoRel ( Right a Sub i NoRel - Right b Sub i NoRel ) Sup 2
+crohme2019/valid/518_em_431.inkml	a Right x Right - Right b Right y Right = Right 5 Right t Right + Right b Right y Right - Right b Right y
+crohme2019/valid/508_em_84.inkml	z Right = Right a Right + Right b Right j
+crohme2019/valid/RIT_2014_275.inkml	s Right \neq Right 1
+crohme2019/valid/31_em_198.inkml	\lim Below x Right \rightarrow Right - Right \infty NoRel p Sub 2 NoRel ( Right x Right ) Right \gt Right 0
+crohme2019/valid/517_em_407.inkml	\log Sub b NoRel a Right = NoRel \log Sub c NoRel - Below \log Sub c NoRel b NoRel a
+crohme2019/valid/23_em_51.inkml	n Right = Right p Sub 1 NoRel e Sub 1 NoRel p Sub 2 NoRel e Sub 2 NoRel \ldots Right p Sub m NoRel e Sub m
+crohme2019/valid/27_em_107.inkml	\int Right k Right x Sup n NoRel d Right x Right = Right k Right \int Right x Sup n NoRel d Right x
+crohme2019/valid/29_em_163.inkml	C Sub t NoRel = Right C Right + Right C Right = Right 2 Right C
+crohme2019/valid/502_em_4.inkml	- Right \infty NoRel - Below \infty
+crohme2019/valid/515_em_351.inkml	1 Right = Right 1 Right ( Right 1 Right ) Right ( Right 1 Right )
+crohme2019/valid/RIT_2014_233.inkml	A Sup T
+crohme2019/valid/RIT_2014_68.inkml	e Sup - Right t NoRel \cos Right 2 Sup t
+crohme2019/valid/RIT_2014_207.inkml	\sum Below i Right = Right 1 NoRel n NoRel [ Right i Sup k Right + Right 1 NoRel - Right ( Right i Right - Right 1 Right ) Sup k Right + Right 1 NoRel ] Right = Right n Sup k Right + Right 1
+crohme2019/valid/502_em_22.inkml	2 Right x NoRel 9 Right x Right + Right 1 Right ) NoRel ( NoRel ( Right 3 Right x Right + Right 1 Right ) Sup 3
+crohme2019/valid/519_em_451.inkml	x Right = Right 2 Right \times Right 3 Right \times Right 5 Right \times Right \ldots Right \times Right n
+crohme2019/valid/28_em_143.inkml	[ Right [ Right S Right ] Right ] Right = Right [ Right S Right ]
+crohme2019/valid/RIT_2014_60.inkml	3 Right x Right + Right 1 Right = Right A Right ( Right x Right + Right 1 Right ) Right + Right B Right x
+crohme2019/valid/RIT_2014_204.inkml	4 Right 7 Right 4 Right 7 Right 4 Right + Right 5 Right 2 Right 7 Right 2 Right = NoRel 2 Right 7 Right 4 Right 6 NoRel 5
+crohme2019/valid/RIT_2014_31.inkml	y Sup 2 NoRel COMMA Right \sqrt Inside y NoRel \cos Right y
+crohme2019/valid/29_em_166.inkml	\int NoRel 3 Right x Right + Right 1 NoRel - Below x Sup 2 NoRel + Right x NoRel d Right x
+crohme2019/valid/RIT_2014_50.inkml	\sqrt Inside x Sup 5
+crohme2019/valid/36_em_41.inkml	y Right = Right C Sub 1 NoRel y Sub 1 NoRel + Right C Sub 2 NoRel y Sub 2 NoRel + Right \ldots Right + Right C Sub n NoRel y Sub n
+crohme2019/valid/RIT_2014_20.inkml	[ Right e Right ]
+crohme2019/valid/RIT_2014_156.inkml	- Right 1
+crohme2019/valid/20_em_31.inkml	X Right X Sup - Right 1 NoRel = Right X Sup - Right 1 NoRel X Right = Right I
+crohme2019/valid/28_em_147.inkml	[ Right B Right ]
+crohme2019/valid/511_em_254.inkml	( Right - Right 1 Right ) Sup 3 NoRel - Right 1 Right = Right - Right 1 Right - Right 1 Right = Right - Right 2
+crohme2019/valid/512_em_284.inkml	( Right 6 Right ) Right ( Right 6 Right ) Right ( Right 6 Right ) Right = Right 2 Right 1 Right 6
+crohme2019/valid/RIT_2014_242.inkml	\{ Right a Sub 1 NoRel COMMA Right a Sub 2 NoRel COMMA Right a Sub 3 NoRel COMMA Right a Sub 4 NoRel \}
+crohme2019/valid/34_em_245.inkml	r Right \rightarrow Right \infty
+crohme2019/valid/36_em_37.inkml	- Right f Right ( Right - Right x Right )
+crohme2019/valid/RIT_2014_148.inkml	5 NoRel - Below 6 NoRel \neq NoRel 4 NoRel - Below 3
+crohme2019/valid/RIT_2014_10.inkml	A Right + Right A Right + Right B Right + Right B Right + Right C
+crohme2019/valid/RIT_2014_141.inkml	u Right d Right u Right = Right - NoRel d Right y NoRel - Below 2 Right y Sup 2
+crohme2019/valid/RIT_2014_104.inkml	- Right 2 Right \leq Right x Right \leq Right 2
+crohme2019/valid/18_em_2.inkml	C Sub 1 NoRel y Sub 1 NoRel ( Right n Right - Right 1 Right ) NoRel + Right C Sub 2 NoRel y Sub 2 NoRel ( Right n Right - Right 1 Right ) NoRel + Right \ldots Right + Right C Sub n NoRel y Sub n NoRel ( Right n Right - Right 1 Right ) NoRel = Right 0
+crohme2019/valid/RIT_2014_240.inkml	| Right z Right - Right z Sub 1 NoRel | Right = Right | Right z Right - Right z Sub 2 NoRel |
+crohme2019/valid/514_em_344.inkml	H Right = Right H Sub 1 NoRel + Right H Sub 2 NoRel + Right \ldots
+crohme2019/valid/RIT_2014_19.inkml	2 Sup 2 Sup 2 Sup 6 NoRel 5 Right 5 Right 3 Right 6 NoRel - Right 3
+crohme2019/valid/509_em_91.inkml	\mu Right \lt Right 6
+crohme2019/valid/RIT_2014_271.inkml	\log Sub u NoRel N
+crohme2019/valid/RIT_2014_238.inkml	r Sup - Right k
+crohme2019/valid/RIT_2014_56.inkml	a Sub 1 NoRel + Right 2 Right a Sub 2 NoRel x Right + Right 3 Right a Sub 3 NoRel x Sup 2
+crohme2019/valid/31_em_187.inkml	5 Right 0
+crohme2019/valid/511_em_269.inkml	\sum Above 1 Right 0 Right 0 NoRel k Right = Right 2 NoRel ( Right - Right 1 Right ) Sup k NoRel 1 NoRel - Below k Sup 2
+crohme2019/valid/RIT_2014_5.inkml	m NoRel - Below m Right m
+crohme2019/valid/517_em_413.inkml	9 Right + Right 3 Right \sqrt Inside 6 Right 5 NoRel - Below - Right 5 Right 6
+crohme2019/valid/35_em_1.inkml	E Right P Right E
+crohme2019/valid/512_em_279.inkml	z Sup - Right 1 NoRel ( Right 1 Right + Right 4 Right z Sup - Right 1 NoRel + Right z Sup - Right 2 NoRel ) NoRel - Below ( Right 1 Right - Right z Sup - Right 1 NoRel ) Sup 4
+crohme2019/valid/37_em_5.inkml	- Above \sqrt Inside 2 Right + Right \sqrt Inside 2 NoRel 2
+crohme2019/valid/37_em_27.inkml	\alpha Right COMMA Right \beta
+crohme2019/valid/RIT_2014_102.inkml	m Sup \prime NoRel + Right N Right = Right [ Right m Sup \prime NoRel ]
+crohme2019/valid/503_em_33.inkml	\mu Sub e Right f Right f NoRel = Right \mu Sub 0 NoRel \mu Sub r
+crohme2019/valid/518_em_420.inkml	3 Right \div Right 3 NoRel - Below 9 Right \div Right 3 NoRel = NoRel 1 NoRel - Below 3
+crohme2019/valid/RIT_2014_288.inkml	\log Right ( NoRel a NoRel - Below b NoRel ) Right = Right \log Right ( Right a Right ) Right - Right \log Right ( Right b Right )
+crohme2019/valid/32_em_202.inkml	3 Right N Right - Right 3 Right - Right 2 Right = Right 3 Right N Right - Right 5
+crohme2019/valid/27_em_100.inkml	\sqrt Inside 4 Right 5
+crohme2019/valid/RIT_2014_265.inkml	u Right u Sub x NoRel + Right u Sub y NoRel + Right u Sub t NoRel = Right y
+crohme2019/valid/23_em_60.inkml	2 NoRel - Below 3 NoRel + NoRel 1 NoRel - Below 9 NoRel = Right ( NoRel 7 NoRel - Below 9 NoRel )
+crohme2019/valid/512_em_277.inkml	a Right b Sup 2 NoRel + Right a Right ( Right b Right - Right c Right ) Right - Right b Right c Sup 2
+crohme2019/valid/35_em_7.inkml	\sin Right ( Right - Right 4 Right 5 Right ) Right = Right - Right \sin Right 4 Right 5
+crohme2019/valid/29_em_156.inkml	( Right 2 Right COMMA Right 2 Right COMMA Right 2 Right COMMA Right 0 Right )
+crohme2019/valid/503_em_28.inkml	y NoRel 1 NoRel - Below b NoRel \leq Right x NoRel 1 NoRel - Below b
+crohme2019/valid/32_em_220a.inkml	d Right = Right ( Right 2 Right 4 Right z Sup 5 NoRel + Right 4 Right 8 Right c Right z Sup 3 NoRel + Right 8 Right z Sup 3 NoRel + Right 2 Right 4 Right c Sup 2 NoRel z Right + Right 1 Right 6 Right c Right z Right )
+crohme2019/valid/RIT_2014_216.inkml	\lim Below y Right \rightarrow Right x NoRel f Right ( Right y Right ) Right = Right f Right ( Right x Right )
+crohme2019/valid/502_em_17.inkml	d NoRel - Below d Right \theta NoRel e Sup i Right \theta NoRel = Right i Right e Sup i Right \theta
+crohme2019/valid/RIT_2014_282.inkml	3 Right x NoRel - Below 3 NoRel + NoRel 1 NoRel - Below 3 NoRel = NoRel 4 NoRel - Below 3
+crohme2019/valid/RIT_2014_112.inkml	s Sub 1
+crohme2019/valid/501_em_0.inkml	\int NoRel 1 NoRel - Below ( Right a Right x Sup 2 NoRel + Right b Right x Right + Right c Right ) Sup n NoRel d Right x
+crohme2019/valid/34_em_246.inkml	v Right = Right ( Right v Sub x NoRel v Sub y NoRel v Sub z NoRel )
+crohme2019/valid/504_em_41.inkml	- Right j Right = Right - Right \sqrt Inside - Right 1
+crohme2019/valid/36_em_48.inkml	\sum Below k NoRel j Right [ Right k Right ]
+crohme2019/valid/RIT_2014_174.inkml	7 NoRel - Below 6 NoRel y Sub n NoRel ( Right - Right y Sub n Right + Right 1 NoRel + Right 2 Right y Sub n NoRel - Right y Sub n Right - Right 1 NoRel )
+crohme2019/valid/RIT_2014_111.inkml	p Sub 1 NoRel \beta Sub 1 NoRel p Sub 2 NoRel \beta Right 2 NoRel \ldots Right p Sub n NoRel \beta Right n
+crohme2019/valid/512_em_286.inkml	e Sup a NoRel - Below e Sup b NoRel = Right e Sup a Right - Right b
+crohme2019/valid/RIT_2014_155.inkml	y Right - Right z
+crohme2019/valid/504_em_46.inkml	e Sup 2 Right x
+crohme2019/valid/RIT_2014_225.inkml	d Right ( Right x Sub COMMA NoRel y Right ) Right + Right d Right ( Right y Sub COMMA NoRel z Right ) Right \geq Right d Right ( Right x Sub COMMA NoRel z Right )
+crohme2019/valid/26_em_97.inkml	\sqrt Inside - Right 4 NoRel = Right \sqrt Inside - Right 1 NoRel \sqrt Inside 4
+crohme2019/valid/501_em_17.inkml	\mu Right \pm Right \sigma
+crohme2019/valid/18_em_12.inkml	p Right e Sup t NoRel - Below 1 Right - Right ( Right 1 Right - Right p Right ) Right e Sup t
+crohme2019/valid/36_em_26.inkml	\sum Below n Right = Right 1 NoRel 5 NoRel ( Right 2 Right n Right + Right 1 Right )
+crohme2019/valid/RIT_2014_57.inkml	1 Right 9
+crohme2019/valid/28_em_125.inkml	2 NoRel - Below \sqrt Inside 2 Right + Right \sqrt Inside 2
+crohme2019/valid/518_em_424.inkml	2 Right \tan Right x
+crohme2019/valid/513_em_302.inkml	c Right \geq Right b
+crohme2019/valid/501_em_5.inkml	\sqrt Inside 5 Right 0
+crohme2019/valid/RIT_2014_297.inkml	( Right z Right + Right 1 Right ) Right ( Right z Right + Right 2 Right )
+crohme2019/valid/511_em_258.inkml	\sum Above n NoRel i Right = Right 1 NoRel a Sub i
+crohme2019/valid/35_em_15.inkml	1 Right \times Right 1 Right + Right 1 Right \times Right 2 Right + Right 2 Right \times Right 2
+crohme2019/valid/RIT_2014_96.inkml	N Right + Right 2 Right 3 Right 3 Right = Right 2 Right 3 Right 6
+crohme2019/valid/31_em_184.inkml	- Above \sqrt Inside 8 Right 1 NoRel \times Right \sqrt Inside 2 NoRel \sqrt Inside 1 NoRel \times Right \sqrt Inside 2 NoRel 0 Right 0
+crohme2019/valid/514_em_337.inkml	V Right V Sup - Right 1
+crohme2019/valid/514_em_332.inkml	2 Right 0 Right x Right - Right 8 Right y Right = Right 2 Right 0
+crohme2019/valid/18_em_3.inkml	q Sub 1 NoRel COMMA Right q Sub 2 NoRel COMMA Right \ldots Right COMMA Right q Sub m
+crohme2019/valid/512_em_298.inkml	1 NoRel - Below 5 NoRel + NoRel 3 NoRel - Below 5 NoRel = NoRel 1 Right + Right 3 NoRel - Below 5 NoRel = NoRel 4 NoRel - Below 5
+crohme2019/valid/520_em_465.inkml	h Right ( Right s Right ) Right = Right - Above 1 NoRel 1 Right + Right s Right T
+crohme2019/valid/26_em_88.inkml	v Sup 2 NoRel - Right v Sub v NoRel 2 NoRel = Right v Sup 2 NoRel v
+crohme2019/valid/RIT_2014_195.inkml	\sqrt Above m NoRel \sqrt Above n NoRel x
+crohme2019/valid/18_em_16.inkml	m Right \geq Right 2
+crohme2019/valid/511_em_257.inkml	H Right z
+crohme2019/valid/RIT_2014_178.inkml	x NoRel p NoRel - Below q NoRel = Right \sqrt Above q NoRel x Sup p NoRel = Right \sqrt Above q NoRel x Sup p
+crohme2019/valid/514_em_338.inkml	8 Right z Sup 7 NoRel + Right 2 Right 4 Right c Right z Sup 5 NoRel + Right 2 Right 4 Right c Sup 2 NoRel z Sup 3 NoRel + Right 8 Right c Right z Sup 3 NoRel + Right 8 Right c Sup 3 NoRel z Right + Right 8 Right c Sup 2 NoRel z
+crohme2019/valid/26_em_99.inkml	1 Right 0 Right COMMA Right 0 Right 0 Right 0 Right + Right 1 Right COMMA Right 0 Right 0 Right 0 Right = Right 1 Right 1 Right COMMA Right 0 Right 0 Right 0
+crohme2019/valid/37_em_10.inkml	X NoRel - Below V
+crohme2019/valid/RIT_2014_45.inkml	| Right A Right |
+crohme2019/valid/515_em_357.inkml	x Sub i NoRel \leq Right x Right \leq Right x Sub i Right + Right 1
+crohme2019/valid/RIT_2014_164.inkml	n Right - Right n Sub 1 NoRel - NoRel - Right n Sub p Sub - Right 1 NoRel \ldots
+crohme2019/valid/519_em_443.inkml	1 Right 2 Right 1 Right = Right 1 Right x Right 1 Right 0 Sup 2 NoRel + Right 2 Right x Right 1 Right 0 Sup 1 NoRel + Right 1 Right x Right 1 Right 0 Sup 0 NoRel = Right 1 Right 0 Right 0 Right + Right 2 Right 0 Right + Right 1
+crohme2019/valid/RIT_2014_301.inkml	1 Right + Right 1 Right = Right 2 Right [ NoRel 1 Right ( Right 1 Right + Right 1 Right ) NoRel - Below 2 NoRel ] Sup 9 NoRel = Right 2
+crohme2019/valid/26_em_87.inkml	\int Right x Right \cos Right ( Right x Right ) Right d Right x Right = Right x Right \sin Right ( Right x Right ) Right - Right \int Right \sin Right ( Right x Right ) Right d Right x
+crohme2019/valid/31_em_193.inkml	r Sub i NoRel + Right d Right r Sub i NoRel COMMA Right p Sub i NoRel + Right d Right p Sub i
+crohme2019/valid/RIT_2014_211.inkml	\lim Below n Right \rightarrow Right \infty NoRel 2 NoRel - Below n NoRel \sum Below i Right = Right 1 NoRel n NoRel ( NoRel 2 Right i NoRel - Below n NoRel ) Sup 2
+crohme2019/valid/511_em_251.inkml	3 NoRel - Below 7 NoRel - NoRel 2 NoRel - Below 7 NoRel = NoRel 1 NoRel - Below 7
+crohme2019/valid/RIT_2014_99.inkml	1 NoRel - Below 9
+crohme2019/valid/RIT_2014_108.inkml	2 Sup 2 NoRel + Right 7 NoRel - Below 2 Sup 5 NoRel 7 Sup 2
+crohme2019/valid/35_em_9.inkml	\sin Right ( Right \theta Right ) Right = Right \sin Right \theta
+crohme2019/valid/31_em_189.inkml	x Right . Right y
+crohme2019/valid/18_em_14.inkml	d Right y NoRel - Below d Right x NoRel = NoRel 1 NoRel - NoRel d Right x NoRel - Below d Right y
+crohme2019/valid/512_em_285.inkml	X Sub n NoRel 2
+crohme2019/valid/511_em_260.inkml	\int Right I Right d Right t
+crohme2019/valid/515_em_373.inkml	R Sub 1
+crohme2019/valid/RIT_2014_239.inkml	z Sup - Right 1 NoRel ( Right 1 Right + Right z Right ) NoRel - Right 1 NoRel - Below ( Right 1 Right - Right z Sup - Right 1 NoRel ) Sup 3
+crohme2019/valid/517_em_404.inkml	P Right a
+crohme2019/valid/518_em_432.inkml	q Right \geq Right 1
+crohme2019/valid/37_em_14.inkml	\lim Below x Right \rightarrow Right 0 NoRel f Right ( Right x Right ) Right = Right 0
+crohme2019/valid/RIT_2014_143.inkml	| Right x Right | Right | Right y Right | Right = Right | Right x Right y Right |
+crohme2019/valid/36_em_34.inkml	\sqrt Inside 2 NoRel \sqrt Inside 2 NoRel = Right 2
+crohme2019/valid/RIT_2014_131.inkml	\sqrt Inside 9 Right 1
+crohme2019/valid/512_em_288.inkml	2 Right m
+crohme2019/valid/RIT_2014_223.inkml	\sin Right ( Right 4 Right x Right ) Right = Right 4 Right \sin Right ( Right x Right ) Right \cos Sup 3 NoRel ( Right x Right ) Right - Right 4 Right \sin Sup 3 NoRel ( Right x Right ) Right \cos Right ( Right x Right )
+crohme2019/valid/RIT_2014_187.inkml	1 Right m
+crohme2019/valid/515_em_360.inkml	C Sup \alpha
+crohme2019/valid/31_em_176.inkml	( NoRel \pi NoRel - Below \sqrt Inside 2 NoRel )
+crohme2019/valid/RIT_2014_92.inkml	d NoRel - Below d Right x NoRel a Sup x
+crohme2019/valid/510_em_106.inkml	\sqrt Inside a Right b NoRel = Right \sqrt Inside a NoRel \sqrt Inside b
+crohme2019/valid/514_em_327.inkml	n Right \rightarrow Right \infty
+crohme2019/valid/515_em_363.inkml	d Sub 2 NoRel - Below d Sub 2 NoRel - Right 2
+crohme2019/valid/18_em_7.inkml	\sin Sup 2 NoRel \theta
+crohme2019/valid/RIT_2014_150.inkml	\cos Right \theta Right = NoRel e Sup i Right \theta NoRel + Right e Sup - Right i Right \theta NoRel - Below 2
+crohme2019/valid/RIT_2014_160.inkml	\sigma Sub a Right COMMA NoRel \sigma Sub m
+crohme2019/valid/27_em_122.inkml	\pm NoRel x NoRel \sqrt Inside b
+crohme2019/valid/29_em_162.inkml	f Right \prime Right ( Right x Right ) NoRel - Below g Right \prime Right ( Right x Right )
+crohme2019/valid/RIT_2014_258.inkml	1 NoRel - Below 2 NoRel 1 NoRel - Below 4 NoRel 1 NoRel - Below 8 NoRel 1 NoRel - Below 1 Right 6
+crohme2019/valid/513_em_312.inkml	\cos Right \theta Right + Right i Right \sin Right \theta Right ) NoRel ( NoRel n NoRel = Right \cos Right n Right \theta Right + Right i Right \sin Right n Right \theta
+crohme2019/valid/513_em_303.inkml	2 NoRel - Below \sqrt Inside 3 NoRel - Right 1 NoRel \times NoRel \sqrt Inside 3 NoRel + Right 1 NoRel - Below \sqrt Inside 3 NoRel + Right 1 NoRel = NoRel 2 Right ( Right \sqrt Inside 3 NoRel + Right 1 Right ) NoRel - Below 3 NoRel 1 NoRel - NoRel = Right \sqrt Inside 3 NoRel + Right 1
+crohme2019/valid/501_em_14.inkml	2 Right \pi Right n Right ! Right e Right = Right 2 Right \pi Right n Right ! Right + NoRel 2 Right \pi Right n Right ! NoRel - Below 2 NoRel + NoRel 2 Right \pi Right n Right ! NoRel - Below 3 Right ! NoRel + NoRel 2 Right \pi Right n Right ! NoRel - Below 4 Right ! NoRel + Right \ldots
+crohme2019/valid/RIT_2014_115.inkml	G Sub e Right q
+crohme2019/valid/23_em_54.inkml	\beta Sub 0 NoRel = Right 1 Right 0 Right 0 Right 0
+crohme2019/valid/505_em_55.inkml	\int NoRel d Right v NoRel - Below v NoRel = Right \int Right 2 Right d Right x
+crohme2019/valid/RIT_2014_285.inkml	m Right i Right l Right l Right i
+crohme2019/valid/514_em_343.inkml	- Right e Sup x NoRel - NoRel \cos NoRel x Right ) NoRel ( NoRel + Right \int Right e Sup x NoRel \cos NoRel x NoRel ( NoRel ) Right d Right x
+crohme2019/valid/34_em_233.inkml	f Right ( Right 5 Right ) Right = Right 2 Right 5 Right = Right f Right ( Right - Right 5 Right )
+crohme2019/valid/32_em_204.inkml	\pm Right \sqrt Inside x
+crohme2019/valid/506_em_62.inkml	a Sup 2 NoRel + Right a Right = Right a Sup 2 NoRel + Right a Right + Right 1 Right - Right 1 Right = Right - Right 1
+crohme2019/valid/517_em_408.inkml	\theta Sub 1 NoRel COMMA Right \ldots Right COMMA Right \theta Sub n
+crohme2019/valid/502_em_2.inkml	4 Right 9 Right 2
+crohme2019/valid/34_em_231.inkml	q Sub e Right q NoRel = Right 1 Right - Right p Sub e Right q
+crohme2019/valid/36_em_46.inkml	x Right \neq Right 4
+crohme2019/valid/514_em_340.inkml	- Right 1 Right 0 Right 0 Right 1 Right y Right = Right - Right 9 Right 9 Right 9
+crohme2019/valid/519_em_459.inkml	1 Right = NoRel Y NoRel - Below Y
+crohme2019/valid/516_em_377.inkml	1 NoRel - Below 2 NoRel x Right + NoRel 1 NoRel - Below 2 NoRel - NoRel 1 NoRel - Below 2 NoRel = NoRel 1 NoRel - Below 2 NoRel - NoRel 1 NoRel - Below 2
+crohme2019/valid/512_em_295.inkml	a Right COMMA Right \ldots Right COMMA Right f
+crohme2019/valid/31_em_199.inkml	\log Right a Right + Right \log Right b Right = Right \log Right a Right b
+crohme2019/valid/515_em_352.inkml	A Right A Sup T NoRel = Right A Sup T NoRel A
+crohme2019/valid/20_em_25.inkml	\sin Right ( Right x Right + Right y Right ) Right = Right \sin Right x Right \cos Right y Right + Right \cos Right x Right \sin Right y
+crohme2019/valid/517_em_402.inkml	p NoRel - Below q
+crohme2019/valid/20_em_27.inkml	R Sub o NoRel = Right - Above ( NoRel \beta Right + Right 1 NoRel - Below \beta NoRel ) Right r Sub e NoRel + Right ( Right \beta Right + Right 2 Right + NoRel 2 NoRel - Below \beta NoRel ) NoRel 2 Right + NoRel 2 NoRel - Below \beta NoRel r Sub o
+crohme2019/valid/RIT_2014_53.inkml	| Right a Right b Right | Right = Right | Right a Right | Right . Right | Right b Right |
+crohme2019/valid/32_em_209.inkml	f NoRel - Below a NoRel = NoRel b NoRel - Below f
+crohme2019/valid/RIT_2014_61.inkml	0 Right . Right 0 Right 8 Right 7 Right 8
+crohme2019/valid/507_em_75.inkml	[ Right b Right ]
+crohme2019/valid/514_em_326.inkml	1 NoRel - Below 6 NoRel \int NoRel u Sup 6 NoRel - Below 2 NoRel d Right u Right + NoRel 1 NoRel - Below 6 NoRel \int NoRel 2 Right u Sup 5 NoRel - Below 2
+crohme2019/valid/RIT_2014_291.inkml	\mu Right m
+crohme2019/valid/519_em_457.inkml	\sqrt Inside x Right - Right 1 Right 6 NoRel = Right \sqrt Inside 7 Right - Right 1 Right 6 NoRel = Right \sqrt Inside - Right 9
+crohme2019/valid/500_em_110.inkml	x Right = Right \sum Below i NoRel x Sub i
+crohme2019/valid/RIT_2014_199.inkml	X Sub t Sub 2 NoRel - Right X Sub t Sub 1 NoRel COMMA Right \ldots Sub COMMA NoRel X Sub t Sub n NoRel - Right X Sub t Sub n Right - Right 1
+crohme2019/valid/516_em_387.inkml	5 Right - Right 3 Right = Right ( Right 1 Right + Right 1 Right + Right 1 Right + Right 1 Right + Right 1 Right ) Right - Right ( Right 1 Right + Right 1 Right + Right 1 Right ) Right = Right 2
+crohme2019/valid/35_em_0.inkml	2 Right 9 Right 9 Right 7 Right 9 Right 2 Right 4 Right 5 Right 8
+crohme2019/valid/RIT_2014_26.inkml	a Right - NoRel 3 NoRel - Below a NoRel + NoRel 1 NoRel - Below a Sup 2 NoRel + Right 1
+crohme2019/valid/37_em_24.inkml	\lim Below n Right \rightarrow Right \infty NoRel 2 NoRel - Below n NoRel \sum Above n NoRel i Right = Right 1 NoRel - Above 4 Right i Sup 2 NoRel n Sup 2
+crohme2019/valid/31_em_182.inkml	( Right Y Right ) Right ( Right 1 Right ) Right = Right ( Right Y Right ) Right ( Right - Above Y NoRel Y NoRel )
+crohme2019/valid/RIT_2014_116.inkml	a NoRel - Below b Right + Right \sqrt Inside c NoRel = NoRel a NoRel - Below b Right + Right \sqrt Inside c NoRel \times NoRel b Right - Right \sqrt Inside c NoRel - Below b Right - Right \sqrt Inside c
+crohme2019/valid/RIT_2014_292.inkml	x Right - Right 8
+crohme2019/valid/RIT_2014_212.inkml	t Sub 0 NoRel \leq Right t Right \leq Right b
+crohme2019/valid/517_em_411.inkml	B Right + Right B Right = Right B
+crohme2019/valid/513_em_300.inkml	\log Sub a NoRel x Right y Right = Right \log Sub a NoRel x Right + Right \log Sub a NoRel y
+crohme2019/valid/RIT_2014_107.inkml	\sum Below n Right = Right 1 NoRel \infty NoRel ( Right - Right 1 Right ) Sup n NoRel - Below \sin Right n
+crohme2019/valid/RIT_2014_52.inkml	\int Right x Right + Right 5 Right d Right x
+crohme2019/valid/515_em_350.inkml	\sin Right ( Right \beta Right )
+crohme2019/valid/513_em_310.inkml	8 Right + Right 7
+crohme2019/valid/RIT_2014_136.inkml	F Sub 1 Right COMMA NoRel \ldots Sub COMMA NoRel F Sub k
+crohme2019/valid/26_em_89.inkml	x Sup 2 NoRel + Right y Sup 2 NoRel = Right l Sub 1 NoRel 2 NoRel + Right l Sub 2 NoRel 2 NoRel + Right 2 Right l Sub 1 NoRel l Sub 2 NoRel c Sub 2
+crohme2019/valid/506_em_67.inkml	\lim Below n Right \rightarrow Right \infty NoRel 8 NoRel - Below n Sup 3 NoRel \sum Below i Right = Right 1 NoRel n NoRel i Sup 2
+crohme2019/valid/RIT_2014_36.inkml	A Right + Right A Right = Right A
+crohme2019/valid/517_em_409.inkml	1 Right ( Right 1 Right ) Right = Right ( Right 1 Right ) Right ( NoRel 1 NoRel - Below 1 NoRel )
+crohme2019/valid/519_em_439.inkml	- Right k Right ( Right k Right a Sub i Right COMMA Right j NoRel + Right a Sub i Right COMMA Right j NoRel ) Right + Right k Right a Sub i Right COMMA Right j NoRel + Right a Sub i Right COMMA Right j
+crohme2019/valid/RIT_2014_89.inkml	r Right \geq Right 1
+crohme2019/valid/RIT_2014_65.inkml	G Right \times Right H
+crohme2019/valid/509_em_92.inkml	\lim Below x Right \rightarrow Right \infty NoRel p Sub k NoRel ( Right x Right ) Right = Right \infty
+crohme2019/valid/514_em_334.inkml	\sum Below n Right = Right 1 NoRel 1 Right 0 NoRel 2 Right n Right + Right 1 Right ) NoRel ( NoRel - Right \sum Below n Right = Right 1 NoRel 4 NoRel 2 Right n Right + Right 1 Right ) NoRel (
+crohme2019/valid/27_em_120.inkml	\sqrt Inside 1 Right 5
+crohme2019/valid/28_em_149.inkml	- Above 1 NoRel x Right + Right y NoRel - Right - Above 1 NoRel x Right - Right y NoRel = Right - Above - Right 2 Right y NoRel x Sup 2 NoRel - Right y Sup 2
+crohme2019/valid/RIT_2014_46.inkml	a Right \leq Right w
+crohme2019/valid/502_em_1.inkml	x Sup 8 NoRel + Right x Sup 6 NoRel + Right x Sup 4 NoRel + Right x Sup 2 NoRel + Right 1
+crohme2019/valid/26_em_81.inkml	- Right 2 Right x Right + Right \sin Right ( Right 2 Right x Right + Right 2 Right ) Right - Right 2
+crohme2019/valid/RIT_2014_120.inkml	\sqrt Inside 6 Right 7
+crohme2019/valid/RIT_2014_83.inkml	C Right = NoRel q Sub 1 NoRel - Below q Sub 1 Sup - NoRel q Sub 2
+crohme2019/valid/519_em_444.inkml	x NoRel a NoRel - Below b NoRel = Right \sqrt Above b NoRel x Sup a NoRel = Right \sqrt Above b NoRel x NoRel a
+crohme2019/valid/RIT_2014_261.inkml	d Right \neq Right 0
+crohme2019/valid/RIT_2014_1.inkml	k Right \lt Right 1
+crohme2019/valid/RIT_2014_129.inkml	\int Sub a NoRel b NoRel f Right d Right \alpha
+crohme2019/valid/20_em_32.inkml	\pi NoRel - Below 3
+crohme2019/valid/RIT_2014_203.inkml	\pi Right r Sup 2 NoRel - Below 2 Right \pi
+crohme2019/valid/509_em_96.inkml	x Right COMMA Right y Right COMMA Right z Right COMMA Right t
+crohme2019/valid/RIT_2014_71.inkml	( Right - Right 7 Right x Right + Right 3 Right 8 Right ) Right \sin Right ( Right x Right ) Right - Right 7 Right \cos Right ( Right x Right )
+crohme2019/valid/512_em_278.inkml	\sqrt Inside 7 Right 5
+crohme2019/valid/506_em_63.inkml	\sqrt Inside x NoRel \sqrt Inside y NoRel = Right \sqrt Inside x NoRel y
+crohme2019/valid/29_em_150.inkml	6 Right 0 Sup o
+crohme2019/valid/RIT_2014_274.inkml	\alpha Right ( Right a Right b Right ) Right = Right ( Right \alpha Right a Right ) Right b Right = Right a Right ( Right \alpha Right b Right )
+crohme2019/valid/RIT_2014_220.inkml	x Sup n Right - Right 1 NoRel + Right x Sup n Right - Right 2 NoRel + Right \ldots Right + Right x Sup 2 NoRel + Right x Right + Right 1
+crohme2019/valid/516_em_382.inkml	0 Right = Right X Sup 3 NoRel + Right 2 Right X Sup 2 NoRel - Right X Right + Right 1
+crohme2019/valid/29_em_172.inkml	n Right \geq Right 0
+crohme2019/valid/29_em_174.inkml	\lim NoRel | Right a Sub n Right + Right 1 NoRel x Right | NoRel - Below | Right a Sub n NoRel | NoRel \lt Right 1
+crohme2019/valid/505_em_51.inkml	| Right x NoRel 1 NoRel - Below n NoRel - Right c NoRel 1 NoRel - Below n NoRel | Right = NoRel | Right x NoRel 1 NoRel - Below n NoRel - Right c NoRel 1 NoRel - Below n NoRel | Right | Right x NoRel n Right - Right 1 NoRel - Below n NoRel + Right x NoRel n Right - Right 2 NoRel - Below n NoRel c NoRel 1 NoRel - Below n NoRel + Right \ldots Right + Right x NoRel 1 NoRel - Below n NoRel c NoRel n Right - Right 2 NoRel - Below n NoRel | NoRel - Below | Right x NoRel n Right - Right 1 NoRel - Below n NoRel + Right x NoRel n Right - Right 2 NoRel - Below n NoRel c NoRel 1 NoRel - Below n NoRel + Right \ldots Right + Right x NoRel 1 NoRel - Below n NoRel c NoRel n Right - Right 2 NoRel - Below n NoRel + Right c NoRel n Right - Right 1 NoRel - Below n NoRel |
+crohme2019/valid/29_em_154.inkml	4 Right z Right - Right 5 NoRel - Below ( Right z Right - Right 1 Right ) Right ( Right z Right - Right 2 Right )
+crohme2019/valid/20_em_45.inkml	C Sub n NoRel \sqrt
+crohme2019/valid/RIT_2014_146.inkml	a Sub 1 Right 1 NoRel a Sub 2 Right 2 NoRel - Right a Sub 1 Right 2 NoRel a Sub 2 Sub 1
+crohme2019/valid/RIT_2014_273.inkml	1 NoRel - Below 3 NoRel + NoRel 2 NoRel - Below 3 NoRel = NoRel 3 NoRel - Below 3
+crohme2019/valid/RIT_2014_248.inkml	2 Right - Right p NoRel - Below \sqrt Inside 1 Right - Right p
+crohme2019/valid/35_em_3.inkml	\beta Right ( Right F Right )
+crohme2019/valid/502_em_21.inkml	a Sub 0 NoRel + Right 3 Right a Sub 1 NoRel + Right 9 Right a Sub 2 NoRel + Right 2 Right 7 Right a Sub 3 NoRel = Right 0
+crohme2019/valid/37_em_21.inkml	( Right I Right - Right T Right ) Sup - Right 1 NoRel = Right I Right + Right T Right + Right T Sup 2 NoRel + Right T Sup 3
+crohme2019/valid/37_em_23.inkml	\sum Right p Sub i NoRel = Right \sum Right p Sub f
+crohme2019/valid/RIT_2014_256.inkml	c Sub 1 NoRel COMMA Right c Sub 2 NoRel COMMA Right \ldots Right COMMA Right c Sub m NoRel COMMA Right c Sub m Right + Right 1
+crohme2019/valid/RIT_2014_97.inkml	1 Right 2
+crohme2019/valid/517_em_412.inkml	x Sup 2 NoRel + Right 2 Right x Right + Right 2 Right ) NoRel ( NoRel ( Right x Sup 2 NoRel - Right 2 Right x Right + Right 2 Right )
+crohme2019/valid/518_em_430.inkml	4 Right + Right 4 Right + Right 4 NoRel - Below 4
+crohme2019/valid/RIT_2014_280.inkml	\sqrt Inside 9 NoRel + Right \sqrt Inside 1 Right 6
+crohme2019/valid/502_em_23.inkml	0 Right + Right 0 Right + Right 0 Right + Right 0 Right + Right 0 Right + Right 0 Right = Right 0
+crohme2019/valid/RIT_2014_54.inkml	z Right \lt Right p
+crohme2019/valid/508_em_80.inkml	M Sub 2
+crohme2019/valid/519_em_445.inkml	N Right s
+crohme2019/valid/519_em_442.inkml	t Sup \prime NoRel = Right t
+crohme2019/valid/512_em_294.inkml	4 Right x Right = Right x Right + Right x Right + Right x Right + Right x
+crohme2019/valid/RIT_2014_167.inkml	\sqrt Inside c Sup 2 NoRel = NoRel 8 Right 1 Right 0 Right 0 Right 0 Right 0 Right + Right 5 Right 6 Right 2 Right 5 Right 0 Right 0 NoRel \sqrt
+crohme2019/valid/RIT_2014_22.inkml	3 Right . Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 1
+crohme2019/valid/RIT_2014_232.inkml	\sqrt NoRel 9 Right . Right 8 Right 1 NoRel - Below l NoRel = Right \pi
+crohme2019/valid/RIT_2014_254.inkml	1 NoRel - Below 2 NoRel \div NoRel 3 NoRel - Below 4
+crohme2019/valid/RIT_2014_165.inkml	p Sub 1 NoRel \beta Sub 1 NoRel p Sub 2 NoRel \beta Right 2 NoRel \ldots Right p Sub n NoRel \beta Right n
+crohme2019/valid/RIT_2014_49.inkml	a Sub j NoRel \gamma Sub j NoRel a Sub j Right + Right 1 NoRel \gamma Sub j Sub + Right 1
+crohme2019/valid/29_em_169.inkml	d Right f NoRel - Below d Right x NoRel = Right - Above 1 NoRel d Right x NoRel - Below d Right f
+crohme2019/valid/RIT_2014_218.inkml	\sin Right A Right + Right \sin Right 3 Right A NoRel - Below \cos Right A Right + Right \cos Right 3 Right A NoRel = Right \tan Right 2 Right A
+crohme2019/valid/20_em_33.inkml	R Sub a NoRel = Right - Above R Sub 1 NoRel R Sub 2 NoRel + Right R Sub 2 NoRel R Sub 3 NoRel + Right R Sub 3 NoRel R Sub 1 NoRel R Sub 2
+crohme2019/valid/519_em_461.inkml	\alpha NoRel - Below 2 NoRel - NoRel \alpha Right + Right 1 NoRel - Below 2 NoRel = NoRel 1 NoRel - Below 2
+crohme2019/valid/506_em_59.inkml	y Right \in Right B
+crohme2019/valid/26_em_94.inkml	[ NoRel 1 NoRel - Below 2 NoRel \sin Sup 2 NoRel ( Right 1 Right ) Right ] Right - Right [ NoRel 1 NoRel - Below 2 NoRel \sin Sup 2 NoRel ( Right 0 Right ) Right ]
+crohme2019/valid/501_em_16.inkml	N Sub X Right Y
+crohme2019/valid/515_em_368.inkml	I Right m
+crohme2019/valid/519_em_447.inkml	2 Right 5 Right 2 Right - Right 2 NoRel - Below 5
+crohme2019/valid/36_em_44.inkml	p Right \geq Right 1
+crohme2019/valid/27_em_116.inkml	v Sub 7 NoRel + Right v Sub 3 NoRel + Right v Sub 4 NoRel - Right v Sub 8 NoRel = Right 0
+crohme2019/valid/507_em_71.inkml	1 Right 0 Right 0 Right 0 Right 0 NoRel \sum Below n Right = Right 1 NoRel ( Right 1 Right 0 Right 0 Right 0 Right 1 Right - Right n Right ) Sup - Right 2
+crohme2019/valid/34_em_236.inkml	1 NoRel - Below 2 Right 5 NoRel [ Right y Sup 2 NoRel - Right 8 Right y Right + Right 1 Right 6 Right - Right 1 Right 6 Right ]
+crohme2019/valid/502_em_24.inkml	6 Right 1 Right \leq Right x Right \leq Right 6 Right 9
+crohme2019/valid/511_em_267.inkml	a NoRel \sqrt NoRel - NoRel b NoRel \sqrt NoRel = Right \sqrt NoRel a NoRel - Below b
+crohme2019/valid/31_em_192.inkml	\int Sub a NoRel x NoRel f Right ( Right x Right ) Right d Right x
+crohme2019/valid/32_em_208.inkml	b Sub u
+crohme2019/valid/20_em_36.inkml	e Sub 5 NoRel - Right 5 Right e Sub 4
+crohme2019/valid/31_em_177.inkml	\alpha Sup - Right 1
+crohme2019/valid/510_em_100.inkml	\int NoRel d Right x NoRel - Below x NoRel + Right \int NoRel 2 NoRel - Below x Right + Right 1 NoRel d Right x
+crohme2019/valid/RIT_2014_125.inkml	z Right + Right w
+crohme2019/valid/32_em_206.inkml	[ Right [ Right S Right ] Right ]
+crohme2019/valid/32_em_220b.inkml	8 Right z Sup 7 NoRel + Right 2 Right 9 Right c Right z Sup 5 NoRel + Right 2 Right 9 Right c Sup 2 NoRel z Sup 3
+crohme2019/valid/RIT_2014_47.inkml	f Right ( Right b Right ) Right - Right f Right ( Right a Right ) NoRel - Below b Right - Right a
+crohme2019/valid/RIT_2014_311.inkml	\int Right y Right d Right x
+crohme2019/valid/RIT_2014_63.inkml	c Sub x NoRel c Sub x Right + Right 1
+crohme2019/valid/518_em_438.inkml	2 NoRel - Below \sqrt Inside 2 Right - Right \sqrt Inside 2
+crohme2019/valid/509_em_89.inkml	( Right 2 Right 1 Right + Right 7 Right j Right ) Right \div Right 7 Right = Right 2 Right 1 Right \div Right 7 Right + Right 7 Right j Right \div Right 7 Right = Right 3 Right + Right j
+crohme2019/valid/RIT_2014_140.inkml	\sum Right a Sub n
+crohme2019/valid/27_em_119.inkml	6 Right 7 Right 7 Right 8
+crohme2019/valid/RIT_2014_132.inkml	1 Right m
+crohme2019/valid/32_em_220c.inkml	4 Right c Sup 3 NoRel + Right 6 Right c Sup 2 NoRel + Right 2 Right c Right + Right 1
+crohme2019/valid/519_em_458.inkml	a Right c Right + Right b NoRel - Below c
+crohme2019/valid/23_em_55.inkml	\sqrt Inside 1 Right 1 Right 3
+crohme2019/valid/18_em_8.inkml	x Sub L Right L Right L NoRel \leq Right x Sub L Right L
+crohme2019/valid/RIT_2014_267.inkml	\int Sub a NoRel c NoRel f Right + Right \int Sub c NoRel b NoRel f Right = Right \int Sub a NoRel b NoRel f
+crohme2019/valid/37_em_11.inkml	w Sup - Right 2
+crohme2019/valid/20_em_26.inkml	9 NoRel - Below 9 Right + Right \sqrt Inside 9
+crohme2019/valid/RIT_2014_206.inkml	( Right a Right - Right b Right ) Right - Right c Right = Right a Right - Right ( Right b Right + Right c Right ) Right = Right a Right + Right ( Right - Right b Right - Right c Right )
+crohme2019/valid/RIT_2014_250.inkml	R Sub r Right l
+crohme2019/valid/516_em_389.inkml	9 Right 2 Right . Right 0 Right 8 Right 5 Right 5 Right 3 Right 6 Right 9 Right 2 Right \ldots
+crohme2019/valid/RIT_2014_62.inkml	\sin Right \phi Right + Right \tan Right \theta NoRel - Below \sin Right \phi Right + Right \cos Right \theta NoRel = Right \cos Right ( NoRel \phi Right + Right \theta NoRel ) NoRel - Below 2
+crohme2019/valid/RIT_2014_12.inkml	k Sub n Right + Right 1 NoRel = Right n Sup 2 NoRel + Right k Sub n NoRel 2 NoRel - Right k Sub n Right - Right 1
+crohme2019/valid/28_em_134.inkml	n Sub A NoRel - Below n
+crohme2019/valid/503_em_30.inkml	- Right 6 Right x NoRel - Below - Right 6 NoRel \lt NoRel 1 Right 8 NoRel - Below - Right 6
+crohme2019/valid/27_em_124.inkml	a Right \div Right b
+crohme2019/valid/34_em_234.inkml	\int Sub 0 NoRel \pi NoRel ( Right \sin Right ( Right t Right ) Right - Right t Right ) Right d Right t Right = Right 2 Right - NoRel 1 NoRel - Below 2 NoRel \pi Sup 2
+crohme2019/valid/518_em_422.inkml	a Sub n NoRel = Right a Sub n NoRel - Right 2 Right + Right a Sub n Right - Right 1 NoRel + Right 1
+crohme2019/valid/29_em_160.inkml	\sum Right a Sub j NoRel x Sub j
+crohme2019/valid/519_em_462.inkml	\sum Below r Right = Right 1 NoRel n NoRel r
+crohme2019/valid/RIT_2014_173.inkml	p Right = NoRel q Right + Right a NoRel - Below \sum Right ( Right q Right + Right c Right ) NoRel i NoRel i NoRel i
+crohme2019/valid/509_em_98.inkml	\sigma Sub p NoRel = Right \sqrt Inside \sigma Sup 2 NoRel p
+crohme2019/valid/515_em_364.inkml	\sin Right x Right - Right \sin Right y Right = Right 2 Right \cos Right ( NoRel x Right + Right y NoRel - Below 2 NoRel )
+crohme2019/valid/514_em_336.inkml	d Right s
+crohme2019/valid/23_em_50.inkml	d Sup - Right 7
+crohme2019/valid/514_em_325.inkml	x Right \times Right x Right \times Right x Right \times Right x Right \times Right x NoRel - Below x Right \times Right x Right \times Right x
+crohme2019/valid/20_em_44.inkml	8 Right c Right m
+crohme2019/valid/511_em_270.inkml	1 NoRel - Below 2 NoRel \int Sup 5 NoRel 1 NoRel \cos Right ( Right u Right ) Right d Right u
+crohme2019/valid/514_em_342.inkml	x NoRel \sqrt Right = NoRel x NoRel - NoRel x NoRel \sqrt
+crohme2019/valid/32_em_213.inkml	\sqrt Inside a NoRel \times Right \sqrt Inside b NoRel = Right \sqrt Inside a Right b
+crohme2019/valid/RIT_2014_221.inkml	A Right + Right B Right + Right B Right = Right A Right + Right B
+crohme2019/valid/29_em_151.inkml	P Right a
+crohme2019/valid/32_em_214.inkml	\int Right c Right d Right x
+crohme2019/valid/509_em_97.inkml	( Right d Right - Right 1 Right ) Right ( Right d Right + Right 1 Right )
+crohme2019/valid/29_em_165.inkml	7 Right x Sup 7 Right - Right 1 NoRel + Right 4 Right x Sup 4 Right - Right 1 NoRel + Right 1 Right x Sup 1 Right - Right 1
+crohme2019/valid/RIT_2014_245.inkml	b Sup 3 NoRel - Right 3 Right / Right 2 Right b
+crohme2019/valid/502_em_9.inkml	\beta Right = Right 1
+crohme2019/valid/35_em_14.inkml	x Sup 3 NoRel ( Right x Right - Right ( Right 2 Right x Right + Right 3 Right ) Right ( Right 2 Right x Right - Right 3 Right ) Right )
+crohme2019/valid/37_em_9.inkml	y Right \lt Right b
+crohme2019/valid/501_em_4.inkml	S Right u Right p Right E Right \leq Right S Right u Right p Right F
+crohme2019/valid/509_em_93.inkml	| Right S Right |
+crohme2019/valid/514_em_333.inkml	\beta Sub n Right + Right 1
+crohme2019/valid/28_em_129.inkml	- Right - Above 1 NoRel \sqrt Inside 2 NoRel ( Right - Above b NoRel \sqrt Inside 2 NoRel - Right 0 Right )
+crohme2019/valid/RIT_2014_128.inkml	F Sub 2 NoRel = Right 2 Sup 2 Sup 2 NoRel + Right 1 Right = Right 1 Right 7
+crohme2019/valid/517_em_406.inkml	\sum Right b Sub n
+crohme2019/valid/RIT_2014_153.inkml	\log Sub b NoRel b Sup x NoRel = Right X
+crohme2019/valid/18_em_0.inkml	x Sub k NoRel x Right x Sub k NoRel + Right y Sub k NoRel y Right x Sub k
+crohme2019/valid/504_em_35.inkml	x Right \times Right x Right ) NoRel ( NoRel \times Right ( Right x Right \times Right x Right ) Right \times Right ( Right x Right \times Right x Right ) Right = Right x Right \times Right x Right \times Right x Right \times Right x Right \times Right x Right \times Right x
+crohme2019/valid/20_em_42.inkml	1 Right 7
+crohme2019/valid/27_em_112.inkml	M Sub 3
+crohme2019/valid/37_em_7.inkml	\cos Right 6 Right \theta
+crohme2019/valid/508_em_88.inkml	f Right ( Right a Right ) Right f NoRel b NoRel ( NoRel ) Right = Right f Right ( Right a Right + Right b Right )
+crohme2019/valid/RIT_2014_37.inkml	\cos Right ( Right z Right ) Right + Right i Right \sin Right ( Right z Right )
+crohme2019/valid/502_em_13.inkml	e Sup x NoRel + Right 1 Right 8 Right x Right + Right 1 Right 2
+crohme2019/valid/36_em_35.inkml	z Sub 1 NoRel z Sub 2
+crohme2019/valid/RIT_2014_183.inkml	\lim Below x Right \rightarrow Right \infty NoRel p Sub 2 NoRel ( Right x Right ) Right \gt Right 0
+crohme2019/valid/514_em_329.inkml	1 Right - Right 1 Right ) NoRel ( NoRel 3 NoRel + Right 1 Sup 3 NoRel \lt NoRel 1 NoRel - Below 4 NoRel 2 Sup 4 NoRel \lt Right 1 Sup 3 NoRel + Right 2 Sup 3
+crohme2019/valid/23_em_58.inkml	z Sup d NoRel + Right z
+crohme2019/valid/35_em_5.inkml	E Right / Right [ Right E Right COMMA Right E Right ]
+crohme2019/valid/RIT_2014_176.inkml	1 Right 8 Right z
+crohme2019/valid/RIT_2014_42.inkml	\sum Right \alpha Right \beta Right = Right \alpha Right \beta Right + Right \alpha Right \gamma Right + Right \beta Right \gamma
+crohme2019/valid/RIT_2014_296.inkml	\theta Right + Right e Right \alpha
+crohme2019/valid/37_em_15.inkml	u Right \geq Right 0
+crohme2019/valid/RIT_2014_152.inkml	4 Right 4 Right - NoRel 4 NoRel - Below 4
+crohme2019/valid/518_em_434.inkml	\sum Below r Right = Right 1 NoRel n NoRel r Sup 2 NoRel = NoRel 1 NoRel - Below 6 NoRel n Right ( Right 2 Right n Right + Right 1 Right ) Right ( Right n Right + Right 1 Right )
+crohme2019/valid/514_em_346.inkml	m Sup 2
+crohme2019/valid/37_em_31.inkml	M Right = Right E Right - Right e Right \sin Right E
+crohme2019/valid/507_em_69.inkml	c Right = NoRel w NoRel - Below 2 NoRel - NoRel w Sup 2 NoRel - Below 4
+crohme2019/valid/RIT_2014_243.inkml	\sum Above 1 Right 0 NoRel n Right = Right 5 NoRel ( Right 2 Sub n NoRel + Right 1 Right )
+crohme2019/valid/RIT_2014_228.inkml	\int Right u Sup 8 NoRel d Right u NoRel - Below 1 Right 2
+crohme2019/valid/RIT_2014_226.inkml	b Sup - Right 1 NoRel c Sup - Right 1 NoRel = Right b Sup - Right 1 NoRel a Sup - Right 1
+crohme2019/valid/26_em_96.inkml	4 Right + Right 4 Right + NoRel 4 NoRel - Below 4
+crohme2019/valid/31_em_195.inkml	1 Right \times Right 2 Right \times Right 3 Right \times Right 4 Right \times Right 5 Right \times Right 6 Right = Right 7 Right 2 Right 0
+crohme2019/valid/RIT_2014_172.inkml	\sin Right ( Right \pi Right ) Right - Right \sin Right ( Right 0 Right ) NoRel - Below \pi Right - Right 0 NoRel = Right 0
+crohme2019/valid/RIT_2014_159.inkml	X Right ) NoRel ( NoRel ( Right X Right ) Right ( Right X Right ) Right ( Right X Right ) Right ( Right X Right ) NoRel - NoRel X Right ) NoRel (
+crohme2019/valid/511_em_274.inkml	x Sup 8 NoRel + Right x Sup 4 NoRel + Right 1
+crohme2019/valid/34_em_229.inkml	1 Right / Right t
+crohme2019/valid/32_em_212.inkml	q Right - Right \sqrt Inside 2
+crohme2019/valid/26_em_90.inkml	\int NoRel 1 Right 9 NoRel - Below \sqrt Inside 9 Right x Right - Right 3 Right 8 NoRel d Right x
+crohme2019/valid/512_em_291.inkml	2 Right . Right 9 Right 9 Right 9 Right 9
+crohme2019/valid/513_em_307.inkml	x Right ( Right x Sup 2 NoRel - Right 2 Right x Right y Right + Right 4 Right y Sup 2 NoRel ) Right + Right 2 Right y Right ( Right x Sup 2 NoRel - Right 2 Right x Right y Right + Right 4 Right y Sup 2 NoRel )
+crohme2019/valid/RIT_2014_151.inkml	1 Right 5 Right \pi
+crohme2019/valid/509_em_90.inkml	\pm Right \sqrt Inside 6
+crohme2019/valid/502_em_7.inkml	\sum Below k Right = Right 1 NoRel n NoRel a Sub k NoRel + Right \sum Below k Right = Right 1 NoRel n NoRel b Sub k
+crohme2019/valid/RIT_2014_205.inkml	\sigma Sub a Right COMMA NoRel \sigma Sub m
+crohme2019/valid/26_em_83.inkml	d Sub t NoRel = Right - Above a Right ( Right t Right ) Right - Right a Right ( Right t Right - Right 1 Right ) NoRel a Right ( Right t Right )
+crohme2019/valid/36_em_33.inkml	\beta Sub 0 NoRel ( Right 1 Right ) Right + Right \beta Sub 1 NoRel ( Right i Right ) Right + Right \beta Sub 2 NoRel ( Right j Right ) Right + Right \beta Sub 3 NoRel ( Right k Right )
+crohme2019/valid/515_em_362.inkml	v Right \geq Right 0
+crohme2019/valid/502_em_0.inkml	6 Right 3
+crohme2019/valid/RIT_2014_299.inkml	8 Right 9 Right 7
+crohme2019/valid/28_em_127.inkml	X Right COMMA Right X Sub t
+crohme2019/valid/513_em_311.inkml	1 Right 0 NoRel 1 NoRel - Below 1 Right 0
+crohme2019/valid/513_em_306.inkml	R Sub f
+crohme2019/valid/18_em_6.inkml	g Right ( Right b Right ) Right - Right g Right ( Right a Right ) Right = Right b Right - Right a
+crohme2019/valid/516_em_399.inkml	3 NoRel - Below 8
+crohme2019/valid/31_em_175.inkml	\lim Right f NoRel ) Right = Right f Right ( Right c Right ) NoRel x Right \rightarrow Right c NoRel ( Right x
+crohme2019/valid/36_em_39.inkml	( Right 3 Right ) Right ( Right 3 Right + Right 1 Right ) NoRel - Below 2 NoRel = Right 6 Right = Right 1 Right + Right 2 Right + Right 3
+crohme2019/valid/518_em_429.inkml	\infty Right \times Right \infty Right = Right \infty
+crohme2019/valid/515_em_361.inkml	\sqrt Inside 7 NoRel + Right 2 Right \sqrt Inside 7 NoRel = Right 1 Right \sqrt Inside 7 NoRel + Right 2 Right \sqrt Inside 7 NoRel = Right 3 Right \sqrt Inside 7
+crohme2019/valid/RIT_2014_163.inkml	4 Right x Sup 2 NoRel - Right 9 NoRel - Below 4 Right x Sup 2 NoRel + Right 1 Right 2 Right x Right + Right 9
+crohme2019/valid/RIT_2014_185.inkml	n Right \rightarrow Right \infty NoRel n Right \sin Right ( NoRel 2 Sup \pi NoRel - Below n Right + Right 1 NoRel ) Right - NoRel n Right \rightarrow Right \infty NoRel n NoRel 2 Right \pi NoRel - Below n NoRel 1 NoRel - Right 2 Right \pi NoRel + NoRel \lim NoRel \lim
+crohme2019/valid/517_em_401.inkml	x Right ( Right t Right ) Right = Right x Sub 0 NoRel ( Right t Right )
+crohme2019/valid/23_em_67.inkml	2 Right ( Right ( Right x Right + Right 2 Right ) Sup 2 NoRel - Right 4 Right + Right 1 Right )
+crohme2019/valid/RIT_2014_257.inkml	1 Right 1 NoRel - Below 3 NoRel \sqrt Inside 3
+crohme2019/valid/27_em_113.inkml	x Right = NoRel a Right f Right ( Right b Right ) Right - Right b Right f Right ( Right a Right ) NoRel - Below f Right ( Right b Right ) Right - Right f Right ( Right a Right )
+crohme2019/valid/504_em_38.inkml	- NoRel \sin Right ( Right n Right \pi Right ) NoRel - Below n Right \pi NoRel + NoRel \sin Right ( Right n Right \pi Right ) NoRel - Below n Right \pi
+crohme2019/valid/RIT_2014_276.inkml	\sigma Right = NoRel 1 NoRel - Below 2 NoRel n Right / Right 1 Right 1 Right + NoRel 1 NoRel - Below 2 NoRel n Right / Right 2 Right 2 Right - Right y Sub 1 Right 2
+crohme2019/valid/34_em_243.inkml	1 NoRel - Below \sqrt Inside \pi NoRel \sqrt Inside \pi NoRel = Right 1
+crohme2019/valid/RIT_2014_11.inkml	n Sub N NoRel = Right N Sub N
+crohme2019/valid/28_em_142.inkml	4 Right 4 Right 4 Right 6 Right 7 NoRel - Below 3 Right 8 Right 9 Right 7 Right 3
+crohme2019/valid/RIT_2014_91.inkml	\sum Above n NoRel r Right = Right 1 NoRel r Sup 3
+crohme2019/valid/RIT_2014_137.inkml	1 Right - Right d Right = Right ( Right 1 Right - NoRel d Sup ( Right m Right ) NoRel - Below m NoRel ) Sup m
+crohme2019/valid/503_em_25.inkml	\sum Right Y Sub i
+crohme2019/valid/519_em_450.inkml	z Right \rightarrow Right - Right z
+crohme2019/valid/RIT_2014_281.inkml	1 Right 0 Right 0 Right COMMA Right 0 Right 0 Right 0
+crohme2019/valid/502_em_5.inkml	z Right = Right \cos Right \theta Right + Right j Right \sin Right \theta
+crohme2019/valid/27_em_110.inkml	2 Right 9 NoRel ( NoRel ) Right - Right 2 Right ( Right 1 Right 6 Right ) Right + NoRel 3 NoRel ( NoRel ) Right = Right 2 Right 9 Right - Right 3 Right 2 Right + Right 3 Right = Right 0
+crohme2019/valid/RIT_2014_16.inkml	\sqrt Inside 2 NoRel + Right \sqrt Inside 8
+crohme2019/valid/26_em_77.inkml	x Sup i NoRel e Sub i NoRel = Right \sum Right x Sup i NoRel e Sub i NoRel i
+crohme2019/valid/29_em_152.inkml	\sqrt Inside - Right n NoRel = Right i Right \sqrt Inside n
+crohme2019/valid/27_em_114.inkml	\int Right \sin Right 2 Right \theta Right d Right \theta
+crohme2019/valid/513_em_321.inkml	q Sub 1 NoRel COMMA Right q Sub 2 NoRel COMMA Right \ldots Right COMMA Right q Sub m
+crohme2019/valid/31_em_183.inkml	\sqrt Inside 9 NoRel \times Right \sqrt Inside 5
+crohme2019/valid/35_em_24.inkml	\sqrt Inside ( NoRel \Delta Right x NoRel - Below x NoRel ) Sup 2 NoRel + Right ( NoRel \Delta Right y NoRel - Below y NoRel ) Sup 2
+crohme2019/valid/512_em_290.inkml	2 Right \sum Below x Right = Right 1 NoRel n NoRel x Right - Right \sum Below x Right = Right 1 NoRel n NoRel 1
+crohme2019/valid/27_em_101.inkml	1 Right + Right \sqrt Inside 5 NoRel = Right x Sub 1 NoRel + Right y Sub 1 NoRel \sqrt Inside 5
+crohme2019/valid/20_em_48.inkml	f Right ( Right 1 Right . Right 9 Right 9 Right ) Right = Right 3 Right . Right 9 Right 9 Right 2 Right 1 Right 9 Right 2 Right 0 Right 1
+crohme2019/valid/517_em_410.inkml	C Sup \beta
+crohme2019/valid/516_em_386.inkml	\{ Right a Right \}
+crohme2019/valid/516_em_396.inkml	a NoRel - Below b NoRel ( NoRel ) Sup n NoRel = NoRel a Sup n NoRel - Below b Sup n
+crohme2019/valid/501_em_9.inkml	\int Right \sum Below j Right = Right 0 NoRel \infty NoRel a Sub j NoRel z Sup j NoRel d Right z Right = Right \sum Above \infty NoRel j Right = Right 1 NoRel a Sub j Right - Right 1 NoRel - Below j NoRel x Sup j
+crohme2019/valid/RIT_2014_303.inkml	p Right \geq Right 3
+crohme2019/valid/36_em_47.inkml	7 Right 0 Sup o
+crohme2019/valid/28_em_126.inkml	\sum Above N NoRel k Right = Right 1 NoRel k Sup 2 NoRel - Below a
+crohme2019/valid/501_em_23.inkml	\phi Right \gt Right 0
+crohme2019/valid/29_em_159.inkml	1 Right 8
+crohme2019/valid/27_em_103.inkml	\exists Right y Right \exists Right x Right F
+crohme2019/valid/36_em_31.inkml	\sqrt Inside 1 Right 6 Right 2 NoRel - Below \sqrt Inside 2 Right 0 Right 0
+crohme2019/valid/RIT_2014_197.inkml	k Right = NoRel x NoRel - Below \sum Right x Sub i NoRel i NoRel i
+crohme2019/valid/37_em_13.inkml	8 Right 0 Sup o
+crohme2019/valid/37_em_3.inkml	t Right - Right 6
+crohme2019/valid/37_em_26.inkml	\int Sub a NoRel b NoRel f Right ( Right x Right ) Right d Right x Right = Right \int Sub a NoRel b NoRel g Right ( Right x Right ) Right d Right x
+crohme2019/valid/RIT_2014_27.inkml	\log Sub b NoRel ( Right y Sup a NoRel ) Right = Right a Right \log Sub b NoRel ( Right y Right )
+crohme2019/valid/RIT_2014_66.inkml	\sum Below k Right = Right 1 NoRel n NoRel a Sub k NoRel = Right \sum Right a Sub i NoRel n NoRel i Right = Right 1 NoRel = Right \sum Below j Right = Right 1 NoRel n NoRel a Sub j
+crohme2019/valid/RIT_2014_180.inkml	\sqrt Inside a NoRel \sqrt Inside - Right a NoRel = Right \sqrt Inside - Right a Sup 2 NoRel = NoRel \sqrt Inside a Sup 2 NoRel j
+crohme2019/valid/519_em_452.inkml	- NoRel 1 NoRel - Below 6 Right x Sup 6 NoRel + Right c
+crohme2019/valid/23_em_53.inkml	1 NoRel - Below 3 NoRel + NoRel 1 NoRel - Below 3
+crohme2019/valid/31_em_191.inkml	\sum Below j Right = Right 1 NoRel m NoRel a Sub j NoRel e Sub j
+crohme2019/valid/RIT_2014_252.inkml	\cos Right \alpha Right + Right i Right \sin Right \alpha
+crohme2019/valid/34_em_238.inkml	x Sub 1 NoRel + Right x Sub 2 NoRel + Right \ldots Right + Right x Sub n NoRel \neq Right 0
+crohme2019/valid/27_em_104.inkml	w Right = Right q Sub H NoRel - Right q Sub C
+crohme2019/valid/31_em_181.inkml	a Right z Sup - Right 1 NoRel - Below ( Right 1 Right - Right a Right z Sup - Right 1 NoRel ) Sup 2
+crohme2019/valid/18_em_20.inkml	1 NoRel - Below p NoRel + NoRel 1 NoRel - Below q NoRel = Right 1
+crohme2019/valid/RIT_2014_73.inkml	\{ Right 7 Sub COMMA NoRel 7 Right \} Right = Right \{ Right 7 Right \}
+crohme2019/valid/18_em_21.inkml	1 Right 0 Right 1 Right 1 Right 1 Right 1 Right 1 Right 0 Right 1 Right 1 Right 1 Right 0 Right 0 Right 1 Right 0 Right 1 Sub 2
+crohme2019/valid/RIT_2014_13.inkml	[ Right P Right ]
+crohme2019/valid/RIT_2014_100.inkml	a Right \geq Right b
+crohme2019/valid/28_em_135.inkml	e Sub 2 NoRel - Right 2 Right e Sub 1
+crohme2019/valid/23_em_70.inkml	\alpha Right + Right \beta Right = Right \beta Right + Right \alpha
+crohme2019/valid/501_em_2.inkml	m Sub i NoRel COMMA Right v Sub i NoRel COMMA Right f Sub i
+crohme2019/valid/512_em_292.inkml	\int Right ( Right \sin Right ( Right t Right ) Right - Right t Right ) Right d Right t Right = Right - Right \cos Right ( Right t Right ) Right - NoRel 1 NoRel - Below 2 NoRel t Sup 2
+crohme2019/valid/35_em_4.inkml	w Sub 1 NoRel + Right w Sub 2
+crohme2019/valid/29_em_155.inkml	z Sup 5 NoRel + Right z Right = Right z
+crohme2019/valid/509_em_99.inkml	\int NoRel x Right d Right x NoRel - Below s Sup 3 NoRel = Right - NoRel 1 NoRel - Below s
+crohme2019/valid/RIT_2014_298.inkml	\Delta Right k Right x
+crohme2019/valid/RIT_2014_40.inkml	c Right o Right d
+crohme2019/valid/20_em_39.inkml	n Sup 2 NoRel + Right n Right - Right n
+crohme2019/valid/34_em_226.inkml	t Right - Right s
+crohme2019/valid/29_em_161.inkml	f Right ( Right z Sub 0 NoRel ) Right = Right \lim Below z Right \rightarrow Right z Sub 0 NoRel f Right ( Right z Right )
+crohme2019/valid/RIT_2014_190.inkml	B Right \sin Right ( Right n Right \pi Right y Right ) Right \sin Right ( Right \pi Right y Right ) Right + NoRel 1 NoRel - Below 5 NoRel \sin Right ( Right 3 Right \pi Right y Right )
+crohme2019/valid/504_em_37.inkml	| Right y Sub 2 NoRel - Right y Sub 1 NoRel |
+crohme2019/valid/37_em_0.inkml	g Sub \theta NoRel = Right g Right \sin Right \theta
+crohme2019/valid/RIT_2014_75.inkml	\sqrt NoRel x NoRel - Below y NoRel = NoRel \sqrt Inside x NoRel - Below \sqrt Inside y
+crohme2019/valid/515_em_355.inkml	1 NoRel - Below 1 NoRel - NoRel 1 NoRel - Below n Right + Right 1 NoRel = NoRel n NoRel - Below n Right + Right 1
+crohme2019/valid/RIT_2014_188.inkml	\cos Right ( Right x Right + Right y Right ) Right - Right \cos Right x Right \cos Right y Right - Right \sin Right x Right \sin Right y
+crohme2019/valid/37_em_2.inkml	( NoRel 1 NoRel - Below n Right \pi NoRel - NoRel \cos Right ( Right n Right \pi Right ) NoRel - Below n Right \pi NoRel ) Right + Right ( NoRel 1 NoRel - Below n Right \pi NoRel - NoRel \cos Right ( Right n Right \pi Right ) NoRel - Below n Right \pi NoRel )
+crohme2019/valid/RIT_2014_162.inkml	\sum NoRel 0 NoRel m NoRel b Sup i NoRel s Sup i NoRel - Below \sum Below i Right = Right 0 NoRel n NoRel a Sup i NoRel s Sup i NoRel i Right =
+crohme2019/valid/506_em_65.inkml	x Right + Right \pi Right y Right + Right 6 Right \pi Right z Right = Right 3 Right \pi
+crohme2019/valid/26_em_80.inkml	3 Right 1 Right 9 NoRel - Below 2 Right 8 NoRel = Right 1 Right 1 Right . Right 3 Right 9
+crohme2019/valid/28_em_130.inkml	\log Right x Right + Right \log Right y Right = Right \log Right x Right y
+crohme2019/valid/RIT_2014_295.inkml	\lim Below y Right \rightarrow Right x NoRel f Right ( Right x Right )
+crohme2019/valid/28_em_128.inkml	- Above x Sup 2 NoRel 9 NoRel - Right - Above y Sup 2 NoRel 4 Right 9 NoRel = Right 1
+crohme2019/valid/RIT_2014_84.inkml	x Right + Right 2 Right ) NoRel ( NoRel ( Right x Right + Right 3 Right ) NoRel - Below ( Right x Right + Right 3 Right )
+crohme2019/valid/518_em_426.inkml	\pi Right \int Sub - Right R NoRel R NoRel R Sup 2 NoRel d Right x Right - Right \pi Right \int Sub - Right R NoRel R NoRel x Sup 2 NoRel d Right x
+crohme2019/valid/23_em_56.inkml	9 Right + Right 2
+crohme2019/valid/RIT_2014_133.inkml	0 Right \leq Right x Right \leq Right 2 Right \pi
+crohme2019/valid/RIT_2014_69.inkml	1 Right + Right x NoRel - Below 1 Right - Right x NoRel \sqrt
+crohme2019/valid/18_em_15.inkml	k Right = Right 1 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0
+crohme2019/valid/27_em_102.inkml	\lim Below a Right \rightarrow Right \infty NoRel f Right ( Right a Right )
+crohme2019/valid/505_em_50.inkml	\tan Right ( Right - Right \theta Right ) Right = Right - Right \tan Right ( Right \theta Right )
+crohme2019/valid/RIT_2014_48.inkml	q Right - Right ( Right q Right - Right \sqrt Inside 2 NoRel ) Right = Right \sqrt Inside 2
+crohme2019/valid/23_em_52.inkml	2 Right p
+crohme2019/valid/RIT_2014_166.inkml	\tan Right ( Right 3 Right a Right ) Right = NoRel 3 Right \tan Right a Right - Right \tan Right a NoRel - Below 1 Right - Right 3 Right \tan Sup 2 NoRel a NoRel 3
+crohme2019/valid/36_em_42.inkml	m Right \times Right p
+crohme2019/valid/RIT_2014_93.inkml	y Right \gt Right z
+crohme2019/valid/RIT_2014_35.inkml	\theta Right + Right c
+crohme2019/valid/RIT_2014_201.inkml	\cos Right 3 Right \theta Right = Right 4 Right \cos Sup 3 NoRel \theta Right - Right 3 Right \cos Right \theta
+crohme2019/valid/18_em_10.inkml	2 Right 6
+crohme2019/valid/RIT_2014_247.inkml	1 Right \pm Right \sqrt Inside 2
+crohme2019/valid/34_em_239.inkml	\Delta Right x Right \Delta Right k Right \geq Right 1 Right / Right 2
+crohme2019/valid/RIT_2014_81.inkml	0 Right \lt Right x Right \lt Right \sqrt Inside 2
+crohme2019/valid/RIT_2014_259.inkml	- Right \sum Below i NoRel P Sub i NoRel \log Sub n NoRel P Sub i
+crohme2019/valid/37_em_6.inkml	y Sup \prime NoRel ( Right x Right )
+crohme2019/valid/RIT_2014_18.inkml	\int Right d Sub X NoRel = Right \int Right g Right t Right d Right t
+crohme2019/valid/RIT_2014_109.inkml	e Sup z NoRel + NoRel z Sup 8 NoRel - Below 2 NoRel + NoRel 6 NoRel - Below z Sup 3
+crohme2019/valid/RIT_2014_213.inkml	\tan Right x Right - Right \tan Right y Right = NoRel \sin Right ( Right x Right - Right y Right ) NoRel - Below \cos Right x Right \cos Right y
+crohme2019/valid/508_em_87.inkml	v Sub v NoRel = Right v Right \sin Right \theta
+crohme2019/valid/28_em_133.inkml	3 Right = Right - Above 3 NoRel 2 NoRel ( Right 3 Sup 1 NoRel - Right 1 Right ) Right = Right 3
+crohme2019/valid/29_em_171.inkml	\lim Below t Right \rightarrow Right c NoRel a Sub 1 NoRel ( Right t Right ) Right = Right a Sub 1
+crohme2019/valid/27_em_105.inkml	a Right - Right 2 Right x NoRel ( NoRel ) Right ( Right a Right + Right 2 Right x Right )
+crohme2019/valid/505_em_47.inkml	5 Right + Right 3 Right = Right ( Right 1 Right + Right 1 Right + Right 1 Right + Right 1 Right + Right 1 Right ) Right + Right ( Right 1 Right + Right 1 Right + Right 1 Right ) Right = Right 8
+crohme2019/valid/502_em_11.inkml	1 Right - Right 2 Sup - Right s NoRel ) NoRel ( NoRel 1 Right + NoRel 1 NoRel - Below 2 Sup s NoRel + NoRel 1 NoRel - Below 3 Sup s NoRel + NoRel 1 NoRel - Below 4 Sup s NoRel + NoRel 1 NoRel - Below 5 Sup s NoRel + Right \ldots Right ) NoRel (
+crohme2019/valid/RIT_2014_117.inkml	1 NoRel - Below [ Right ( Right k Right + Right 1 Right ) Right \pi Right ]
+crohme2019/valid/31_em_188.inkml	\tan Right a Right = Right - Above \sin Right a NoRel \cos Right a
+crohme2019/valid/504_em_42.inkml	1 NoRel - Below 1 Right - NoRel - NoRel z NoRel = Right 1 Right + Right x Right + Right x Sup 2 NoRel + Right \ldots Right + Right x Sup n NoRel + Right \ldots
+crohme2019/valid/RIT_2014_24.inkml	n Right + Right 1 Right - Right 1 NoRel - Below n Right + Right 1 NoRel = NoRel n NoRel - Below n Right + Right 1
+crohme2019/valid/RIT_2014_59.inkml	F Sup 3
+crohme2019/valid/513_em_308.inkml	[ Right a Right ] Right [ Right b Right ] Right = Right [ Right a Right b Right ]
+crohme2019/valid/23_em_62.inkml	t Sup 2 NoRel + Right t Right + Right x
+crohme2019/valid/23_em_72.inkml	\sum Below i Right = Right 1 NoRel n NoRel x Sub n NoRel = Right \sum Below i Right = Right 1 NoRel n NoRel y Sub n
+crohme2019/valid/35_em_10.inkml	g Sub a Right b
+crohme2019/valid/RIT_2014_98.inkml	G Sub b NoRel = Right g Right G Sub a NoRel g Sup - Right 1
+crohme2019/valid/512_em_297.inkml	a Right l Right l Right z
+crohme2019/valid/20_em_28.inkml	1 Right . Right 3 Right 7 Right 9 Right 1 Right 9 Right 4 Right 1 Right 7 Right 1
+crohme2019/valid/RIT_2014_253.inkml	y NoRel 1 NoRel - Below b NoRel ( NoRel ) Sup b NoRel \leq NoRel x NoRel 1 NoRel - Below b NoRel ( NoRel ) Sup b
+crohme2019/valid/512_em_293.inkml	\lim Below n Right \rightarrow Right \infty NoRel 4 NoRel - Below 3 NoRel - Above 2 Right n Sup 2 NoRel + Right 3 Right n Right + Right 1 NoRel n Sup 2
+crohme2019/valid/501_em_24.inkml	\log Right v Right = Right b Right \log Right 2
+crohme2019/valid/RIT_2014_231.inkml	3 Right \sqrt Inside 7
+crohme2019/valid/RIT_2014_135.inkml	b Sup \log Sub b NoRel X NoRel = Right X
+crohme2019/valid/RIT_2014_113.inkml	\int Right \sin Right ( Right x Right ) Right \sin Right ( Right 2 Right x Right ) Right d Right x
+crohme2019/valid/515_em_366.inkml	a Sub 0 NoRel \ldots Right a Sub n
+crohme2019/valid/514_em_341.inkml	\tan Right \alpha Sub i
+crohme2019/valid/RIT_2014_82.inkml	s Sub 2
+crohme2019/valid/RIT_2014_139.inkml	M Sub 1
+crohme2019/valid/37_em_4.inkml	( Right a Sub 1 NoRel b Sub 1 NoRel ) Right ( Right a Sub 1 NoRel b Sub 2 NoRel ) Right = Right ( Right a Sub 1 NoRel b Sub 2 NoRel ) Right ( Right b Sub 1 NoRel b Sub 2 NoRel )
+crohme2019/valid/RIT_2014_170.inkml	\sin Right x Right - Right \sin Right y Right = Right 2 Right \cos Right ( NoRel x Right + Right y NoRel - Below 2 NoRel ) Right \sin Right ( NoRel x Right - Right y NoRel - Below 2 NoRel )
+crohme2019/valid/501_em_15.inkml	2 Right 9 Right 3 Right 0 Right 2 NoRel - Below 7 Right 5 Right 8 Right 0 Right 3 NoRel = NoRel 7 Right \times Right 7 Right \times Right 1 Right 3 Right \times Right 4 Right 6 NoRel - Below 7 Right \times Right 7 Right \times Right 1 Right 3 Right \times Right 1 Right 1 Right 9 NoRel = NoRel 4 Right 6 NoRel - Below 1 Right 1 Right 9
+crohme2019/valid/510_em_101.inkml	6 Right \div Right 2 NoRel - Below 1 Right 0 Right \div Right 2 NoRel = NoRel 3 NoRel - Below 5
+crohme2019/valid/RIT_2014_210.inkml	1 NoRel - Below 4 NoRel + NoRel 2 NoRel - Below 5 NoRel = NoRel 1 Right \times Right 5 NoRel - Below 4 Right \times Right 5 NoRel + NoRel 2 Right \times Right 4 NoRel - Below 5 Right \times Right 4 NoRel = NoRel 5 NoRel - Below 2 Right 0 NoRel + NoRel 8 NoRel - Below 2 Right 0
+crohme2019/valid/508_em_82.inkml	- Right a Right b Right x Right - Right b Sup 2 NoRel y Right + Right a Sup 2 NoRel y Right + Right a Right b Right z Right = Right 0
+crohme2019/valid/518_em_418.inkml	r Right \times Right n
+crohme2019/valid/504_em_45.inkml	5 Right x Sup 2 NoRel + Right 2 Right x Right + Right 3 Right x Right + Right 5 Right + Right 7
+crohme2019/valid/513_em_309.inkml	c Right + Right i Right d Right ) NoRel ( NoRel ( Right c Right - Right i Right d Right )
+crohme2019/valid/RIT_2014_142.inkml	1 NoRel - Below \sqrt Inside k Right + Right 1
+crohme2019/valid/18_em_17.inkml	u Right ( Right t Right ) Right = Right - Above u Right ( Right 0 Right ) NoRel 1 Right - Right t Right u Right ( Right 0 Right )
+crohme2019/valid/RIT_2014_169.inkml	\beta NoRel + Right 1 NoRel j
+crohme2019/valid/518_em_437.inkml	| Right x Right + Right y Right | Right \leq Right | Right x Right | Right + Right | Right y Right |
+crohme2019/valid/20_em_34.inkml	\sin Right ( Right a Right + Right b Right )
+crohme2019/valid/20_em_41.inkml	9 Right / Right 5
+crohme2019/valid/18_em_19.inkml	y Right \neq Right x
+crohme2019/valid/34_em_247.inkml	( Right \sum Below k Right = Right 1 NoRel n NoRel a Sub k NoRel ) NoRel 1 NoRel - Below 2 NoRel \leq Right \sum Below k Right = Right 1 NoRel n NoRel a Sub k NoRel 1 NoRel - Below 2
+crohme2019/valid/18_em_4.inkml	e Sup - Right n
+crohme2019/valid/23_em_63.inkml	F Right = Right \sqrt Inside F Sub x NoRel 2 NoRel + Right F Sub y NoRel 2
+crohme2019/valid/34_em_242.inkml	x Sup 2 NoRel - Below x Sup 2 NoRel - Above x Right + Right 1 NoRel x Right + Right 2
+crohme2019/valid/RIT_2014_2.inkml	\lim Right f Right ( Right x Right ) Right = Right L NoRel x Right \rightarrow Right c
+crohme2019/valid/505_em_54.inkml	\sum Above k NoRel n Right = Right 1 NoRel x Sub n NoRel z Sub n
+crohme2019/valid/511_em_265.inkml	b Sub R
+crohme2019/valid/RIT_2014_41.inkml	- Right \sqrt Inside 3
+crohme2019/valid/36_em_27.inkml	f Sub d NoRel = Right - Above A Sub m Right a Right x NoRel - Right A NoRel A Sub m Right a Right x NoRel - Right A Sub m Right i Right n
+crohme2019/valid/RIT_2014_39.inkml	\sqrt Inside - Right 4
+crohme2019/valid/513_em_322.inkml	x Sub L Right L NoRel \leq Right x Sub L
+crohme2019/valid/RIT_2014_14.inkml	\sum Right f Sub x NoRel = Right 0
+crohme2019/valid/515_em_356.inkml	x Right \rightarrow Right 0
+crohme2019/valid/23_em_57.inkml	\sqrt Inside 3 Sup 2 NoRel + Right 2 Sup 2 NoRel = Right \sqrt Inside 1 Right 3
+crohme2019/valid/503_em_32.inkml	F Right \neq Right H
+crohme2019/valid/510_em_104.inkml	u Sup 2 NoRel = Right u Sub 1 NoRel 2 NoRel + Right u Sup 2 NoRel 2 NoRel + Right u Sub 3 NoRel 2
+crohme2019/valid/RIT_2014_306.inkml	( Right a Right + Right b Right ) Right u Right = Right a Right u Right + Right b Right v
+crohme2019/valid/18_em_18.inkml	\theta Sub 3 NoRel = Right \theta Sub 1 NoRel + Right \theta Sub 2
+crohme2019/valid/RIT_2014_17.inkml	P Sub 1 NoRel P Sub 3
+crohme2019/valid/514_em_339.inkml	f NoRel a Right ) NoRel ( NoRel - Right f NoRel b Right ) NoRel ( NoRel - Below a Right - Right b
+crohme2019/valid/31_em_185.inkml	- Right P Right ( Right V Sub 2 NoRel - Right V Sub 1 NoRel )
+crohme2019/valid/RIT_2014_305.inkml	\pi NoRel - Below \alpha
+crohme2019/valid/RIT_2014_260.inkml	\beta Right \neq Right 0
+crohme2019/valid/515_em_359.inkml	( Right 4 Right / Right 3 Right COMMA Right 2 Right / Right 3 Right COMMA Right 4 Right / Right 3 Right )
+crohme2019/valid/502_em_8.inkml	\int Sub - Right \infty NoRel \infty NoRel e Sup - Right w Sup 2 NoRel d Right w Right = NoRel \pi NoRel \sqrt
+crohme2019/valid/517_em_403.inkml	i Sub 1 NoRel - Right i Sub 2 NoRel - Right i Sub 3 NoRel - Right i Sub 0 NoRel = Right 0
+crohme2019/valid/28_em_146.inkml	1 Right 9 Right 9 NoRel - Below 1 Right 1
+crohme2019/valid/519_em_454.inkml	\int Right f Right ( Right x Right ) Right - Right g Right ( Right x Right ) Right d Right x Right = Right \int Right f Right ( Right x Right ) Right d Right x Right - Right \int Right g Right ( Right x Right ) Right d Right x
+crohme2019/valid/RIT_2014_307.inkml	\sqrt Inside 9 Right 8
+crohme2019/valid/RIT_2014_29.inkml	- Right 7
+crohme2019/valid/516_em_395.inkml	n Right \neq Right 0
+crohme2019/valid/506_em_58.inkml	\cos Right ( Right x Right - Right y Right ) Right = Right \cos Right x Right \cos Right y Right + Right \sin Right x Right \sin Right y
+crohme2019/valid/23_em_71.inkml	c Right T Sup \prime
+crohme2019/valid/28_em_144.inkml	\sum Below i NoRel k Sub i
+crohme2019/valid/27_em_117.inkml	\cos Right \theta Right \sin Right \theta Right + Right \theta Right + Right \theta Sup 2
+crohme2019/valid/515_em_369.inkml	a Sup 2 NoRel + Right a Right b Right + Right b Right a Right + Right b Sup 2 NoRel = Right a Right + Right b
+crohme2019/valid/RIT_2014_194.inkml	x Sup 2 NoRel ( Right x Right - Right 1 Right ) Right ( Right x Sup 2 NoRel + Right x Right + Right 1 Right ) Right + Right ( Right x Sup 2 NoRel + Right x Right + Right 1 Right )
+crohme2019/valid/28_em_132.inkml	S Right / Right V
+crohme2019/valid/502_em_3.inkml	x Right - Right 2 Right ) NoRel ( NoRel [ Right ( Right x Sup 2 NoRel - Right x Right ) Right + NoRel 5 Right x Right - Right 5 Right ) NoRel ( NoRel ]
+crohme2019/valid/RIT_2014_124.inkml	\pi Right e Right \sqrt Inside x
+crohme2019/valid/508_em_85.inkml	9 Right . Right 8
+crohme2019/valid/34_em_244.inkml	1 Right 0 NoRel - Below 3 NoRel = Right 3 Right . Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right 3 Right \ldots
+crohme2019/valid/519_em_441.inkml	1 NoRel - Below \tan Right ( Right \theta Right ) NoRel = NoRel \cos Right ( Right \theta Right ) NoRel - Below \sin Right ( Right \theta Right )
+crohme2019/valid/20_em_38.inkml	Y Sub t Right + Right 1
+crohme2019/valid/29_em_157.inkml	y Right = Right y Right \prime
+crohme2019/valid/502_em_15.inkml	\theta Sub i Right + Right 1 NoRel = Right \theta Sub i NoRel - Right \alpha Sub i
+crohme2019/valid/28_em_148.inkml	x Right ( Right t Right ) Right = Right x Sub 1 NoRel ( Right t Right ) Right + Right x Sub 2 NoRel ( Right t Right )
+crohme2019/valid/512_em_287.inkml	\sqrt Inside 1 Right 7 NoRel \div Right \sqrt Inside 5
+crohme2019/valid/20_em_47.inkml	5 Right 3 Right 9 Right 5
+crohme2019/valid/32_em_219.inkml	E Sub 1 NoRel \lt Right E Right \lt Right E Sub 2
+crohme2019/valid/36_em_30.inkml	\tan Right \gamma Sub i
+crohme2019/valid/35_em_6.inkml	1 Right 5 Right \div Right 5 Right = Right 3
+crohme2019/valid/RIT_2014_290.inkml	\sum Below k Right = Right 1 NoRel N NoRel a Sub n NoRel \leq Right \sum Below k Right = Right 1 NoRel N NoRel b Sub n NoRel \leq Right \sum Right b Sub n NoRel n Right = Right 1 NoRel \infty
+crohme2019/valid/507_em_70.inkml	- Right \infty Right \leq Right x Right \leq Right \infty
+crohme2019/valid/RIT_2014_74.inkml	- Right P Sub 1 NoRel / Right P Sub 2
+crohme2019/valid/RIT_2014_244.inkml	1 Right x Sup 3 NoRel + Right 3 Right x Sup 2 Sub + NoRel 3 Right x Right + Right 1
+crohme2019/valid/RIT_2014_94.inkml	\sum Above \infty NoRel n Right = Right 1 NoRel \cos Right \pi Right n NoRel - Below n
+crohme2019/valid/519_em_460.inkml	2 Right x Right + Right 4 Right y Right + Right 8 Right z Right - Right 3 Right x Right - Right 7 Right y Right - Right 2 Right z Right + Right 4 Right x
+crohme2019/valid/35_em_18.inkml	\pi Right \int Sub 0 NoRel 1 NoRel x Right d Right x
+crohme2019/valid/508_em_86.inkml	\sqrt Inside 4 Right 5 NoRel = Right \sqrt Inside 9 Right \times Right 5 NoRel = Right 3 Right \sqrt Inside 5
+crohme2019/valid/36_em_29.inkml	C Sub 1 NoRel y Sub 1 NoRel + Right C Sub 2 NoRel y Sub 2
+crohme2019/valid/26_em_75.inkml	1 Right - Right 2 Right a Right + Right b Right - Right 2 Right a Right b Right = Right 1 Right - Right 2 Right b Right + Right a Right - Right 2 Right a Right b
+crohme2019/valid/RIT_2014_234.inkml	1 Right - Right \sqrt Inside 3 NoRel - Below 1 Right + Right \sqrt Inside 3
+crohme2019/valid/512_em_276.inkml	y Sub i Right + Right 1 NoRel = Right y Sub i NoRel + Right \int Sub x Sub i NoRel x Sub i Right + Right 1 NoRel f Right d Right x
+crohme2019/valid/RIT_2014_184.inkml	\lim Below b Right \rightarrow Right \infty NoRel f Right ( Right b Right ) Right = Right 0
+crohme2019/valid/RIT_2014_25.inkml	\sin Right ( Right t Right ) Right / Right \cos Right ( Right t Right ) NoRel = NoRel \sin Right ( Right t Right ) Right / Right \cos Right ( Right t Right )
+crohme2019/valid/512_em_296.inkml	k Right g
+crohme2019/valid/RIT_2014_214.inkml	\sum Below i Right = Right 1 NoRel n Right + Right 1 NoRel i Right = Right \sum Below i Right = Right 1 NoRel n NoRel i Right + Right ( Right n Right + Right 1 Right ) Right = NoRel n Right ( Right n Right + Right 1 Right ) NoRel - Below 2 NoRel + Right n Right + Right 1
+crohme2019/valid/501_em_8.inkml	\sin Right \alpha Right \sin Right \beta Right = NoRel 1 NoRel - Below 2 NoRel [ Right \cos Right ( Right \alpha Right - Right \beta Right ) Right - Right \cos Right ( Right \alpha Right + Right \beta Right ) Right ]
+crohme2019/valid/514_em_348.inkml	- Right 2 Right y NoRel - Below x Sup 2 NoRel - Right y Sup 2 NoRel = NoRel - Right 2 Right y NoRel - Below x Sup 2 NoRel - Right y Sup 2
+crohme2019/valid/502_em_16.inkml	v Sup 2 NoRel - Right v Sub v NoRel 2 NoRel \sqrt Right = NoRel v Sub v NoRel 2 NoRel - NoRel v Sup 2 NoRel - Right v Sub v NoRel 2 NoRel \sqrt
+crohme2019/valid/509_em_94.inkml	b Sub 1 NoRel B Sub 1 NoRel + Right b Sub 2 NoRel B Sub 2 NoRel + Right b Sub 3 NoRel B Sub 3
+crohme2019/valid/501_em_10.inkml	P Sub t NoRel = Right R Sub t NoRel - Right I Sub t NoRel = Right ( Right 1 Right + Right i Right ) Right P Sub t Right - Right 1 NoRel + Right ( Right R Sub t NoRel - Right R Sub t Right - Right 1 NoRel )
+crohme2019/valid/502_em_10.inkml	\beta Right = Right 1
+crohme2019/valid/RIT_2014_192.inkml	\log Sub b NoRel x NoRel - Below \log Sub b NoRel a
+crohme2019/valid/RIT_2014_168.inkml	2 Right \pi Right n Right ! Right e Right = Right 2 Right \pi Right n Right ! Right + NoRel 2 Right \pi Right n Right ! NoRel - Below 2 NoRel + NoRel 2 Right \pi Right n Right ! NoRel - Below 3 Right ! NoRel + NoRel 2 Right \pi Right n Sup ! NoRel - Below 4 Right ! NoRel + Right \ldots
+crohme2019/valid/518_em_417.inkml	d NoRel - Below d Right x NoRel \sqrt Inside x NoRel = NoRel 1 NoRel - Below 2 Right \sqrt Inside x
+crohme2019/valid/34_em_248.inkml	q Sub i NoRel + Right a
+crohme2019/valid/RIT_2014_95.inkml	2 Right 0
+crohme2019/valid/35_em_19.inkml	2 Right \div Right 3
+crohme2019/valid/519_em_456.inkml	\sin Right 2 Right a Right = Right 2 Right \sin Right a Right \cos Right a
+crohme2019/valid/RIT_2014_262.inkml	2 Right x Sup 2 NoRel + Right 8 Right x Right + Right 8 Right - Right 6
+crohme2019/valid/503_em_26.inkml	\lim Below z Right \rightarrow Right z Sub 0 NoRel f Right ( Right z Right )
+crohme2019/valid/510_em_105.inkml	4 NoRel - Below 3
+crohme2019/valid/RIT_2014_154.inkml	1 NoRel - Below 9
+crohme2019/valid/27_em_123.inkml	\int Right 2 Right x Sup - Right 2 NoRel d Right x
+crohme2019/valid/RIT_2014_289.inkml	- Right | Right y Right | Right \leq Right y Right \leq Right | Right y Right |
+crohme2019/valid/37_em_8.inkml	\tan Right ( Right 3 Right x Right ) Right = Right - Above 3 Right \tan Right ( Right x Right ) Right - Right \tan Sup 3 NoRel ( Right x Right ) NoRel 1 Right - Right 3 Right \tan Sup 2 NoRel ( Right x Right )
+crohme2019/valid/RIT_2014_284.inkml	- Right 3 Right 9
+crohme2019/valid/36_em_45.inkml	x Right + Right ( Right - Right x Right ) Right \geq Right 0 Right + Right ( Right - Right x Right )
+crohme2019/valid/520_em_467.inkml	\exists Right h Right COMMA Right h Sup 2 NoRel = Right a Sup 2 NoRel + Right b Sup 2
+crohme2019/valid/RIT_2014_171.inkml	( Right ( NoRel ) Right ) Right ( Right ( NoRel ) Right + Right 1 Right ) NoRel - Below 2 NoRel + Right ( Right j Right + Right 1 Right ) NoRel j NoRel j
+crohme2019/valid/513_em_323.inkml	\sum Right \pi Right r Sup 2 NoRel = Right \pi Right \sum Right r Sup 2
+crohme2019/valid/RIT_2014_161.inkml	x Sup 2 NoRel y Sup 3 NoRel + Right 2 Right x Sup 2 NoRel y Right + Right 4 Right x Right y Sup 3 NoRel + Right 8 Right x Right y
+crohme2019/valid/501_em_3.inkml	k Sub e
+crohme2019/valid/RIT_2014_177.inkml	Y Sub 1 NoRel + Right Y Sub 2 NoRel + Right Y Sub 3 NoRel + NoRel + Right Y Sub n NoRel \ldots
+crohme2019/valid/23_em_61.inkml	\cos Right 2 Right \alpha
+crohme2019/valid/RIT_2014_78.inkml	\pm Right \theta Sub 0
+crohme2019/valid/RIT_2014_229.inkml	d NoRel - Below d Right \theta NoRel \sqrt Inside \theta NoRel = NoRel 1 NoRel - Below 2 Right \sqrt Inside \theta
+crohme2019/valid/508_em_81.inkml	c Sub 1 NoRel + Right c Sub 2 NoRel + Right c Sub 3
+crohme2019/valid/27_em_108.inkml	0 Right + Right A
+crohme2019/valid/517_em_405.inkml	4 Right + Right 4 Right + NoRel 4 NoRel - Below \sqrt Inside 4
+crohme2019/valid/514_em_331.inkml	a Right + NoRel - Right b Right ) NoRel ( NoRel = NoRel - Right b Right ) NoRel ( NoRel + Right a
+crohme2019/valid/RIT_2014_147.inkml	( Right a Right ( Right b Sup 2 NoRel ) Right ) Right + Right ( Right d Sup 3 NoRel )
+crohme2019/valid/504_em_44.inkml	8 Sub 1 Right 6
+crohme2019/valid/32_em_222.inkml	d Right a NoRel - Below d Right c NoRel = NoRel c NoRel - Below a
+crohme2019/valid/505_em_48.inkml	( Right a Right - Right x Right ) NoRel d NoRel ( NoRel - Right x Right ) Right - Right b Right c Right = Right x Sup 2 NoRel - Right ( Right a Right + Right d Right ) Right x Right + Right ( Right a Right d Right - Right b Right c Right )
+crohme2019/valid/RIT_2014_8.inkml	4 Right x Sup 3 NoRel \sin Right x Right + Right x Sup 4 NoRel \cos Right x
+crohme2019/valid/RIT_2014_266.inkml	\sum Right \alpha Right = Right 3 Right p Right = Right - Right 2 Right 1
+crohme2019/valid/518_em_436.inkml	E Right ( Right c Right )
+crohme2019/valid/37_em_17.inkml	a Right \sqrt Inside b NoRel \pm Right c Right \sqrt Inside b NoRel = Right ( Right a Right \pm Right c Right ) Right \sqrt Inside b
+crohme2019/valid/36_em_38.inkml	2 Right 4 Right \pi
+crohme2019/valid/26_em_78.inkml	1 Right 6 Right 9
+crohme2019/valid/RIT_2014_103.inkml	1 Right - Right 2 Right a NoRel - Below 1 Right + Right a NoRel = NoRel 1 Right - Right 2 Right b NoRel - Below 1 Right + Right b
+crohme2019/valid/513_em_324.inkml	\sqrt Inside a NoRel + Right \sqrt Inside b
+crohme2019/valid/513_em_305.inkml	\cos Right ( Right \beta Right )
+crohme2019/valid/514_em_347.inkml	r Right = Right \lim NoRel a Sub n NoRel a Sub n Right + Right 1 NoRel | NoRel | NoRel | NoRel | NoRel -
+crohme2019/valid/RIT_2014_90.inkml	m Right \geq Right 1
+crohme2019/valid/511_em_272.inkml	\tan Right ( Right - Right \theta Right ) Right = Right - Right \tan Right \theta
+crohme2019/valid/RIT_2014_269.inkml	B Right B Sup - Right 1
+crohme2019/valid/18_em_22.inkml	p Sub 1 NoRel \gamma Sub 1 NoRel p Sub 2 NoRel \gamma Sub 2 NoRel \ldots Right p Sub n NoRel \gamma Sub n
+crohme2019/valid/516_em_390.inkml	a NoRel - Below b
+crohme2019/valid/27_em_121.inkml	1 Right - Right z Right + Right z Sup 2 NoRel - Right z Sup 3 NoRel + Right z Sup 4 NoRel - Right z Sup 5 NoRel + Right \ldots
+crohme2019/valid/RIT_2014_34.inkml	B Right F Right F Right S
+crohme2019/valid/31_em_194.inkml	b Sup 2 Right x NoRel - Below b Sup y
+crohme2019/valid/514_em_330.inkml	k Right g
+crohme2019/valid/RIT_2014_33.inkml	\tan Right 2 Right u Right = NoRel 2 Right \tan Right u NoRel - Below 1 Right - Right \tan Right u NoRel 2
+crohme2019/valid/31_em_196.inkml	3 Right + Right 9 Right + Right 7 Right + Right 3 Right + Right 6 Right + Right 1 Right 0 Right + Right 4 NoRel - Below 7 NoRel = Right 6
+crohme2019/valid/20_em_37.inkml	3 Right \times Right 3 Sup 2 NoRel - Below 2 NoRel + NoRel 5 Right \times Right ( Right - Right 5 Right ) Sup 2 NoRel - Below 2 NoRel = NoRel 3 Right \times Right v Sub 1 NoRel 2 NoRel - Below 2 NoRel + NoRel 5 Right \times Right v Sub 2 NoRel 2 NoRel - Below 2
+crohme2019/valid/RIT_2014_235.inkml	\lim Right f Right ( Right x Right ) NoRel x Right \rightarrow Right c
+crohme2019/valid/507_em_77.inkml	3 NoRel \sqrt Inside ( Right 2 Right ) Right ( Right 9 Right ) Right ( Right 1 Right 2 Right ) NoRel = Right \sqrt Above 3 NoRel 2 Right 1 Right 6 NoRel = Right 6
+crohme2019/valid/RIT_2014_279.inkml	4 Right - Right 4 Right + Right 4 Right - Right \sqrt Inside 4
+crohme2019/valid/519_em_463.inkml	P Sub 0
+crohme2019/valid/512_em_280.inkml	3 Right . Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 0 Right 3
+crohme2019/valid/RIT_2014_270.inkml	c Right \neq Right 2
+crohme2019/valid/RIT_2014_105.inkml	\sin Right \theta Sub 1 NoRel \sin Right \theta Sub 2
+crohme2019/valid/RIT_2014_222.inkml	( Right x Right + Right 1 Right ) Right ( Right x Right + Right 2 Right ) Sup 2 NoRel 1 NoRel - Right = NoRel 1 NoRel - Below x Right + Right 1 NoRel 1 NoRel - Below x Right + Right 2 NoRel - NoRel 1 NoRel - Below ( Right x Right + Right 2 Right ) Sup 2
+crohme2019/valid/RIT_2014_127.inkml	q Sub = NoRel q Sub 1 NoRel q Sub 2
+crohme2019/valid/515_em_353.inkml	a Right ( Right b Right + Right k Right ) Right = Right a Right b Right + Right a Right k
+crohme2019/valid/505_em_56.inkml	1 NoRel - Below \sqrt Inside 2 NoRel + NoRel 1 NoRel - Below \sqrt Inside 2 NoRel i
+crohme2019/valid/23_em_64.inkml	\log Sub e NoRel x
+crohme2019/valid/RIT_2014_126.inkml	1 NoRel - Below 1 Right - Right z Sup - Right 1
+crohme2019/valid/514_em_328.inkml	a Sup p NoRel + Right b Sup p NoRel = Right c Sup p
+crohme2019/valid/34_em_232.inkml	- NoRel t Sub \theta NoRel - Right 1 NoRel = Right t Sub - Right \theta
+crohme2019/valid/511_em_250.inkml	r Right o Right t
+crohme2019/valid/507_em_73.inkml	a Right ( Right t Right ) Right = Right \int Right a Sup ( Right 1 Right ) NoRel d Right t Right = Right \int Right a Sub 0 NoRel ( Right 1 Right ) NoRel d Right t
+crohme2019/valid/36_em_25.inkml	a Sup 2 NoRel - Below a Right + Right \sqrt Inside a
+crohme2019/valid/518_em_427.inkml	\sqrt Inside 7 NoRel + Right \sqrt Inside 2 Right 8
+crohme2019/valid/32_em_218.inkml	g Sup 2 NoRel = Right g Right g Right = Right e
+crohme2019/valid/32_em_217.inkml	\sqrt Inside - Right 1
+crohme2019/valid/20_em_43.inkml	6 Right 4 Right 8 Right + Right 6 Right 4 Right 8 Right ) NoRel ( NoRel 1 NoRel - Below 4 NoRel + Right 8
+crohme2019/valid/503_em_34.inkml	\sin Right ( Right k Right ) NoRel - Below k
+crohme2019/valid/27_em_115.inkml	7 Right \sqrt Inside 2
+crohme2019/valid/RIT_2014_51.inkml	1 Right COMMA Right 0 Right 0 Right 0 Right COMMA Right 0 Right 0 Right 0 Right COMMA Right 0 Right 0 Right 0
+crohme2019/valid/RIT_2014_198.inkml	| Right x Right | Right | Right y Right | Right = Right | Right x Right y Right |
+crohme2019/valid/506_em_61.inkml	\sqrt Inside 4 Sup 4 Right ! NoRel \sqrt NoRel \sqrt
+crohme2019/valid/26_em_98.inkml	( Right \sqrt Inside 2 NoRel x Right + Right 2 Right ) Right ( Right x Right + Right 3 Right )
+crohme2019/valid/RIT_2014_80.inkml	4 Right ! Right + Right 4 Right ! Right - NoRel 4 Right ! NoRel - Below 4
+crohme2019/valid/516_em_376.inkml	2 Sup - Right 4
+crohme2019/valid/513_em_304.inkml	\pi Right d Right = Right 2 Right \pi Right r
+crohme2019/valid/510_em_107.inkml	\sqrt Inside a Right b NoRel = Right \sqrt Inside a NoRel \sqrt Inside b
+crohme2019/valid/37_em_30.inkml	f Right ( Right f Right ( Right x Right ) Right ) Right = Right g Right ( Right g Right ( Right x Right ) Right )
+crohme2019/valid/512_em_282.inkml	\sqrt Above 3 NoRel x Sup 2
+crohme2019/valid/RIT_2014_58.inkml	1 Right + Right x Right + Right x Sup 2 NoRel COMMA Right x Right + Right x Sup 2 NoRel COMMA Right x Sup 2
+crohme2019/valid/32_em_215.inkml	m Sup 3
+crohme2019/valid/RIT_2014_88.inkml	4 Right + Right 4 NoRel - Below 4 Right + Right 4
+crohme2019/valid/513_em_319.inkml	x Right \gt Right A
+crohme2019/valid/28_em_138.inkml	R Sup 0 NoRel 0
+crohme2019/valid/RIT_2014_21.inkml	\sum Below i Right = Right 1 NoRel n Right + Right 1 NoRel i
+crohme2019/valid/520_em_464.inkml	\forall Right \lambda Right \in Right [ Right \lambda Sub 0 NoRel COMMA Right \lambda Sub \infty NoRel ] Right COMMA Right \exists Right \lambda Sub i
+crohme2019/valid/501_em_1.inkml	\sqrt Inside 5 Right 0
+crohme2019/valid/RIT_2014_123.inkml	\int Below x Sub i Right - Right 1 NoRel x Sub i NoRel f Right ( Right x Right ) Right d Right x
+crohme2019/valid/RIT_2014_70.inkml	1 Right + Right 1 Right + Right 1 Right + Right 1 Right + Right 1 Right = Right 5
+crohme2019/valid/RIT_2014_175.inkml	\cos Right ( Right \sigma Right ) Right \gt Right 1 Right - Right 2 Right ( NoRel \sigma NoRel - Below 2 NoRel ) Sup 2 NoRel = Right 1 Right - NoRel \sigma Sup 2 NoRel - Below 2
+crohme2019/valid/36_em_28.inkml	1 Right 2 Right \div Right 3
+crohme2019/valid/28_em_139.inkml	x Right y Right x Right + Right x Right y Right + Right y Right x Right + Right y Right = Right x Sup 2 NoRel y Right + Right x Right y Right + NoRel + Right y NoRel x Right y
+crohme2019/valid/37_em_20.inkml	0 Right . Right 9 Right - Right 0 Right . Right 9 Right = Right 0
+crohme2019/valid/32_em_200.inkml	\pi NoRel - Below 8
+crohme2019/valid/515_em_354.inkml	4 Right \sqrt Inside 3
+crohme2019/valid/513_em_317.inkml	7 Right x NoRel - Below 7 NoRel = NoRel 1 Right 4 NoRel - Below 7
+crohme2019/valid/RIT_2014_236.inkml	n Right \neq Right a
+crohme2019/valid/RIT_2014_6.inkml	e Sup m Right x NoRel y Right = NoRel n NoRel - Below m NoRel e Sup m Right x NoRel + Right C
+crohme2019/valid/RIT_2014_186.inkml	\sin Right ( Right 3 Right x Right ) Right = Right - Right 4 Right \sin Sup 3 NoRel ( Right x Right ) Right + Right 3 Right \sin Right ( Right x Right )
+crohme2019/valid/RIT_2014_230.inkml	x Sup 2 NoRel + Right 2 Right ) NoRel ( NoRel 2 NoRel - NoRel 2 Right x Right ) NoRel ( NoRel 2
+crohme2019/valid/RIT_2014_43.inkml	z Sup d NoRel + Right z Right = Right z
+crohme2019/valid/501_em_11.inkml	F Right = Right \{ Right \{ Right L Sub 1 Right COMMA Right 1 NoRel COMMA Right \ldots Right COMMA Right L Sub 1 Right COMMA Right n Sub 1 NoRel \} Right COMMA Right \ldots Right COMMA Right \{ Right L Sub k Right COMMA Right 1 NoRel COMMA Right \ldots Right COMMA Right L Sub k Right COMMA Right n Sub k NoRel \} Right \}
+crohme2019/valid/516_em_385.inkml	\int Right [ Right g Right ( Right x Right ) Right ] Sup n NoRel d Right [ Right g Right ( Right x Right ) Right ]
+crohme2019/valid/505_em_49.inkml	1 Right \sqrt Inside 7 NoRel + Right 2 Right \sqrt Inside 7
+crohme2019/valid/501_em_20.inkml	q Right = Right ( Right x Sub q NoRel COMMA Right y Sub q NoRel COMMA Right z Sub q NoRel COMMA Right w Sub q NoRel )
+crohme2019/valid/35_em_16.inkml	\sum Above \infty NoRel m Right = Right 1 NoRel \sum Below n Right = Right 1 NoRel \infty NoRel m Sup 2 NoRel n NoRel - Below 3 Sup m NoRel ( Right m Right 3 Sup n NoRel + Right n Right 3 Sup m NoRel )
+crohme2019/valid/506_em_60.inkml	b Right a Right g Sub 1
+crohme2019/valid/506_em_57.inkml	4 NoRel - Below 4 NoRel + NoRel 4 NoRel - Below 4
+crohme2019/valid/28_em_141.inkml	2 Right A Right B NoRel - Below A Right + Right B
+crohme2019/valid/23_em_59.inkml	\sum Above n NoRel r Right = Right 1 NoRel a Right r Sup b NoRel = Right a Right \sum Below r Right = Right 1 NoRel n NoRel r Sup b
+crohme2019/valid/RIT_2014_114.inkml	i Right \neq Right 1
+crohme2019/valid/RIT_2014_3.inkml	d Right = NoRel 2 Right r Right \tan Right a Right \tan Right b NoRel - Below \tan Right a Right + Right \tan Right b
+crohme2019/valid/35_em_22.inkml	x Right - Right \pi Right ( Right x Right )
+crohme2019/valid/18_em_11.inkml	q Sub t NoRel = Right 2 Right q
+crohme2019/valid/514_em_335.inkml	2 Right - NoRel 2 NoRel \sqrt NoRel \sqrt NoRel - Below 2

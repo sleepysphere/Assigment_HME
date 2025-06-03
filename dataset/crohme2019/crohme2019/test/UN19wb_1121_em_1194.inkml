@@ -1,0 +1,89 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">23</annotation>
+<annotation type="gender">M</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1121</annotation>
+<annotation type="truth">$\frac{149}{84}$</annotation>
+<annotation type="UI">CROHME19_1194</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mfrac xml:id="_1">
+			<mrow>
+				<mn xml:id="1_1">1</mn>
+				<mrow>
+					<mn xml:id="4_1">4</mn>
+					<mn xml:id="9_1">9</mn>
+				</mrow>
+			</mrow>
+			<mrow>
+				<mn xml:id="8_1">8</mn>
+				<mn xml:id="4_2">4</mn>
+			</mrow>
+		</mfrac>
+	</math>
+</annotationXML>
+<trace id="0">
+595 80, 595 81, 596 81, 599 86, 600 88, 599 90, 599 93, 599 95, 598 97, 598 100, 597 102, 597 105, 596 107, 596 109, 596 111, 596 113, 594 115, 595 115
+</trace>
+<trace id="1">
+616 82, 616 83, 615 88, 614 90, 614 91, 614 93, 614 94, 614 96, 614 97, 613 97, 614 97, 616 98, 616 99, 622 99, 624 99, 627 98, 629 98, 631 98, 633 97, 636 97
+</trace>
+<trace id="2">
+627 80, 627 81, 627 82, 628 87, 628 90, 628 92, 627 95, 627 102, 627 106, 626 108, 626 109, 626 110, 625 112
+</trace>
+<trace id="3">
+660 84, 661 84, 661 83, 661 80, 661 78, 661 79, 661 78, 659 76, 655 77, 653 77, 650 82, 649 84, 649 86, 649 88, 650 90, 651 91, 655 92, 657 92, 659 90, 660 90, 661 87, 661 86, 661 85, 661 86, 660 92, 658 100, 658 102, 657 107, 657 109, 656 111, 656 112, 656 113, 655 113
+</trace>
+<trace id="4">
+572 127, 573 127, 576 127, 576 128, 577 127, 581 127, 583 127, 586 126, 588 126, 591 126, 594 125, 597 125, 604 125, 607 124, 611 124, 615 124, 619 124, 623 124, 631 123, 645 121, 650 121, 654 120, 666 119, 672 119, 673 119, 676 119, 676 118
+</trace>
+<trace id="5">
+608 133, 607 133, 607 134, 604 136, 602 140, 601 142, 600 143, 601 145, 603 148, 605 149, 606 150, 609 153, 611 155, 611 154, 611 155, 613 160, 613 162, 612 167, 612 168, 611 170, 609 171, 608 173, 606 173, 606 174, 600 174, 598 174, 597 173, 596 170, 595 170, 596 170, 597 167, 599 165, 601 163, 603 161, 605 160, 611 154, 616 147, 617 145, 619 141, 619 139, 620 137, 620 132, 619 130, 615 130, 611 130, 608 133, 605 136
+</trace>
+<trace id="6">
+632 133, 632 134, 631 139, 630 141, 629 143, 629 145, 628 148, 628 149, 628 150, 631 152, 632 152, 631 153, 632 153, 637 152, 640 152, 643 152, 647 151, 648 151, 651 150, 653 150, 652 150, 653 150, 654 150, 655 150
+</trace>
+<trace id="7">
+645 130, 645 131, 645 132, 645 137, 645 139, 644 145, 644 151, 644 153, 644 154, 643 156, 643 158, 642 162, 642 164, 641 166, 641 167, 641 168
+</trace>
+<traceGroup xml:id="8">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="9">
+		<annotation type="truth">1</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="1_1"/>
+	</traceGroup>
+	<traceGroup xml:id="10">
+		<annotation type="truth">4</annotation>
+		<traceView traceDataRef="1"/>
+		<traceView traceDataRef="2"/>
+		<annotationXML href="4_1"/>
+	</traceGroup>
+	<traceGroup xml:id="11">
+		<annotation type="truth">9</annotation>
+		<traceView traceDataRef="3"/>
+		<annotationXML href="9_1"/>
+	</traceGroup>
+	<traceGroup xml:id="12">
+		<annotation type="truth">-</annotation>
+		<traceView traceDataRef="4"/>
+		<annotationXML href="_1"/>
+	</traceGroup>
+	<traceGroup xml:id="13">
+		<annotation type="truth">8</annotation>
+		<traceView traceDataRef="5"/>
+		<annotationXML href="8_1"/>
+	</traceGroup>
+	<traceGroup xml:id="14">
+		<annotation type="truth">4</annotation>
+		<traceView traceDataRef="6"/>
+		<traceView traceDataRef="7"/>
+		<annotationXML href="4_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>

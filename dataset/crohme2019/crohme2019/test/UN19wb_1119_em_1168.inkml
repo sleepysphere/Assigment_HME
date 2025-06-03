@@ -1,0 +1,40 @@
+<ink xmlns="http://www.w3.org/2003/InkML">
+<traceFormat>
+<channel name="X" type="decimal"/>
+<channel name="Y" type="decimal"/>
+</traceFormat>
+<annotation type="age">35</annotation>
+<annotation type="gender">F</annotation>
+<annotation type="hand">R</annotation>
+<annotation type="writer">UN19wb_1119</annotation>
+<annotation type="truth">$hh$</annotation>
+<annotation type="UI">CROHME19_1168</annotation>
+<annotation type="copyright">UN/LS2N</annotation>
+<annotationXML type="truth" encoding="Content-MathML">
+	<math xmlns='http://www.w3.org/1998/Math/MathML'>
+		<mrow>
+			<mi xml:id="h_1">h</mi>
+			<mi xml:id="h_2">h</mi>
+		</mrow>
+	</math>
+</annotationXML>
+<trace id="0">
+581 117, 581 119, 579 130, 579 137, 579 144, 578 153, 577 163, 575 173, 573 184, 571 194, 569 203, 567 210, 565 217, 563 222, 562 224, 561 225, 561 224, 561 222, 562 218, 564 212, 575 193, 588 181, 592 180, 595 180, 596 182, 596 185, 595 197, 594 204, 593 212, 594 216, 597 217, 601 216, 610 210
+</trace>
+<trace id="1">
+663 123, 661 130, 660 136, 659 142, 658 150, 657 159, 655 169, 653 180, 651 191, 649 201, 648 209, 647 214, 646 219, 647 211, 648 206, 650 200, 652 194, 659 184, 663 181, 667 179, 671 178, 675 178, 676 180, 677 184, 677 190, 676 197, 676 205, 677 210, 681 213, 686 214, 694 213, 699 212
+</trace>
+<traceGroup xml:id="2">
+	<annotation type="truth">Closest Strk</annotation>
+	<traceGroup xml:id="3">
+		<annotation type="truth">h</annotation>
+		<traceView traceDataRef="0"/>
+		<annotationXML href="h_1"/>
+	</traceGroup>
+	<traceGroup xml:id="4">
+		<annotation type="truth">h</annotation>
+		<traceView traceDataRef="1"/>
+		<annotationXML href="h_2"/>
+	</traceGroup>
+</traceGroup>
+</ink>
